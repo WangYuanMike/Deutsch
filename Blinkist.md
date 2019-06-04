@@ -1,4 +1,4 @@
-## Wer sein Bestes gibt, kann nicht verlieren
+# Wer sein Bestes gibt, kann nicht verlieren
 
 Alle Business-Ratgeber, Wirtschaftsmagazine und BWL-Profs sprechen von Erfolg. Aber was ist Erfolg eigentlich? **Je länger du jetzt nachdenken musst, desto klarer wird**: Was Erfolg wirklich ist, liegt im Auge des Betrachters.
 
@@ -10,7 +10,7 @@ Ob wir dieses „äußere Spiel“ gewinnen, hängt von vielen unkontrollierbare
 
 **Wer nur auf den äußeren Erfolg aus ist, gibt sich außerdem schnell mit seinem Ergebnis zufrieden.** Doch in unserer immer komplexeren und schnelllebigeren Welt ist Stillstand gefährlich. Was heute als Innovation gilt, kann morgen schon ein alter Hut sein. Wer aber sein Bestes gibt, lernt aus seinen Fehlern und bleibt offen für Neues.
 
-## Negative Erlebnisse in der Kindheit führen oft dazu, dass wir eine alternative innere Realität entwickeln.
+# Negative Erlebnisse in der Kindheit führen oft dazu, dass wir eine alternative innere Realität entwickeln.
 
 Was braucht ein Kind? **Abgesehen von Sicherheit, Essen und Trinken vor allem das Gefühl, bedingungslos geliebt zu werden. Ein Kind will so akzeptiert werden, wie es ist. Fehlt diese vorbehaltlose Liebe, entsteht ein Mangel, der uns mitunter ein Leben lang zeichnet.**
 
