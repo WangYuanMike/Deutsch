@@ -1,4 +1,4 @@
-## Wir Menschen suchen seit Jahrtausenden nach dem Glück und wissen heute, dass Geld allein nicht glücklich macht.
+# Wir Menschen suchen seit Jahrtausenden nach dem Glück und wissen heute, dass Geld allein nicht glücklich macht.
 
 Wann hast du dich das letzte Mal so richtig glücklich gefühlt? Und warum währt dieses wunderbare Gefühl **bloß** immer nur so kurz? Kann man das nicht irgendwie konservieren? Ist das Herz überhaupt am Glück beteiligt? Zeit für eine **Spurensuche**.
 
