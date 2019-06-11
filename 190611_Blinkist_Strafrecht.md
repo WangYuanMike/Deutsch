@@ -1,0 +1,13 @@
+# Das Strafrecht befasst sich in erster Linie mit vergangenen Verbrechen.
+
+Seit der „Flüchtlingskrise“ haben konservative Kräfte immer wieder härtere Strafen für „ausländische“ oder „fremde“ Straftäter gefordert. **Das sollte abschreckend wirken und wieder für mehr Gerechtigkeit in der Gesellschaft sorgen.** Da fragt man sich doch: Was kann und darf das Strafrecht eigentlich leisten?
+
+Starten wir mit einer grundsätzlichen Betrachtung. Das Strafrecht wird auch als Kriminalstrafrecht bezeichnet. Es sanktioniert Verhaltensweisen, die gegen unser geltendes Rechtssystem verstoßen. Das dient natürlich indirekt dem Schutz bestimmter Rechtsgüter wie der Gesundheit und dem Eigentum von Personen oder der Integrität des Staates. **Das Strafrecht ist aber vor allem retrospektiv angelegt. Es bestraft Verbrechen, die begangen wurden, es wirkt repressiv.**
+
+Forderungen nach härteren Strafen, längerer Untersuchungshaft oder einer Ausweitung der Polizeibefugnisse haben präventiven Charakter, sie sollen Verbrechen verhindern. Solche präventiven Maßnahmen gehören aber **streng genommen** nicht zum Strafrecht, sondern zum Öffentlichen Recht, dem sogenannten **Gefahrenabwehrrecht**. **Diese so unterschiedlichen Bereiche werden immer wieder durcheinandergebracht, was mit der Stimmung in der Gesellschaft zu tun hat.**
+
+Seit einigen Jahren fürchten viele Menschen, im Zuge der Flüchtlingskrise könnten unbemerkt Kriminelle und potenzielle Straftäter nach Deutschland **gelangt** sein. Ihre Sorge um die Sicherheit im öffentlichen Raum verstärkte sich durch die mediale Berichterstattung und populistische Stimmungsmache. Ein schärferes Strafrecht soll dabei helfen, die Sicherheit zu wahren.
+
+Das ist in **zweierlei Hinsicht** problematisch. Erstens haben wir bereits gesehen, dass das Strafrecht in erster Linie eine repressive und weniger präventive Wirkung hat. Zweitens sind die Ängste hinter solchen Forderungen statistisch nicht haltbar. Die Kriminalitätsrate sinkt seit Jahrzehnten in nahezu allen Bereichen. **Es ist wahrscheinlicher, im eigenen sozialen Umfeld Opfer einer Gewalttat zu werden als in einem dunklen Park. Es ist auch wahrscheinlicher, von einem Auto überfahren zu werden, als bei einem Terroranschlag zu sterben.**
+
+Dass die Menschen trotzdem solche Ängste haben, hat mehrere Gründe. Fischer zufolge könnte z.B. die hohe Kriminalitätsfurcht in Ostdeutschland mit der Wende zu tun haben. **Nach 1990 brach u.a. das starke Vereinswesen weg, das den Menschen Sicherheit und Halt gegeben hatte.** Weitere Erklärungen sind der demografische Wandel und die Digitalisierung, die die Gesellschaft **unaufhaltsam** verändern und für neue Unsicherheiten sorgen.
