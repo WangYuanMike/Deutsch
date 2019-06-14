@@ -11,3 +11,6 @@ Keine bedingungslose Liebe zu erfahren, ist für Kinder immer eine leidvolle Erf
 Allerdings, und das ist der **springende** Punkt, ist diese Realität eine Scheinwelt, die nur in der Vorstellung existiert. Gemeinsam mit ihr **erschafft** das Kind ein zweites, falsches Selbst, **das es jedoch für echt hält**. Dabei verliert es den Bezug zu seinem eigentlichen Ich. **Obwohl dem Kind diese alternative Realität anfangs helfen mag, besser mit dem Mangel klarzukommen, verliert es durch diese Fantasiewelt langfristig die Intuition dafür, was ihm wirklich fehlt.**
 
 Das Problem ist, dass sich diese innere Realität nicht einfach auflöst, wenn wir sie nicht mehr brauchen. Stattdessen kann sie uns ein ganzes Leben lang begleiten und mitunter sogar, **ohne dass wir sie überhaupt bemerken. Was uns diese falsche innere Realität alles nimmt** und wie sie sich auf unsere Beziehungen auswirkt, sehen wir uns in den nächsten beiden Blinks an.
+
+* sich auf etwas auswirken = take effect on sth.
+* Neigung 倾斜, Zuneigung 偏爱, Abneigung 不偏爱

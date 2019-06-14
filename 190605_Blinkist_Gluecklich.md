@@ -11,3 +11,12 @@ Trotzdem gibt es offenbar **eine Reihe von Parallelen**, die beim Glücksempfind
 Easterlin hatte Umfragen aus mehreren Jahrzehnten untersucht und herausgefunden, **dass Geld zwar tendenziell glücklicher machte** – aber nur, bis ein bestimmter Lebensstandard erreicht war. **Jenseits davon** führte mehr Geld nicht zu noch mehr Zufriedenheit. Die Zahlen deuteten sogar darauf hin, dass es wichtiger für das **subjektive Glücksempfinden** ist, wie viel Geld die Menschen in unserem Umfeld haben. Je **gerechter** der **Wohlstand** in einem untersuchten Land verteilt war, desto glücklicher waren **dessen Bewohner**.
 
 So viel zur Theorie. Aber wie und wo genau entsteht Glück eigentlich in unserem Körper? **Der nächste Blink geht im wahrsten Sinne des Wortes unter die Haut.**
+
+* indem 以。。。的方式 durch
+* gar = sogar, even
+* Affekte 情绪
+* eine Reihe von = a series of
+* Jenseits = 另外一边，beyond
+* auf etwas hindeuten = 表明etwas
+* unter die Haut 深刻地
+* im Sinne 从...的意义上来说

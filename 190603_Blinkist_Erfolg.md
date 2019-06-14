@@ -9,3 +9,7 @@ Ob wir dieses „äußere Spiel“ gewinnen, hängt von vielen unkontrollierbare
 **Es ergibt ohnehin viel mehr Sinn**, den eigenen Erfolg am eigenen Potenzial zu messen, statt an willkürlichen äußerlichen Maßstäben. **Je nachdem, mit wem du dich vergleichst, kannst du dich für den schlimmsten Versager oder den größten Überflieger halten.** Wie gut du wirklich warst, misst du am besten **in Bezug auf** dein eigenes Potenzial.
 
 **Wer nur auf den äußeren Erfolg aus ist, gibt sich außerdem schnell mit seinem Ergebnis zufrieden.** Doch in unserer immer komplexeren und schnelllebigeren Welt ist Stillstand gefährlich. Was heute als Innovation gilt, kann morgen schon ein alter Hut sein. Wer aber sein Bestes gibt, lernt aus seinen Fehlern und bleibt offen für Neues.
+
+
+* jmdn für etwas halten = deem sb. as sth.
+* in Bezug auf = reference to
