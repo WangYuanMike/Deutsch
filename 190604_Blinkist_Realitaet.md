@@ -14,3 +14,4 @@ Das Problem ist, dass sich diese innere Realität nicht einfach auflöst, wenn w
 
 * sich auf etwas auswirken = take effect on sth.
 * Neigung 倾斜, Zuneigung 偏爱, Abneigung 不偏爱
+* mag = may
