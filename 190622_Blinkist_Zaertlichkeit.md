@@ -1,6 +1,6 @@
 # Zärtlichkeit gilt heute als peinlich und wird als gesellschaftliche Kraft unterschätzt.
 
-Momente der Zärtlichkeit geben uns Kraft und Rückhalt. Ohne sie würden unsere Beziehungen zu bloßen Transaktionen **verkümmern**. Doch während es schon lange kein Tabu mehr ist, über Sexualität zu sprechen, bleibt die Zärtlichkeit auf das Private und Intime beschränkt: Man spricht nicht darüber, **schon** gar nicht öffentlich. **Oder hast du schon einmal einen Politiker ein Plädoyer für mehr Zärtlichkeit halten **hören**?
+Momente der Zärtlichkeit geben uns Kraft und Rückhalt. Ohne sie würden unsere Beziehungen zu bloßen Transaktionen **verkümmern**. Doch während es schon lange kein Tabu mehr ist, über Sexualität zu sprechen, bleibt die Zärtlichkeit auf das Private und Intime beschränkt: Man spricht nicht darüber, **schon** gar nicht öffentlich. **Oder hast du schon einmal einen Politiker ein Plädoyer für mehr Zärtlichkeit halten hören**?
 
 **Wenn uns Zärtlichkeit außerhalb des stillen Kämmerleins begegnet,** dann vor allem in der Werbung oder in Filmen. **Werbespots in Slow Motion und Melodramen mit reichlich Streichern im Hintergrund greifen jedoch meist auf ein so süßliches Bild der Zärtlichkeit zurück, dass ihr Pathos und inszenierter Charakter leicht zu durchschauen sind.** Denken wir nur an Filme wie P.S. Ich liebe dich oder Wie ein einziger Tag.
 
