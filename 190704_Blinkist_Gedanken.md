@@ -1,0 +1,11 @@
+# Die Welt ist das, was du von ihr erwartest.
+
+Je älter du wirst, desto selektiver wird deine **Wahrnehmung**, bis du irgendwann überall das siehst, was du sehen möchtest. Die Lebenserfahrung ist wie ein Filter, der es dir leichter macht, die Dinge **einzuordnen** – dadurch aber auch **mitbestimmt**, was du wahrnimmst, fühlst und denkst. Wenn es dir nun **gelingt**, diesen Filter auszutauschen, kannst du deine Gedanken kontrollieren.
+
+Aber fangen wir von ganz vorne an: Das menschliche Auge nimmt pro Sekunde etwa einen Gigabyte an Informationen auf. Das entspricht gut 500.000 Buchseiten. Natürlich kann dein Hirn nicht all diese Informationen verarbeiten: Ein paar Daten werden bewusst registriert, viele unbewusst **erfasst** und der große Rest quasi als Brainspam herausgefiltert. Was uns direkt zu den Selektionskriterien bringt: Um zu entscheiden, was wichtig ist und was nicht, gleicht dein Hirn jede Wahrnehmung automatisch mit deinen bereits **vorhandenen** Erfahrungen und deinen Erwartungen ab.
+
+**Damit deine Wahrnehmung der Welt mit deinen Erfahrungen vereinbar wird,** ergänzt und modifiziert dein Gehirn am laufenden Band Informationen. Ein berühmtes Beispiel dafür ist enie Sdutie, in dre hauresfegunedn wrude, dass dei Bhuctsebanehirenlofge gra kiene Rlole spleit – wri vretsheen auch so, wsa geiment ist. Bei all dem Filtern, Umbauen und Selektieren gehen natürlich viele Informationen verloren: Dein Gehirn wählt nicht nur aus, sondern beschränkt komplexe Wahrnehmungen bewusst, um sie besser verarbeiten und einordnen zu können.
+
+Und es wird noch komplizierter: Die selektive Wahrnehmung hat auch Einfluss darauf, wie du denkst, handelst und fühlst. Wer immer nur vom Schlechtesten **ausgeht**, wird **zwangsweise** auch mehr Schlechtes erleben. Sein Hirn hat so oft die entsprechenden Filter verwendet, dass er die guten Dinge überhaupt nicht mehr wahrnimmt. Studien zeigen, dass Menschen, die sich selbst als Pechvogel sehen, wirklich unglücklicher sind und die **durchaus** vorhandenen Chancen im Leben nicht so leicht erkennen wie Menschen, **die das Glück auf ihrer Seite wähnen** und Schwierigkeiten eher als Herausforderung betrachten.
+
+Wie aber kannst du diesen Erfahrungsfilter nun austauschen?
