@@ -1,0 +1,13 @@
+# Beim Ausräumen des Elternhauses begegnen einem kalte und warme Gegenstände.
+
+Viele Erwachsene, die heute den Haushalt ihrer Eltern auflösen, erleben nicht nur organisatorische, sondern auch emotionale Herausforderungen. Da tauchen lang vergessene Gegenstände wieder auf und versetzen einen schlagartig zurück in die Kindheit. Und nicht alle diese Erinnerungen sind erfreulich.
+
+**Wer bei der Rückkehr in das alte Wohnzimmer eine gewisse Kälte wahrnimmt, bildet sich das nicht unbedingt nur ein.** In den meisten Häusern der Kriegskinder-Generation ist eine Art emotionaler Unterkühlung zu spüren. Aber woher kommt dieses Gefühl eigentlich?
+
+Die Menschen, die in den 1930er-Jahren in Deutschland zur Welt kamen, wurden durch Kriegserlebnisse und die Mühen der Nachkriegszeit geprägt. Sie waren hart zu sich selbst und **übertünchten** ihre Gefühlswelt mit Strenge und Fleiß. Entsprechend wurde auch die Erziehung ihrer Kinder von Leistungserwartung, Ordnungswahn und Sicherheitsdenken dominiert. Dies spiegelt sich in den sogenannten kalten Gegenständen wider – den Pokalen von Jugendturnieren, die die Eltern stolz aufbewahrten, der Bürste, mit der die Teppichfransen gekämmt wurden, oder die Uhren, die überall herumstanden und zur Pünktlichkeit gemahnten.
+
+Wenn auch dir beim Rundgang durchs Elternhaus kalte Gegenstände begegnen, erinnern sie dich vielleicht wieder an die Härte und Strenge der Eltern. Lass dich davon nicht **überwältigen**, sondern nutze die Sachen als Aufhänger, um mit deinen Eltern ins Gespräch zu kommen – über Fehler, Totgeschwiegenes, Versäumtes. **Dabei solltest du sie aber nicht mit der alten Küchenuhr oder den angestaubten Aktenordnern in der Hand anklagen und mit Vorwürfen überhäufen.** Nutze die Sachen vielmehr, um deinen Eltern Fragen über ihre Beweggründe und ihre Geschichte zu stellen und sie dadurch vielleicht ein wenig besser zu verstehen. Und wenn es nichts mehr zu sagen gibt, nimm die alten Gegenstände noch einmal zur Hand, schaue sie an und dann entsorge sie.
+
+Doch es gibt ja auch noch die warmen Gegenstände, also Dinge, an die schöne Kindheitserinnerungen geknüpft sind: der alte TV-Sessel, in dem man schon beim Vater auf dem Schoß gesessen hat oder die Kuchenteller, die an gemütliche Familiensonntage erinnern. Hier fällt das Aussortieren meist besonders schwer. Als Faustformel gilt: Macht es dich glücklich? Wenn ja, dann heb es auf. Wenn nein, dann entsorge es genau wie die kalten Dinge.
+
+Wenn die aussortierten Gegenstände dir zu schade für den Müll sind und zu sperrig zum Aufbewahren, könnte dir der Gedanke kommen, die Fundstücke im Museum abzugeben. Auf den ersten Blick eine gute Idee – klappt das wirklich?
