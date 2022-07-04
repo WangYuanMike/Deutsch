@@ -38,8 +38,14 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 | das Heimweh | n.| homesickness |
 | das Fernweh | n.| 向往远方的心情 |
 
-## Module 1 Neue Heimat
-
+## Modul 1 Neue Heimat
+### Seit 11
+4b)
+1. Ein Bekannter hat **(Dativ)** Ella **(Te)** letztes Jahr **(Mo)** netterweise **(介词宾语作Akkusativ???)** bei der Wohnungssuche geholfen.
+2. Ella hat **(Te)** täglich **(Akkusativ)** mehrere SMS und E-Mails **(Lo)** nach Deutschland geschickt.
+3. Ella schreibt **(Dativ)** ihren Eltern **(Te)** einmal pro Woche **(Lo)** aus Australien **(Akkusativ)** eine längere E-Mail.
+* Wenn es Angaben und Ergänzugen gibt, steht die Dativergänzung meistens **vor** der temporalen Angabe. Die Akkusativergänzung steht **hinter** den temporalen, kausalen und modalen Angaben und **vor oder hinter** der lokalen Angabe. 
+* Nach vs. Hinter 有何区别？
 ### Schwierige Sätze
 * was **eher** als negativ? (eher是rather的意思？？？)
 * Ich bin **(Te)** letztes Jahr **(Ka)** aus Liebe **(Mo)** ziemlich spontan **(Lo)** nach Australien ausgewandert.
@@ -59,6 +65,7 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 * Jetzt schreibe ich meinen Eltern einmal pro Woche eine **längere** E-Mail.
 * Es ist nicht immer einfach, so **weit weg** zu sein. (离家甚远，不易？？？)
 * Auch wenn ich wirklich gut Englisch spreche, kann ich **trotzdem** nicht immer ganz genau das **ausdrücken**, was ich denke oder fühle. **Da tut es einfach gut, zwischendruch mal in der eigenen Sprache zu sprechen.** (词汇基本全懂，句子不懂)
+* Ordenen Sie den Angaben die richtige Bezeichnung zu und ergänzen Sie die Faustregel.
 
 ### Worte
 | 单词 | 词性 | 意思 |
@@ -94,6 +101,15 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 | gestresst | a. | stressed |
 | sehnsüchtig | a. | longing |
 | ausdrücken | v. | express |
+| berichten | v. | report, tell |
+| die Angabe | n. | statement, description |
+| die Bezeichnung | v. | description??? |
+| zuordnen | v. | assign??? |
+| die Faustregel | n. | rule of thumb ??? |
+| die Reihenfolge | n. | order, sequence |
+
+
+
 
 
 
