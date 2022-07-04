@@ -42,11 +42,11 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 
 ### Schwierige Sätze
 * was **eher** als negativ? (eher是rather的意思？？？)
-* Ich bin **(Te)**letztes Jahr **(Ka)**aus Liebe **(Mo)**ziemlich spontan **(Lo)** nach Australien ausgewandert.
+* Ich bin **(Te)** letztes Jahr **(Ka)** aus Liebe **(Mo)** ziemlich spontan **(Lo)** nach Australien ausgewandert.
 * Mein gewohntes Leben aufgeben und in einem anderen Land komplett neu anfangen?
 * Aber als ich **vor zwei Jahren** zufällig **diesen netten Typen** während meines Urlaubs kennegelert hatte, ..., **beschloss** ich, ...(vor, bevor的用法一直搞不清？？？Typ的意思是不是接近于Guy？？？几个决定有何异同, beschließen, entscheiden, 是不是还有别的决定？？？)
 * Es **fiel** mir nicht leicht zu kündigen.
-* Als ich dann **(Te)**sechs Monate nach dem Urlaub **(Mo)**wieder aufgeredgt **(Lo)**im Flugzeug saß, habe ich mich aber auf mein neues Leben gefreut.
+* Als ich dann **(Te)** sechs Monate nach dem Urlaub **(Mo)** wieder aufgeredgt **(Lo)** im Flugzeug saß, habe ich mich aber auf mein neues Leben gefreut.
 * Ich kannte niemanden außer David, musste mir eine Arbeit suchen und eine Arbeitserlaubnis zu bekommen, war schwieriger, als ich gedacht hatte. (意思全懂，逗号与und的用法不甚理解)
 * Leider **war** die Beziehung mit David auch ziemlich schnell wieder **zu Ende**.
 * Bei der Wohnungssuche hat mir netterweise ein Bekannter geholfen. (意思懂，语序不甚理解，ein Bekannter是主语，为突出Bei der Wohungssuche，被置换到hat后，然后由于mir是人称代词， 所以可以被提到ein Bekannter之前???)
