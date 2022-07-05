@@ -39,13 +39,15 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 | das Fernweh | n.| 向往远方的心情 |
 
 ## Modul 1 Neue Heimat
+
 ### Seit 11
 4b)
 1. Ein Bekannter hat **(Dativ)** Ella **(Te)** letztes Jahr **(Mo)** netterweise **(介词宾语作Akkusativ???)** bei der Wohnungssuche geholfen.
 2. Ella hat **(Te)** täglich **(Akkusativ)** mehrere SMS und E-Mails **(Lo)** nach Deutschland geschickt.
 3. Ella schreibt **(Dativ)** ihren Eltern **(Te)** einmal pro Woche **(Lo)** aus Australien **(Akkusativ)** eine längere E-Mail.
 * Wenn es Angaben und Ergänzugen gibt, steht die Dativergänzung meistens **vor** der temporalen Angabe. Die Akkusativergänzung steht **hinter** den temporalen, kausalen und modalen Angaben und **vor oder hinter** der lokalen Angabe. 
-* Nach vs. Hinter 有何区别？
+* Nach vs. Hinter 有何区别？a
+
 ### Schwierige Sätze
 * was **eher** als negativ? (eher是rather的意思？？？)
 * Ich bin **(Te)** letztes Jahr **(Ka)** aus Liebe **(Mo)** ziemlich spontan **(Lo)** nach Australien ausgewandert.
@@ -107,6 +109,71 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 | zuordnen | v. | assign??? |
 | die Faustregel | n. | rule of thumb ??? |
 | die Reihenfolge | n. | order, sequence |
+
+## Modul 2 Ein Land, viele Sprachen
+
+### Schwierige Sätze
+* Welche Länder kennen Sie, in denen mehrere Sprachen gesprochen werden? (定语从句不太通透，此处是三格复数，所以是denen?)
+* Sehen Sie die Schweiz-Karte an. (ansehen == Look at?)
+* Warum war die Schweiz "von Anfang an ein vielsprachiges, multikulturelles Land"? (von Anfang an etwas?)
+* Sie ist Heimat und Teil unserer Identität: usere Muttersprache. (她是家园，也是我们身份的一部分？？？句意有点别扭，另外，此处两个名次为何不加任何冠词？)
+* Muttersprache, das Wort drückt vieles aus. (为何是vieles？s是怎么加上去的？)
+* Das bedeutet, ein Zusammenschluss von inzwischen 26 Kantonen. (inzwischen?)
+* Die einzelnen Kantone sind politisch sehr selbständig. (为何用复数？英语里好像习惯说 every single state is politically independent.)
+* Nachdem sich das Land um französisch- und italienischsprachige Gebiete vergrößert hatte, bekamen Französisch und Italienisch dieselbe Bedeutung wie Deutsch. (反身动词sich的位置一直不太清楚，Bedeutung此处是重要性的意思？)
+* Neben diesen vier Sprachen werden **dank Migration** auch zahlreiche andere Sprachen gesprochen. (dank Migration可以猜到是感谢移民或拜移民所赐，不过用法不太清楚，比如前后是否要加逗号，Migration是英语不？)
+* Es gehört zum Alltag dazu.
+* Im großen Kanton Graubünden ist die erste Fremdsprache je nach Sprachregion Deutsch, Italienisch oder Rätoromanisch.
+* Verkehrsschilder vs. Verkehrszeichen
+* Dabei wird vorausgesetzt, dass man die Sprachen der Gesprächspartner versteht. (vorausgesetzt怎么解？)
+* Ich bin der Auffassung, dass ... (der Aufffassung, 而且ich bin???)
+* Ich bin da geteilter Meinung. (同上ich bin???)
+
+### Worte
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| daneben | a.| alongside |
+| die Vertrautheit | n.| familarity |
+| der Sachverhalt | n.| issue, circumstances, situation??? |
+| trösten | v.| comfort |
+| der Zusammenschluss | n.| association, union |
+| einzeln | a.| single |
+| jewels | a.| each, respectively |
+| die Verwaltung | n.| administration, management??? |
+| sich vergrößen | v.| increase, enlarge |
+| anerkennen | v.| approve |
+| überlegen | v.| consider??? |
+| der Abschnitt | n.| intercept, section |
+| die Überschrift | n.| heading, title, caption |
+| beherrschen | v.| rule, be proficient in sth. |
+| sämtlich | a.| all of sth. |
+| Schriften | n.| writings |
+| die Bekanntmachung | n.| annoucement |
+| veröffentlichen | v.| publish |
+| betreffen | v.| apply |
+| das Verkehrsschilder | n.| traffic sign |
+| die Verhandlung | n.| negotiation, hearing |
+| der Wandel | n.| change |
+| in letzter Zeit | a.| lately, recently |
+| überzeugen | v.| convince |
+| die Auffassung | n.| view, concept |
+| erstaunlich | a.| astonishing |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
