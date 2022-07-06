@@ -73,6 +73,36 @@ Wie ist die richtige (1)Reihenfolge beim Vorstellen? Im **(2)privaten** Bereich 
 * Der Herr wird der Dame zuerst vorgestellt. (句意理解，但德语被动语态总感觉缺少介词)
 * Eine weitere Regel ist - der Kunde ist König -, dass man zuerst dem **(12)Kunden** die Mitarbeiter der eigenen Firma vorstellt, dann den **(13)Mitarbeiter** den Kunden. (把谁介绍给谁先？Vostellen Dativ Akkusativ? Kunde vs. Kunden)
 
+## A6 Angaben zur Person
+Was passt nicht?  
+1. Familienstand: geboren
+2. Adresse: Faxnummer
+3. Name: Partner
+4. Geburtsdatum: Geburtsort
+5. Beziehung: allein
+6. verheiratet: Freundin
+
+## A7 Jung und Alt
+1. Hurra, unser Baby ist da! Jetzt sind wir eine **Familie**.
+2. **Jugendliche** begrüßen Jugendliche mit "Hi" oder "Hallo".
+3. Opa erzählt immer, dass es in seiner **Jugend** noch keine **Handys** gab.
+4. **Erwachsene** begrüßen sich morgens mit "Guten Morgen".
+5. Zum 50. Geburtstag hatte sie viele **Verwandte** eigeladen: ihre Eltern und Geschwister, ihre Onkel, **Tante**, Cousins und **Cousinen**, und ihre **Schwiegereltern**.
+6. Ich muss mich allein um meine Eltern kümmern, ich habe keine **Geschwister**.
+7. Der Arzt darf nur **Familienangehörigen** Auskunft geben.
+
+### Fragen
+* Opa erzählt immer, dass es in seiner Jugend noch keine Handys gab.
+* Der Arzt darf nur Familienangehörigen Auskunft geben. (句意不明)
+
+## A8 Kontinente
+1. Amerika      der amerikanische Kontinent
+2. Europa       der europäische Kontinent
+3. Asien        der asiatische Kontinent
+4. Afrika       der afrikanische Kontinent
+5. Australien   der australische Kontinent
+
+
 ## Worte von A
 | 单词 | 词性 | 意思 |
 | --- | --- | --- |
@@ -85,6 +115,22 @@ Wie ist die richtige (1)Reihenfolge beim Vorstellen? Im **(2)privaten** Bereich 
 | sich melden | v. | 给你消息？？？ |
 | die Visitenkarte | n. | 名片？？？ |
 | erfahren | v. | find out, explore??? |
+| der Wohnsitz | n. | place of residence |
+| der Verlobte | n. | fiancee |
+| die Gattin | n. | spouse, wife |
+| der Gatte | n. | spouse, husband |
+| die Jugend | n. | adolescence |
+| der Jugendliche | n. | adolescence |
+| der Familieangehörige | n. | family member, 家属 |
+| der Verwandte | n. | relatives, 亲戚 |
+| das Geschwister | n. | siblings |
+| die Auskunft | n. | information desk |
+
+
+
+
+
+
 
 
 
