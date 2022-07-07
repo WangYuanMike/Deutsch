@@ -102,6 +102,29 @@ Was passt nicht?
 4. Afrika       der afrikanische Kontinent
 5. Australien   der australische Kontinent
 
+## A9 Land und Leute
+1. Amerika      der Amerikaner      die Amerikanerin
+2. Asien        der Asiat           die Asiatin
+3. Afrika       der Afrikaner       die Afrikanerin
+4. Europa       der Europäer        die Europäerin
+5. Australien   der Australier      die Australierin
+
+## A10 Ausweispapiere und Dokumente
+1. Da sie jung aussah, musste das Mädchen am Diskoeingang ihren Ausweis Zeigen.
+2. Bei der Verkehrskontrolle wollte der Polizist die **Papiere** des Autofahrers sehen.
+3. Der Kontrolleur nahm die **Personalien** der Frau auf, die keinen Fahschein hatte.
+4. Ermäßigungen für Kinder und **Senioren** bekommen Sie nur, wenn Sie mir ein **Dokument** mit Passfoto zeigen.
+5. Ich muss mein Visum **verlängern** lassen, es ist abgelaufen.
+6. Mein Pass ist nicht mehr **gültig**, ich muss mir einen neuen **ausstellen** lassen.
+
+
+### Fragen
+* Papier vs. Dokument vs. Unterlage vs. ...
+* Checken vs. Kontrollen vs. ...
+* Personalien
+* lassen的句型一直不会用
+* Mein Pass ist nicht mehr **gültig**, ich muss mir einen neuen **ausstellen** lassen. (neuen要不要首字母大写? ausstellen是换的意思？)
+
 
 ## Worte von A
 | 单词 | 词性 | 意思 |
@@ -125,6 +148,11 @@ Was passt nicht?
 | der Verwandte | n. | relatives, 亲戚 |
 | das Geschwister | n. | siblings |
 | die Auskunft | n. | information desk |
+| der eingang | n. | 入口 |
+| aufnehmen | v. | record |
+
+
+
 
 
 
