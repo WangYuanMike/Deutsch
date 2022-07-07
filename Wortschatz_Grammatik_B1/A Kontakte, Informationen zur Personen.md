@@ -116,7 +116,9 @@ Was passt nicht?
 4. Ermäßigungen für Kinder und **Senioren** bekommen Sie nur, wenn Sie mir ein **Dokument** mit Passfoto zeigen.
 5. Ich muss mein Visum **verlängern** lassen, es ist abgelaufen.
 6. Mein Pass ist nicht mehr **gültig**, ich muss mir einen neuen **ausstellen** lassen.
-
+7. Sie musste ihre **Heiratsurkunde** vorlegen, um ihr Visum zu beantragen.
+8. Ich muss noch einen Lebenslauf für meine **Bewerbung** schreiben.
+9. Sie müssen das Anmeldeformular **ausfüllen**. Sie **erhalten** von uns keine Anmeldebestätigung. Wir **senden** nur eine Mail, wenn der Kurs nicht stattfindet.
 
 ### Fragen
 * Papier vs. Dokument vs. Unterlage vs. ...
@@ -150,6 +152,10 @@ Was passt nicht?
 | die Auskunft | n. | information desk |
 | der eingang | n. | 入口 |
 | aufnehmen | v. | record |
+| vorlegen | v. | submit |
+| beantragen | v. | apply |
+| die Bewerbung | n. | job application |
+
 
 
 

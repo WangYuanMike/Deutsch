@@ -42,34 +42,36 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 
 ### Seit 11
 4b)
-1. Ein Bekannter hat **(Dativ)** Ella **(Te)** letztes Jahr **(Mo)** netterweise **(介词宾语作Akkusativ???)** bei der Wohnungssuche geholfen.
+1. Ein Bekannter hat **(Dativ)** Ella **(Te)** letztes Jahr **(Mo)** netterweise bei der Wohnungssuche geholfen.
 2. Ella hat **(Te)** täglich **(Akkusativ)** mehrere SMS und E-Mails **(Lo)** nach Deutschland geschickt.
 3. Ella schreibt **(Dativ)** ihren Eltern **(Te)** einmal pro Woche **(Lo)** aus Australien **(Akkusativ)** eine längere E-Mail.
 * Wenn es Angaben und Ergänzugen gibt, steht die Dativergänzung meistens **vor** der temporalen Angabe. Die Akkusativergänzung steht **hinter** den temporalen, kausalen und modalen Angaben und **vor oder hinter** der lokalen Angabe. 
-* Nach vs. Hinter 有何区别？a
+* Nach vs. Hinter 有何区别？
+    * hinter = behind (空间上)
+    * nach = after （时间上，顺序上）
 
 ### Schwierige Sätze
-* was **eher** als negativ? (eher是rather的意思？？？)
+* was **eher** als negativ? (句中eher是rather的意思，句首时为bevor)
 * Ich bin **(Te)** letztes Jahr **(Ka)** aus Liebe **(Mo)** ziemlich spontan **(Lo)** nach Australien ausgewandert.
 * Mein gewohntes Leben aufgeben und in einem anderen Land komplett neu anfangen?
-* Aber als ich **vor zwei Jahren** zufällig **diesen netten Typen** während meines Urlaubs kennegelert hatte, ..., **beschloss** ich, ...(vor, bevor的用法一直搞不清？？？Typ的意思是不是接近于Guy？？？几个决定有何异同, beschließen, entscheiden, 是不是还有别的决定？？？)
-* Es **fiel** mir nicht leicht zu kündigen.
+* Aber als ich **vor zwei Jahren** zufällig **diesen netten Typen** während meines Urlaubs kennegelert hatte, ..., **beschloss** ich, ...(vor是介词，只能作为单句的句子成分，bevor是连词，只能引领从句。Typ的意思家伙，fellow，接近于Guy。beschließen 及物动词，一般用于不定时或从句，相当于entscheiden的反身用法（已经做出了决定），sich(4) für etwas entscheiden 做出了决定，über etwas entscheiden 要做决定)
+* Es **fiel** mir nicht leicht zu kündigen. （Es fiel mir schwer oder leicht zu tun). schwer oder leicht fallen 让我觉得容易或者难
 * Als ich dann **(Te)** sechs Monate nach dem Urlaub **(Mo)** wieder aufgeredgt **(Lo)** im Flugzeug saß, habe ich mich aber auf mein neues Leben gefreut.
-* Ich kannte niemanden außer David, musste mir eine Arbeit suchen und eine Arbeitserlaubnis zu bekommen, war schwieriger, als ich gedacht hatte. (意思全懂，逗号与und的用法不甚理解)
+* Ich kannte niemanden außer David, musste mir eine Arbeit suchen und eine Arbeitserlaubnis zu bekommen, war schwieriger, als ich gedacht hatte. (und前不用加逗号，eine ... zu bekommen是不定时做主语，因此war前也要逗号)
 * Leider **war** die Beziehung mit David auch ziemlich schnell wieder **zu Ende**.
-* Bei der Wohnungssuche hat mir netterweise ein Bekannter geholfen. (意思懂，语序不甚理解，ein Bekannter是主语，为突出Bei der Wohungssuche，被置换到hat后，然后由于mir是人称代词， 所以可以被提到ein Bekannter之前???)
-* Ich habe die Erfahrung gemacht. (积累经验用machen？？？)
-* So eine Auslandserfahrung erweitert einfach den Horizont. (此处einfach是“才”的意思？？？，整句意思亦不明晰)
-* Man lernt die Kultur eines anderen Landes kennen und erfährt **dadurch** auch viel über **sich selbst** und die eigene Kultur.
-* Am Anfang hatte ich trotz vieler Jahre Englischunterricht in der Schule Probleme mit der Sprache, aber mittlerweile ist mein Englisch richtig gut. (vieler Jahre是第三格，可以做形容词？？？richtig gut表示怎样的程度？？？)
-* Überraschend war für mich. (意思懂，但我不会想到这么造句，英语里动词加ing或者加ed，在德语里是否有相近规律，此处Überraschend应该是surprising的意思)
-* Aber es ist besser als am Anfang. (als am Anfang意思懂， 但我自己造句可能说成Als Anfang或者Als dem Anfang???)
-* Jetzt schreibe ich meinen Eltern einmal pro Woche eine **längere** E-Mail.
-* Es ist nicht immer einfach, so **weit weg** zu sein. (离家甚远，不易？？？)
-* Auch wenn ich wirklich gut Englisch spreche, kann ich **trotzdem** nicht immer ganz genau das **ausdrücken**, was ich denke oder fühle. **Da tut es einfach gut, zwischendruch mal in der eigenen Sprache zu sprechen.** (词汇基本全懂，句子不懂)
+* Bei der Wohnungssuche hat mir netterweise ein Bekannter geholfen. 
+* Ich habe die Erfahrung gemacht. (有了这样的经历)
+* So eine Auslandserfahrung erweitert einfach den Horizont. (此处einfach是“就”的意思，国外的经历就拓展了我的视野)
+* Man lernt die Kultur eines anderen Landes kennen und erfährt **dadurch** auch viel über **sich selbst** und die eigene Kultur. （selbst是对über sich的再次强调，sich放在介词后即与动词无关了，所以不是反身动词）
+* Am Anfang hatte ich trotz vieler Jahre Englischunterricht in der Schule Probleme mit der Sprache, aber mittlerweile ist mein Englisch richtig gut. (trotz vieler Jahre是第二格)
+* Überraschend war für mich. (一分词，动词后加d，可做定语，有些可做表语（令人。。。），或作为während从句的部分，也类似ing)
+* Aber es ist besser als am Anfang. (此处是时间状语相比，jetzt与am Anfang比)
+* Jetzt schreibe ich meinen Eltern einmal pro Woche eine **längere** E-Mail.（挺长的，比较长的）
+* Es ist nicht immer einfach, **so weit weg** zu sein. (weit (weg) von meiner Wohnung)
+* Auch wenn ich wirklich gut Englisch spreche, kann ich **trotzdem** nicht immer ganz genau das **ausdrücken**, was ich denke oder fühle. (Auch wenn是即使的意思，selbst wenn也是即使，auch还可以放在句中（主句从句都可）依然表示即使) **Da tut es einfach gut, zwischendurch mal in der eigenen Sprache zu sprechen.** （jm. guttun对谁有好处, zwischendurch穿插的，mal说一说）
 * Ordenen Sie den Angaben die richtige Bezeichnung zu und ergänzen Sie die Faustregel.
 
-### Worte
+### Wörter
 | 单词 | 词性 | 意思 |
 | --- | --- | --- |
 | beantragen | v.| apply, request |
@@ -89,11 +91,10 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 | beschließen | a. | decide |
 | aufregend | a. | exciting |
 | erledigen | v. | deal with |
-| fiel ??? | v. | ??? |
 | sich streiten | v. | argue, fight, quarrel |
-| irgendwann ??? | a. | eventually | (irgend前缀需讲解)
-| die Grafikerin | n. | designer, photographer ??? |
-| die Agentur | n. | agency, bureau (政府部门???) |
+| irgendwann | a. | 将来的某个时刻 | (irgend前缀表示不确定的)
+| die Grafikerin | n. | 制图（艺术的） |
+| die Agentur | n. | agency |
 | bereuen | v. | regret |
 | sich einleben | v. | settle in |
 | erweiten | v. | extend, expand |
@@ -105,21 +106,21 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 | ausdrücken | v. | express |
 | berichten | v. | report, tell |
 | die Angabe | n. | statement, description |
-| die Bezeichnung | v. | description??? |
-| zuordnen | v. | assign??? |
-| die Faustregel | n. | rule of thumb ??? |
+| die Bezeichnung | v. | 书面的，文字形式的，description |
+| zuordnen | v. | assign |
+| die Faustregel | n. | rule of thumb, empirical |
 | die Reihenfolge | n. | order, sequence |
 
 ## Modul 2 Ein Land, viele Sprachen
 
 ### Schwierige Sätze
-* Welche Länder kennen Sie, in denen mehrere Sprachen gesprochen werden? (定语从句不太通透，此处是三格复数，所以是denen?)
-* Sehen Sie die Schweiz-Karte an. (ansehen == Look at?)
-* Warum war die Schweiz "von Anfang an ein vielsprachiges, multikulturelles Land"? (von Anfang an etwas?)
-* Sie ist Heimat und Teil unserer Identität: usere Muttersprache. (她是家园，也是我们身份的一部分？？？句意有点别扭，另外，此处两个名次为何不加任何冠词？)
-* Muttersprache, das Wort drückt vieles aus. (为何是vieles？s是怎么加上去的？)
-* Das bedeutet, ein Zusammenschluss von inzwischen 26 Kantonen. (inzwischen?)
-* Die einzelnen Kantone sind politisch sehr selbständig. (为何用复数？英语里好像习惯说 every single state is politically independent.)
+* Welche Länder kennen Sie, in denen mehrere Sprachen gesprochen werden? 
+* Sehen Sie die Schweiz-Karte an. (ansehen == Look at)
+* Warum war die Schweiz "von Anfang an ein vielsprachiges, multikulturelles Land"? (von etwas an == from ... on, von ... her == 从某角度看，von ... aus == 从某地点受到外界的影响 )
+* Sie ist Heimat und Teil unserer Identität: usere Muttersprache. (抽象名词可不加冠词，特别是两个抽象名词并列时，表强调或对比)
+* Muttersprache, das Wort drückt vieles aus. (vieles表示很多没有关联的事情，viel表示很多事情，可能有关联，可能无关联)
+* Das bedeutet, ein Zusammenschluss von inzwischen 26 Kantonen. (inzwischen 在此期间，陆续的，逐渐的形成一个26个州的联盟)
+* Die einzelnen Kantone sind politisch sehr selbständig. (einzelne单数复数皆可，单数时加jeder)
 * Nachdem sich das Land um französisch- und italienischsprachige Gebiete vergrößert hatte, bekamen Französisch und Italienisch dieselbe Bedeutung wie Deutsch. (反身动词sich的位置一直不太清楚，Bedeutung此处是重要性的意思？)
 * Neben diesen vier Sprachen werden **dank Migration** auch zahlreiche andere Sprachen gesprochen. (dank Migration可以猜到是感谢移民或拜移民所赐，不过用法不太清楚，比如前后是否要加逗号，Migration是英语不？)
 * Es gehört zum Alltag dazu.
