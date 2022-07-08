@@ -119,14 +119,47 @@ Was passt nicht?
 7. Sie musste ihre **Heiratsurkunde** vorlegen, um ihr Visum zu beantragen.
 8. Ich muss noch einen Lebenslauf für meine **Bewerbung** schreiben.
 9. Sie müssen das Anmeldeformular **ausfüllen**. Sie **erhalten** von uns keine Anmeldebestätigung. Wir **senden** nur eine Mail, wenn der Kurs nicht stattfindet.
+10. Als **Staatsbürger** der EU kann ich in Ländern der Europäischen Union arbeiten.
+11. Das Schengener Abkommen ermöglicht, dass sich Menschen und Waren leichter in den **europäischen** Ländern bewegen können. Statt zwischen den **Staaten** wird num strenger an den Außengrenzen der Europäischen Union **kontrolliert**.
 
 ### Fragen
-* Papier vs. Dokument vs. Unterlage vs. ...
+* Papier vs. Dokument vs. Unterlage vs. Urkunde...
 * Checken vs. Kontrollen vs. ...
-* Personalien
+* Personalien (personal data???)
 * lassen的句型一直不会用
 * Mein Pass ist nicht mehr **gültig**, ich muss mir einen neuen **ausstellen** lassen. (neuen要不要首字母大写? ausstellen是换的意思？)
+* Sie müssen das Anmeldeformular **ausfüllen**. Sie **erhalten** von uns keine Anmeldebestätigung. Wir **senden** nur eine Mail, wenn der Kurs nicht stattfindet. (句子基本都明白，但整段意思不太懂)
+* Statt zwischen den **Staaten** wird num strenger an den Außengrenzen der Europäischen Union **kontrolliert**. （Statt是何意？）
 
+## A11 Europäische Union
+1. Belgien
+2. Bulgarien
+3. Dänemark
+4. Deutschland
+5. Estland
+6. Finnland
+7. Frankreich
+8. Griechenland
+9. Großbritannien
+10. Irland
+11. Italien
+12. Kroatien
+13. Lettland
+14. Litauen
+15. Luxemburg
+16. Malta
+17. Niederlande
+18. Österreich
+19. Polen
+20. Portugal
+21. Rumänien
+22. Schweden
+23. Slowakei
+24. Slowenien
+25. Spanien
+26. Tschechien
+27. Ungarn
+28. Zypern
 
 ## Worte von A
 | 单词 | 词性 | 意思 |
@@ -155,6 +188,11 @@ Was passt nicht?
 | vorlegen | v. | submit |
 | beantragen | v. | apply |
 | die Bewerbung | n. | job application |
+| das Abkommen | n. | agreement |
+| ermöglichen | v. | enable |
+| bewegen | v. | move |
+| streng | a. | strict |
+| Statt | n. | ??? |
 
 
 

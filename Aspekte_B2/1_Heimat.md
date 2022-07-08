@@ -26,7 +26,7 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 * um Ihre Vorstellung von Heimat darzustellen
 * Welches Gefühl kennen Sie besser?
 
-### Worte
+### Wörter
 | 单词 | 词性 | 意思 |
 | --- | --- | --- |
 | der Auswander | n.| emigrator |
@@ -130,7 +130,7 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 * Ich bin der Auffassung, dass ... (der Aufffassung, 而且ich bin???)
 * Ich bin da geteilter Meinung. (同上ich bin???)
 
-### Worte
+### Wörter
 | 单词 | 词性 | 意思 |
 | --- | --- | --- |
 | daneben | a.| alongside |
@@ -160,12 +160,20 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 | die Auffassung | n.| view, concept |
 | erstaunlich | a.| astonishing |
 
+## Modul 3 Misverständliches
+
+### Schwierige Sätze
+* Misverständliches (形容词？名词？)
+* Dass man irgendwo fremd ist, merkt man oft an Missverständnissen. （我会考虑用条件状语从句，而不会想到用Dass从句）
+* Wel
+* In ... gilt es als sehr unhöflich, wenn ... （gilt一直不太会用，相当于它被视为。。。？？？）
 
 
 
-
-
-
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| merken | v.| notice, realize |
 
 
 
