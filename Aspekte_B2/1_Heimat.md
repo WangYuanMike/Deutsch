@@ -121,29 +121,32 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 * Muttersprache, das Wort drückt vieles aus. (vieles表示很多没有关联的事情，viel表示很多事情，可能有关联，可能无关联)
 * Das bedeutet, ein Zusammenschluss von inzwischen 26 Kantonen. (inzwischen 在此期间，陆续的，逐渐的形成一个26个州的联盟)
 * Die einzelnen Kantone sind politisch sehr selbständig. (einzelne单数复数皆可，单数时加jeder)
-* Nachdem sich das Land um französisch- und italienischsprachige Gebiete vergrößert hatte, bekamen Französisch und Italienisch dieselbe Bedeutung wie Deutsch. (反身动词sich的位置一直不太清楚，Bedeutung此处是重要性的意思？)
-* Neben diesen vier Sprachen werden **dank Migration** auch zahlreiche andere Sprachen gesprochen. (dank Migration可以猜到是感谢移民或拜移民所赐，不过用法不太清楚，比如前后是否要加逗号，Migration是英语不？)
-* Es gehört zum Alltag dazu.
-* Im großen Kanton Graubünden ist die erste Fremdsprache je nach Sprachregion Deutsch, Italienisch oder Rätoromanisch.
-* Verkehrsschilder vs. Verkehrszeichen
-* Dabei wird vorausgesetzt, dass man die Sprachen der Gesprächspartner versteht. (vorausgesetzt怎么解？)
-* Ich bin der Auffassung, dass ... (der Aufffassung, 而且ich bin???)
-* Ich bin da geteilter Meinung. (同上ich bin???)
+* Nachdem sich das Land um französisch- und italienischsprachige Gebiete vergrößert hatte, bekamen Französisch und Italienisch dieselbe Bedeutung wie Deutsch. (反身代词sich的位置尽量靠前，甚至可以在名词性主语之前，但不能前于人称代词，Bedeutung的意思是意义)
+* Neben diesen vier Sprachen werden **dank Migration** auch zahlreiche andere Sprachen gesprochen. (dank介词，意思是得幸于，后面的名词为二格，类似于wegen引领的短语的用法)
+* Es gehört zum Alltag dazu.（dazugehören属于某个领域某个群体，属于日常生活，gehören部分属于整体）
+* Im großen Kanton Graubünden ist die erste Fremdsprache **je nach Sprachregion** Deutsch, Italienisch oder Rätoromanisch. (按照语言区的不同，在这个大州里第一外语会是德语，意大利语，或罗曼十语。je nach dem，+从句，也表示按照。。。的不同)
+* Verkehrsschilder vs. Verkehrszeichen（牌子 vs. 标志）
+* Dabei wird vorausgesetzt, dass man die Sprachen der Gesprächspartner versteht. (A setzt B voraus，A以B为前提，Dabei wird vorausgesetzt, dass ... 前提是从句的内容)
+* Ich bin der Auffassung, dass ... (二格表语，表示主语的想法立场，Ansicht, Auffassung, Meinung，较为书面的表达方式)
+* Ich bin da geteilter Meinung. (我持中立观点)
 
 ### Wörter
 | 单词 | 词性 | 意思 |
 | --- | --- | --- |
 | daneben | a.| alongside |
 | die Vertrautheit | n.| familarity |
-| der Sachverhalt | n.| issue, circumstances, situation??? |
+| der Sachverhalt | n.| situation |
 | trösten | v.| comfort |
 | der Zusammenschluss | n.| association, union |
 | einzeln | a.| single |
 | jewels | a.| each, respectively |
-| die Verwaltung | n.| administration, management??? |
+| die Verwaltung | n.| administration, management |
 | sich vergrößen | v.| increase, enlarge |
 | anerkennen | v.| approve |
-| überlegen | v.| consider??? |
+| überlegen | v.| consider，好好考虑此事有何结果，可能无法左右其发展 |
+| sich überlegen | v.| 权衡利弊，即可以做出怎样的选择，sich为三格 |
+| überlegen | a.| 优于（智力上，体力上） an etwas überlegen|
+| unterlegen | a.| 差于 |
 | der Abschnitt | n.| intercept, section |
 | die Überschrift | n.| heading, title, caption |
 | beherrschen | v.| rule, be proficient in sth. |
@@ -159,21 +162,23 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 | überzeugen | v.| convince |
 | die Auffassung | n.| view, concept |
 | erstaunlich | a.| astonishing |
+| dazukommen | v.| 把。。。加进来 |
 
-## Modul 3 Misverständliches
+
+## Modul 3 Missverständliches
 
 ### Schwierige Sätze
-* Misverständliches (形容词？名词？)
-* Dass man irgendwo fremd ist, merkt man oft an Missverständnissen. （我会考虑用条件状语从句，而不会想到用Dass从句）
+* Missverständliches (令人会产生误解的，加中性后缀es，物化为名词，令人会产生误解的事情)
+* Dass man irgendwo fremd ist, merkt man oft an Missverständnissen. （人们会由于令人误解的事，察觉到身处陌生的地方）
 * Wel
-* In ... gilt es als sehr unhöflich, wenn ... （gilt一直不太会用，相当于它被视为。。。？？？）
+* In ... gilt es als sehr unhöflich, wenn ... （gilt有效，值钱，）
 
 
 
 ### Wörter
 | 单词 | 词性 | 意思 |
 | --- | --- | --- |
-| merken | v.| notice, realize |
+| merken | v.| 察觉到 |
 
 
 
