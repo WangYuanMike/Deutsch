@@ -161,7 +161,7 @@ Was passt nicht?
 27. Ungarn
 28. Zypern
 
-## Worte von A
+## Wörter
 | 单词 | 词性 | 意思 |
 | --- | --- | --- |
 | die Ermäßigung | n.| reduction |
@@ -193,16 +193,3 @@ Was passt nicht?
 | bewegen | v. | move |
 | streng | a. | strict |
 | Statt | n. | ??? |
-
-
-
-
-
-
-
-
-
-
-
-
-

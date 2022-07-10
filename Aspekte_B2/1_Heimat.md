@@ -170,15 +170,31 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 ### Schwierige Sätze
 * Missverständliches (令人会产生误解的，加中性后缀es，物化为名词，令人会产生误解的事情)
 * Dass man irgendwo fremd ist, merkt man oft an Missverständnissen. （人们会由于令人误解的事，察觉到身处陌生的地方）
-* Wel
-* In ... gilt es als sehr unhöflich, wenn ... （gilt有效，值钱，）
-
-
+* Welche interkulturellen Missverständnisse haben Sie erlebt, von welchen haben Sie gehört? (后半句不太懂，您遇到的跨文化误解属于哪一种？)
+* In ... gilt es als sehr unhöflich, wenn ... （gilt有效，值钱）
+* Als ich einmal in ... war, ist mir etwas sehr Unangenehmes/Lustiges/Peinliches passiert:... (passiert句型需要讲解一下，算是被动语态？这个mir又是什么成分？)
+* Arbeiten Sie zu zweit. (这是不定式？)
+* Freundlichkeit drücken Sie mit einem breiten, ständigen Lächeln aus und es gilt als äußerst unhöflich, sein Gegenüber nicht anzuschauen. (句意理解，但与短文中上一句，意思几乎完全相反，前后逻辑有点不明白)
+* Denken Sie daran, dass Sie sich am Flughafen auf einem öffentlichen Platz befinden. Ihr Gast darf den Flughafen nur verlassen, wenn Sie Ihre Hand auf seiner rechten Schulter haben. (假设您在机场找到了一块公共区域。如果您把手放在他的右肩上，您的客人允许从机场离开？？？)
+* Außerdem ist es für Sie unhöflich, Fragen jeglicher art zu stellen. Doch bedenken Sie, dass Sie keine Fragen stellen dürfen. (除此以外，对您来说，对任何类型的问题发问是不礼貌的。因此，您觉得，您不应该（不允许）提任何问题。是自己不想向对方提问，还是不想让对方对自己提问？另外，德语的情态动词总是感觉有点别扭，如果我造句，可能会选sollten或者möchten。对dürfen, müssen, sollten, sollen, wollen, möchten一直拿捏不好)
+* Zettel vs. Papier vs. Blatt vs. ... （傻傻分不清楚）
+* 练习4到5是关于否定的，陪我练习一下，再系统讲解一下，这也是长期困扰我的一大难题
 
 ### Wörter
 | 单词 | 词性 | 意思 |
 | --- | --- | --- |
 | merken | v.| 察觉到 |
+| peinlich | a.| embarrassing |
+| zweit | v.| partner up |
+| begleiten | v.| accompany, 陪伴？？？ |
+| der begleiter | n.| companion, 陪伴者？？？ |
+| üblich | a.| common |
+| äußerst | a.| extremely |
+| die Sphäre | n.| 空间，领域？？？ |
+| jeglich | a.| any |
+| die Aussagen | n.| statement |
+| verneinen | v.| negate, deny |
+| vorlesen | v.| 朗读？？？ |
 
 
 
