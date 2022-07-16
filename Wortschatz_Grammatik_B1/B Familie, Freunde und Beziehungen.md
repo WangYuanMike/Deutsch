@@ -53,6 +53,34 @@
 5. **Gattin** ist ein anderes Wort für Ehefrau.
 6. Sie trug zur **Hochzeit** ein langes weißes Kleid.
 
+## B5 Sexualität
+1. Kinder verwenden das Wort **schwul** oft als Schrimpfwort, ohne zu wissen, was es bedeutet.
+2. In Deutschland können **homosexuelle**, also schwule und **lesbische** Paare heiraten.
+3. Der Film ist langweilig, darin geht es nur um **Sex**.
+4. Sie will nicht **mit** ihm **schlafen**, so lange er noch **eine Beziehung** mit einer anderen Frau **hat**.
+
+### Fragen
+* Der Film ist langweilig, darin geht es nur um Sex. (darin换成in denen可以吗？)
+* Sie will nicht mit ihm schlafen, so lange er noch eine Beziehung mit einer anderen Frau hat. （so lange的意思是只要？）
+
+## B6 Streit und Konflikte
+1. Sie werden sich dieses Jahr scheiden lassen.
+2. Er **streitet sich** oft mit seiner Frau.
+3. Du sagst nicht die Wahrheit, du **lügst**.
+4. Sie haben **sich getrennt**.
+5. Sie hat ihn oft **beleidigt**.
+6. Er muss immer über alles **diskutieren**.
+
+### Fragen
+* Sie werden sich dieses Jahr scheiden lassen. （他们今年会被分开？）
+* trennen vs. scheiden
+* Sie hat ihn oft beleidigt. (她经常侮辱他？骂他？)
+
+## B7 Vielen Dank für die Einladung
+1. Auf der Rückfahrt aus unserem Urlaub kommen wir bei euch vorbei.
+2. Vielen Dank für die **Einladung**. Das Essen war wie immer **annehmen**!
+3. Wir können nicht zu der **
+
 ## Wörter
 | 单词 | 词性 | 意思 |
 | --- | --- | --- |
@@ -62,3 +90,11 @@
 | die Klassenkameradinnen | n.| ??? |
 | der Gatten | n.| husband |
 | die Gattin | n.| wife |
+| Schimpfwort | n.| dirty word |
+| schwul | a.| gay |
+| der Streit | n.| dispute, argument |
+| scheiden | v.| divide |
+| lügen | v.| lie |
+| beleidigen | v.| insult |
+
+
