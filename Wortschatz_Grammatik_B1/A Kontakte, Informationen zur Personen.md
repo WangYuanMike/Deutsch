@@ -214,3 +214,7 @@ Was passt nicht?
             * Ich lasse mich nicht beleidigen.
             * 也是省略了不特指的人
 * Lassen做实义动词，意为：放在，留在
+* 祈使句
+    * Lass (uns / mich /...)
+    * Lasst 
+    * Lassen Sie
