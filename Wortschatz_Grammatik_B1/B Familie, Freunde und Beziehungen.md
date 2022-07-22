@@ -78,8 +78,31 @@
 
 ## B7 Vielen Dank für die Einladung
 1. Auf der Rückfahrt aus unserem Urlaub kommen wir bei euch vorbei.
-2. Vielen Dank für die **Einladung**. Das Essen war wie immer **annehmen**!
-3. Wir können nicht zu der **
+2. Vielen Dank für die **Einladung**. Das Essen war wie immer **ausgezeichnet**!
+3. Wir können nicht zu der **Veranstaltung** kommen. Wir haben **Besuch**.
+4. Muss man zum **Schulfest** wieder Teller und **Besteck** mitbringen?
+5. Wir müssen die **Geburtstagsfeier** leider **absagen**, Laurin ist krank.
+6. Ich kann die Einladung leider nicht **annehmen**, ich habe schon bei einer anderen Party **zugesagt**.
+7. Der junge Mann wollte ihr einen Drink **spendieren**, aber sie **lehnte ab**.
+8. Ich muss **mich** noch bei Ute **verabschieden** und **mich** für das Geschenk **bedanken**.
+9. Am Wochenende **sind** meine Schwiegereltern bei uns **zu Besuch**.
+10. Wir hatten schon eine **Verabredung**, deshalb haben wir das **Treffen** mit euch verschoben.
+11. Nach dem Skifahren **gab** immer einer aus unserer Clique **einen aus**.
+12. Er **nahm** nicht **an** der Veranstaltung **teil**.
+13. Sollen wir etwas für das Büffet **mitbringen**?
+14. Die **Stimmung** war leider sehr formell. Wir haben **uns** den ganzen Abend nur **über** das Projekt **unterhalten** und keine anderen Gespräche **geführt**.
+
+### Fragen
+* absagen vs. ablehnen
+
+## B8 Einladungen und Verabredungen
+1. Wollen sie gleich einen neuen Termin ausmachen? d) Nein, ich rufe Sie nächste Woche noch einmal an.
+2. Guten Tag, mein Name ist Janzen. Ich bin mit Herrn Agert Verabredet. c) Herr Agert, Frau Janzen ist am Empfang für Sie.
+3. Warten Sie noch auf den Rest der Teilnehmer? g) Nein, ich möchte gleich mit der Fortbildung beginnen.
+4. Bist du mit Frau Ludwig verabredet? f) Ja, wir wollen morgen Mittag zusammen essen gehen.
+5. Hast du eine Idee, was wir Frau Krahmer bei der Abschiedsfeier schenken können? b) Nein, über ein Geschenk habe ich noch nicht nachgedacht.
+6. Wie viele Gäste werden zum Sommerfest erwartet? e) Wir erwarten zirka 200 Personen.
+7. Darf ich Ihnen ein Glas Sekt anbieten? a) Ja, gerne. Aber bitte mit Orangensaft.
 
 ## Wörter
 | 单词 | 词性 | 意思 |
@@ -96,5 +119,13 @@
 | scheiden | v.| divide |
 | lügen | v.| lie |
 | beleidigen | v.| insult |
+| die Veranstaltung | n.| event, activity |
+| ablehnen | v.| refuse |
+| annehmen | v.| accept |
+| zusagen | v.| promise |
+| die Verabredung | n.| date, appoitment |
+| der Sekt | n.| 香槟？气泡水？ |
+
+
 
 
