@@ -192,16 +192,52 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 | äußerst | a.| extremely |
 | die Sphäre | n.| 空间，领域？？？ |
 | jeglich | a.| any |
-| die Aussagen | n.| statement |
+| die Aussage | n.| statement |
 | verneinen | v.| negate, deny |
 | vorlesen | v.| 朗读？？？ |
 
+## Modul 4 Zu Hause in Deutschland
 
+### Schwierige Sätze
+* Welche Begriffe fallen Ihnen dazu ein?
+* Schlüsselwort vs. Stichwort
+* 表赞同对方观点
+    * Ich bin ganz deiner Meinung.
+    * Da hast du völlig recht.
+* 先褒后贬
+    * Der Meinung bin ich auch, aber ...
+    * Das ist sicher richtig, allerdings ...
+* 表不太赞同
+    * Ich sehe das etwas/völlig anders, denn ...
+    * Da muss ich dir aber wider sprechen, denn ich finde ...
+    * Ich bezweifle, dass ...
+* Was halten Sie für besonders wichtig beim Thema Integration? (为何用halten？)
+* Schreiben Sie einen kurzen Kommentar dazu und gehen Sie dabei auf die folgenden Punkte ein. (后半句不懂，eingehen是何意？)
+* Die ehrenamtlichen Lern- und Sprachpaten treffen sich mit den Kindern einmal wöchentlich in der Einrichtung. (此处Einrichtung不能做装修解吧？)
+* Neben der schulischen Förderung versuchen sie, mehr Kontakte zwischen Einheimischen und Zugewanderten zu ermöglichen. (Förderung估计是课业的意思，但是对fordern这个词理解还是不透，另外，这句话的意思是，除了家庭作业，他们也尝试在原住民和移民之间更多的联系？意思不是太通顺，sie表示辅导功课这件事还是老师和学生？)
+* Koko kann ihre Herkunft nicht verbergen, allerdings liegt ihr auch nichts ferner: Ihr Haar, in Zöpfchen geflochten, bindet die Togoerin auf dem Rücken zusammen; (头发编成小辫子贴在背上？) in ihrem Kleid leuchtet sie farbenfroh inmitten hellgrauer Häuser. (多彩的衣服在浅灰色的小房子中闪耀？)
+* Zweimal floh sie vor der eigenen Familie: Wanderarbeiter, die das Mädchen an einen Fremden verheiraten wollten. (两次从自己家逃离？后半句是啥意思？这个女孩儿想嫁给一个朋友，朋友是Wanderarbeiter，怎么关系从句又用die引导？复数？嫁给两个男人？)
+* Nach einer Odyssee durch die Wüste und übers Meer ... (Odyssee表示艰难旅程？)
+* Heute leitet sie mit ihrem Mann eine Hausverwaltung in Berlin. (Hausverwaltung一直搞不清含义，物业？好像又是什么律师？Hausmeister只管维修？)
+* Koko fühlt sich zu Hause (Koko在家有感而发？)
+* fügt sie nachdenklich an (她想了想补充道？)
 
-
-
-
-
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| der Abschnitt | n.| intercept |
+| einfallen | n.| ??? |
+| die Überschrift | n.| title, caption |
+| äussern | v.| express |
+| bezweifeln | v.| doubt |
+| wider | a.| against |
+| zustimmen | v. | agree |
+| ehrenamtlich | a. | voluntary |
+| Sprachpaten | n. | ??? |
+| die Förderung | n. | ??? |
+| die Herkunft | n. | origin, birth |
+| verbergen | v. | hide |
+| die Wüste | n. | desert |
 
 
 
