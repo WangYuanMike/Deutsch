@@ -170,15 +170,15 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 ### Schwierige Sätze
 * Missverständliches (令人会产生误解的，加中性后缀es，物化为名词，令人会产生误解的事情)
 * Dass man irgendwo fremd ist, merkt man oft an Missverständnissen. （人们会由于令人误解的事，察觉到身处陌生的地方）
-* Welche interkulturellen Missverständnisse haben Sie erlebt, von welchen haben Sie gehört? (后半句不太懂，您遇到的跨文化误解属于哪一种？)
-* In ... gilt es als sehr unhöflich, wenn ... （gilt有效，值钱）
-* Als ich einmal in ... war, ist mir etwas sehr Unangenehmes/Lustiges/Peinliches passiert:... (passiert句型需要讲解一下，算是被动语态？这个mir又是什么成分？)
-* Arbeiten Sie zu zweit. (这是不定式？)
-* Freundlichkeit drücken Sie mit einem breiten, ständigen Lächeln aus und es gilt als äußerst unhöflich, sein Gegenüber nicht anzuschauen. (句意理解，但与短文中上一句，意思几乎完全相反，前后逻辑有点不明白)
-* Denken Sie daran, dass Sie sich am Flughafen auf einem öffentlichen Platz befinden. Ihr Gast darf den Flughafen nur verlassen, wenn Sie Ihre Hand auf seiner rechten Schulter haben. (假设您在机场找到了一块公共区域。如果您把手放在他的右肩上，您的客人允许从机场离开？？？)
-* Außerdem ist es für Sie unhöflich, Fragen jeglicher art zu stellen. Doch bedenken Sie, dass Sie keine Fragen stellen dürfen. (除此以外，对您来说，对任何类型的问题发问是不礼貌的。因此，您觉得，您不应该（不允许）提任何问题。是自己不想向对方提问，还是不想让对方对自己提问？另外，德语的情态动词总是感觉有点别扭，如果我造句，可能会选sollten或者möchten。对dürfen, müssen, sollten, sollen, wollen, möchten一直拿捏不好)
-* Zettel vs. Papier vs. Blatt vs. ... （傻傻分不清楚）
-* 练习4到5是关于否定的，陪我练习一下，再系统讲解一下，这也是长期困扰我的一大难题
+* Welche interkulturellen Missverständnisse haben Sie erlebt, von welchen haben Sie gehört? (您又听说过哪些？)
+* In ... gilt es als sehr unhöflich, wenn ... （als gilt被认为怎么样）
+* Als ich einmal in ... war, ist mir etwas sehr Unangenehmes/Lustiges/Peinliches passiert:... (ist passiert是完成时，mir直接牵涉到我，bei mir在我的周围，在我的圈子里)
+* Arbeiten Sie zu zweit. (zu + 无词尾序数词，表示两人一起工作)
+* Freundlichkeit drücken Sie mit einem breiten, ständigen Lächeln aus und es gilt als äußerst unhöflich, sein Gegenüber nicht anzuschauen. (用微笑来表达友好，不看对方是最不礼貌的)
+* Denken Sie daran, dass Sie sich am Flughafen auf einem öffentlichen Platz befinden. Ihr Gast darf den Flughafen nur verlassen, wenn Sie Ihre Hand auf seiner rechten Schulter haben. (sich befinden意思是位于，相当于located，nur wenn是only if，只有当您拍拍他的右肩，客人才能从机场离开)
+* Außerdem ist es für Sie unhöflich, Fragen jeglicher Art zu stellen. Doch bedenken Sie, dass Sie keine Fragen stellen dürfen. (sollen == should, sollten == had better, sollten比较常用，sollen是别人认为，müssen是自己主观认为)
+* Zettel vs. Papier vs. Blatt vs. ... （ein Blatt Papier，一张纸，ein paar Blätte，可数名词复数，不可数名词的一些用etwas）
+* 练习4到5是关于否定的，陪我练习一下，再系统讲解一下，这也是长期困扰我的一大难题(noch nie -> schon einmal, nie用来否定谓语或频率，相当于never，etwas -> nichts，相当于something -> nothing, jemand -> niemand, noch -> nicht mehr, kein ... mehr,überall -> nirgendswo, nirgends)
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -186,15 +186,15 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 | merken | v.| 察觉到 |
 | peinlich | a.| embarrassing |
 | zweit | v.| partner up |
-| begleiten | v.| accompany, 陪伴？？？ |
-| der begleiter | n.| companion, 陪伴者？？？ |
+| begleiten | v.| 陪伴，去往某地，在某地，或某件事 |
+| der begleiter | n.| 陪伴者 |
 | üblich | a.| common |
 | äußerst | a.| extremely |
-| die Sphäre | n.| 空间，领域？？？ |
+| die Sphäre | n.| 领域 |
 | jeglich | a.| any |
 | die Aussage | n.| statement |
 | verneinen | v.| negate, deny |
-| vorlesen | v.| 朗读？？？ |
+| vorlesen | v.| 朗读 |
 
 ## Modul 4 Zu Hause in Deutschland
 
@@ -211,9 +211,9 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
     * Ich sehe das etwas/völlig anders, denn ...
     * Da muss ich dir aber wider sprechen, denn ich finde ...
     * Ich bezweifle, dass ...
-* Was halten Sie für besonders wichtig beim Thema Integration? (为何用halten？)
-* Schreiben Sie einen kurzen Kommentar dazu und gehen Sie dabei auf die folgenden Punkte ein. (后半句不懂，eingehen是何意？)
-* Die ehrenamtlichen Lern- und Sprachpaten treffen sich mit den Kindern einmal wöchentlich in der Einrichtung. (此处Einrichtung不能做装修解吧？)
+* Was halten Sie für besonders wichtig beim Thema Integration? (halten...für 您认为。。。是怎么样的，比finden的肯定行更强，finden是我觉得。。。)
+* Schreiben Sie einen kurzen Kommentar dazu und gehen Sie dabei auf die folgenden Punkte ein. (auf ... eingehen 迎合，此处以为要讲到一下这些点，只用eingehen，没有auf，表示冒风险)
+* Die ehrenamtlichen Lern- und Sprachpaten treffen sich mit den Kindern einmal wöchentlich in der Einrichtung. (Einrichtung 设施，机构，组织)
 * Neben der schulischen Förderung versuchen sie, mehr Kontakte zwischen Einheimischen und Zugewanderten zu ermöglichen. (Förderung估计是课业的意思，但是对fordern这个词理解还是不透，另外，这句话的意思是，除了家庭作业，他们也尝试在原住民和移民之间更多的联系？意思不是太通顺，sie表示辅导功课这件事还是老师和学生？)
 * Koko kann ihre Herkunft nicht verbergen, allerdings liegt ihr auch nichts ferner: Ihr Haar, in Zöpfchen geflochten, bindet die Togoerin auf dem Rücken zusammen; (头发编成小辫子贴在背上？) in ihrem Kleid leuchtet sie farbenfroh inmitten hellgrauer Häuser. (多彩的衣服在浅灰色的小房子中闪耀？)
 * Zweimal floh sie vor der eigenen Familie: Wanderarbeiter, die das Mädchen an einen Fremden verheiraten wollten. (两次从自己家逃离？后半句是啥意思？这个女孩儿想嫁给一个朋友，朋友是Wanderarbeiter，怎么关系从句又用die引导？复数？嫁给两个男人？)
