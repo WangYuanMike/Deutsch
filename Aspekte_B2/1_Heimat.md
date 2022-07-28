@@ -214,13 +214,19 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 * Was halten Sie für besonders wichtig beim Thema Integration? (halten...für 您认为。。。是怎么样的，比finden的肯定行更强，finden是我觉得。。。)
 * Schreiben Sie einen kurzen Kommentar dazu und gehen Sie dabei auf die folgenden Punkte ein. (auf ... eingehen 迎合，此处以为要讲到一下这些点，只用eingehen，没有auf，表示冒风险)
 * Die ehrenamtlichen Lern- und Sprachpaten treffen sich mit den Kindern einmal wöchentlich in der Einrichtung. (Einrichtung 设施，机构，组织)
-* Neben der schulischen Förderung versuchen sie, mehr Kontakte zwischen Einheimischen und Zugewanderten zu ermöglichen. (Förderung估计是课业的意思，但是对fordern这个词理解还是不透，另外，这句话的意思是，除了家庭作业，他们也尝试在原住民和移民之间更多的联系？意思不是太通顺，sie表示辅导功课这件事还是老师和学生？)
-* Koko kann ihre Herkunft nicht verbergen, allerdings liegt ihr auch nichts ferner: Ihr Haar, in Zöpfchen geflochten, bindet die Togoerin auf dem Rücken zusammen; (头发编成小辫子贴在背上？) in ihrem Kleid leuchtet sie farbenfroh inmitten hellgrauer Häuser. (多彩的衣服在浅灰色的小房子中闪耀？)
-* Zweimal floh sie vor der eigenen Familie: Wanderarbeiter, die das Mädchen an einen Fremden verheiraten wollten. (两次从自己家逃离？后半句是啥意思？这个女孩儿想嫁给一个朋友，朋友是Wanderarbeiter，怎么关系从句又用die引导？复数？嫁给两个男人？)
-* Nach einer Odyssee durch die Wüste und übers Meer ... (Odyssee表示艰难旅程？)
-* Heute leitet sie mit ihrem Mann eine Hausverwaltung in Berlin. (Hausverwaltung一直搞不清含义，物业？好像又是什么律师？Hausmeister只管维修？)
-* Koko fühlt sich zu Hause (Koko在家有感而发？)
-* fügt sie nachdenklich an (她想了想补充道？)
+* Neben der schulischen Förderung versuchen sie, mehr Kontakte zwischen Einheimischen und Zugewanderten zu ermöglichen. (Förderen促使，促进，赞助，支持，ermöglichen此处是不定式，使。。。成为可能)
+* Koko kann ihre Herkunft nicht verbergen, allerdings liegt ihr auch nichts ferner（Koko不能隐藏她的身份，但也不会让人太关注她的出身）: Ihr Haar, in Zöpfchen geflochten, bindet die Togoerin auf dem Rücken zusammen; (这个多哥人把小辫子都输在一起) in ihrem Kleid leuchtet sie farbenfroh inmitten hellgrauer Häuser. (穿上她的裙子，让她在灰色的小房子中间很闪耀)
+* Zweimal floh sie vor der eigenen Familie: Wanderarbeiter, die das Mädchen an einen Fremden verheiraten wollten. (她两次从家逃出来，他的家庭是民工，想把她嫁给一个陌生人)
+* Nach einer Odyssee durch die Wüste und übers Meer ... (Odyssee表示艰难旅程)
+* Heute leitet sie mit ihrem Mann eine Hausverwaltung in Berlin. (Hausverwaltung房屋管理公司，Hausmeister房屋管理员)
+* Koko fühlt sich zu Hause (Koko感觉像在家一样)
+* fügt sie nachdenklich an (她想了想补充道)
+* Aber trotzdem fühle ich mich hier nicht wirklich yu Hause. (Aber, trotzdem可以连用？fühlen是反身动词？)
+* Wir werden immer Ausländer bleiben. (我们将一直是外国人？)
+* Ivan denkt oft darüber nach, ob er wieder nach Kroatien gehen soll. (这句没问题，只是觉得句型比较典型，摘抄一下)
+* Nachdem er in Windeseile Deutsch gelernt, die Hochschulreife nachgeholt und nebenbei noch das Charlottenburger Gewürz- und Gemüsegeschäft der Familie geführt hatte, ließ man ihn wegen einer Ausländer-quote ein Jahr lang warten, bis er endlich Informatik studieren durfte. (在他极快的学习德语，拿到大专文凭，以及夏洛特堡香肠蔬菜协会？？？，他的学历被认可了？？？终于他可以学IT了？？？)
+* Scheitern kam nicht infrage.（没考虑过失败。infrage是啥词性？）
+* Er musste um jeden Preis in dem fremden Land zurechtkommen. (他必须为身处外国付出一切代价？？？)
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -238,6 +244,15 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 | die Herkunft | n. | origin, birth |
 | verbergen | v. | hide |
 | die Wüste | n. | desert |
+| stammen | v. | stem from ???(似乎比kommen正式，源自？？？) |
+| vollkommen | a. | completely |
+| zerrissen | v. | tear, break ??? 分裂？？？ |
+| gelegentlich | a. | occassionally |
+| anerkannt | a. | approved |
+| der Kommilitone | n. | classmate ??? |
+| das Geheimnis | n. | mystery |
+| das Scheitern | n. | failure |
+| zurechtkommen | v. | manage, cope with ??? |
 
 
 
