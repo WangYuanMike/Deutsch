@@ -214,50 +214,42 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 * Was halten Sie für besonders wichtig beim Thema Integration? (halten...für 您认为。。。是怎么样的，比finden的肯定行更强，finden是我觉得。。。)
 * Schreiben Sie einen kurzen Kommentar dazu und gehen Sie dabei auf die folgenden Punkte ein. (auf ... eingehen 迎合，此处以为要讲到一下这些点，只用eingehen，没有auf，表示冒风险)
 * Die ehrenamtlichen Lern- und Sprachpaten treffen sich mit den Kindern einmal wöchentlich in der Einrichtung. (Einrichtung 设施，机构，组织)
-* Neben der schulischen Förderung versuchen sie, mehr Kontakte zwischen Einheimischen und Zugewanderten zu ermöglichen. (Förderen促使，促进，赞助，支持，ermöglichen此处是不定式，使。。。成为可能)
+* Neben der schulischen Förderung versuchen sie, mehr Kontakte zwischen Einheimischen und Zugewanderten zu ermöglichen. (Förderen 促使，促进，赞助，支持，ermöglichen此处是不定式，使。。。成为可能)
 * Koko kann ihre Herkunft nicht verbergen, allerdings liegt ihr auch nichts ferner（Koko不能隐藏她的身份，但也不会让人太关注她的出身）: Ihr Haar, in Zöpfchen geflochten, bindet die Togoerin auf dem Rücken zusammen; (这个多哥人把小辫子都输在一起) in ihrem Kleid leuchtet sie farbenfroh inmitten hellgrauer Häuser. (穿上她的裙子，让她在灰色的小房子中间很闪耀)
 * Zweimal floh sie vor der eigenen Familie: Wanderarbeiter, die das Mädchen an einen Fremden verheiraten wollten. (她两次从家逃出来，他的家庭是民工，想把她嫁给一个陌生人)
 * Nach einer Odyssee durch die Wüste und übers Meer ... (Odyssee表示艰难旅程)
 * Heute leitet sie mit ihrem Mann eine Hausverwaltung in Berlin. (Hausverwaltung房屋管理公司，Hausmeister房屋管理员)
 * Koko fühlt sich zu Hause (Koko感觉像在家一样)
 * fügt sie nachdenklich an (她想了想补充道)
-* Aber trotzdem fühle ich mich hier nicht wirklich yu Hause. (Aber, trotzdem可以连用？fühlen是反身动词？)
-* Wir werden immer Ausländer bleiben. (我们将一直是外国人？)
+* Aber trotzdem fühle ich mich hier nicht wirklich zu Hause. (Aber, trotzdem经常连用，aber不占位，trotzdem占位)
+* Wir werden immer Ausländer bleiben. (一般将来时，肯定性被强调)
 * Ivan denkt oft darüber nach, ob er wieder nach Kroatien gehen soll. (这句没问题，只是觉得句型比较典型，摘抄一下)
-* Nachdem er in Windeseile Deutsch gelernt, die Hochschulreife nachgeholt und nebenbei noch das Charlottenburger Gewürz- und Gemüsegeschäft der Familie geführt hatte, ließ man ihn wegen einer Ausländer-quote ein Jahr lang warten, bis er endlich Informatik studieren durfte. (在他极快的学习德语，拿到大专文凭，以及夏洛特堡香肠蔬菜协会？？？，他的学历被认可了？？？终于他可以学IT了？？？)
-* Scheitern kam nicht infrage.（没考虑过失败。infrage是啥词性？）
-* Er musste um jeden Preis in dem fremden Land zurechtkommen. (他必须为身处外国付出一切代价？？？)
+* Nachdem er in Windeseile Deutsch gelernt, die Hochschulreife nachgeholt und nebenbei noch das Charlottenburger Gewürz- und Gemüsegeschäft der Familie geführt hatte, ließ man ihn wegen einer Ausländer-quote ein Jahr lang warten, bis er endlich Informatik studieren durfte. (在他在Windeseile学习德语，拿到大学入学准许，以及在柏林夏洛特区经营了一家香料蔬菜店后，由于外国人配额的缘故，他还要再等一年，直到终于他被允许学IT)
+* Scheitern kam nicht infrage.（完全不考虑失败。infrage kommen是个固定搭配，mit etwas scheitern，他的。。。失败了）
+* Er musste um jeden Preis in dem fremden Land zurechtkommen. (他无论如何都要在陌生的国度立足（混下去），zurecht搞清楚了，sich zurechtfinden搞清自己的位置)
 
 ### Wörter
 | 单词 | 词性 | 意思 |
 | --- | --- | --- |
 | der Abschnitt | n.| intercept |
-| einfallen | n.| ??? |
+| einfallen | v.| etwas fällt jm. ein 想到, lass dir was einfallen 想个好点子啊, auffallen 引起了谁的注意 |
 | die Überschrift | n.| title, caption |
 | äussern | v.| express |
 | bezweifeln | v.| doubt |
 | wider | a.| against |
 | zustimmen | v. | agree |
 | ehrenamtlich | a. | voluntary |
-| Sprachpaten | n. | ??? |
-| die Förderung | n. | ??? |
+| der Sprachpaten | n. | 语言教父，语言辅导老师 |
+| die Förderung | n. | 促使，促进，支持 |
 | die Herkunft | n. | origin, birth |
 | verbergen | v. | hide |
 | die Wüste | n. | desert |
-| stammen | v. | stem from ???(似乎比kommen正式，源自？？？) |
+| stammen | v. | stem from, 源自 |
 | vollkommen | a. | completely |
-| zerrissen | v. | tear, break ??? 分裂？？？ |
+| zerreissen | v. | tear, break |
 | gelegentlich | a. | occassionally |
 | anerkannt | a. | approved |
-| der Kommilitone | n. | classmate ??? |
+| der Kommilitone | n. | classmate，一般指大学同学 |
 | das Geheimnis | n. | mystery |
 | das Scheitern | n. | failure |
-| zurechtkommen | v. | manage, cope with ??? |
-
-
-
-
-
-
-
-
+| zurechtkommen | vi. | cope with |

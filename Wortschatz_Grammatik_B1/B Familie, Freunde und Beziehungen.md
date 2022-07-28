@@ -34,7 +34,7 @@
 14. Frau Lüdenscheidt ist mir leider nicht **bekannt**.
 
 ### Fragen
-* Sie **pflegen** immer noch die **Kontakte** zu ihren ehemaligen **Klassenkameradinnen**.
+* Sie **pflegen** immer noch die **Kontakte** zu ihren ehemaligen **Klassenkameradinnen**. （呵护和谁的关系，即多和朋友来往，pflegen zu v. 习于做什么，wissen etwas zu v. == können）
 
 ## B3 Liebe und Partnerschaft
 1. Ich habe mich auf einer Faschingspartz in meinen Mann verliebt.
@@ -60,8 +60,8 @@
 4. Sie will nicht **mit** ihm **schlafen**, so lange er noch **eine Beziehung** mit einer anderen Frau **hat**.
 
 ### Fragen
-* Der Film ist langweilig, darin geht es nur um Sex. (darin换成in denen可以吗？)
-* Sie will nicht mit ihm schlafen, so lange er noch eine Beziehung mit einer anderen Frau hat. （so lange的意思是只要？）
+* Der Film ist langweilig, darin geht es nur um Sex. (darin此处也可以换成in dem)
+* Sie will nicht mit ihm schlafen, so lange er noch eine Beziehung mit einer anderen Frau hat. （so lange 只要，本质是时间状语从句，即这段时间持续之内）
 
 ## B6 Streit und Konflikte
 1. Sie werden sich dieses Jahr scheiden lassen.
@@ -72,9 +72,9 @@
 6. Er muss immer über alles **diskutieren**.
 
 ### Fragen
-* Sie werden sich dieses Jahr scheiden lassen. （他们今年会被分开？）
-* trennen vs. scheiden
-* Sie hat ihn oft beleidigt. (她经常侮辱他？骂他？)
+* Sie werden sich dieses Jahr scheiden lassen. （他们让（权威机构）将他们分开，sich scheiden）
+* trennen vs. scheiden （trennen 分离，sich trennen 分叉，如道路分叉，人分开了，分手了，scheiden 基本只用于离婚，分离比较正式的说法）
+* Sie hat ihn oft beleidigt. (她经常侮辱他)
 
 ## B7 Vielen Dank für die Einladung
 1. Auf der Rückfahrt aus unserem Urlaub kommen wir bei euch vorbei.
@@ -93,7 +93,7 @@
 14. Die **Stimmung** war leider sehr formell. Wir haben **uns** den ganzen Abend nur **über** das Projekt **unterhalten** und keine anderen Gespräche **geführt**.
 
 ### Fragen
-* absagen vs. ablehnen
+* absagen vs. ablehnen （absagen 取消，ablehnen 拒绝） 
 
 ## B8 Einladungen und Verabredungen
 1. Wollen sie gleich einen neuen Termin ausmachen? d) Nein, ich rufe Sie nächste Woche noch einmal an.
@@ -109,8 +109,8 @@
 | --- | --- | --- |
 | die Nichte | n.| niece，侄女 |
 | der Neffe | n.| nephew，侄子 |
-| pflegen | v.| ??? |
-| die Klassenkameradinnen | n.| ??? |
+| pflegen | v.| 保养，抚育，习于 |
+| der Klassenkamerad | n.| 同学（东德说法，班上同志） |
 | der Gatten | n.| husband |
 | die Gattin | n.| wife |
 | Schimpfwort | n.| dirty word |
@@ -124,8 +124,4 @@
 | annehmen | v.| accept |
 | zusagen | v.| promise |
 | die Verabredung | n.| date, appoitment |
-| der Sekt | n.| 香槟？气泡水？ |
-
-
-
-
+| der Sekt | n.| 气泡酒 |
