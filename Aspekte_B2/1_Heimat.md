@@ -227,6 +227,9 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 * Nachdem er in Windeseile Deutsch gelernt, die Hochschulreife nachgeholt und nebenbei noch das Charlottenburger Gewürz- und Gemüsegeschäft der Familie geführt hatte, ließ man ihn wegen einer Ausländer-quote ein Jahr lang warten, bis er endlich Informatik studieren durfte. (在他在Windeseile学习德语，拿到大学入学准许，以及在柏林夏洛特区经营了一家香料蔬菜店后，由于外国人配额的缘故，他还要再等一年，直到终于他被允许学IT)
 * Scheitern kam nicht infrage.（完全不考虑失败。infrage kommen是个固定搭配，mit etwas scheitern，他的。。。失败了）
 * Er musste um jeden Preis in dem fremden Land zurechtkommen. (他无论如何都要在陌生的国度立足（混下去），zurecht搞清楚了，sich zurechtfinden搞清自己的位置)
+* Stellen Sie Ihre Person vor. (意思是自我介绍？)
+* Überlegen Sie, was für ein Programm Sie anbieten können, wer welche Aufgaben übernimmt und was Sie alles brauchen und organisieren müssen. （没有问题，摘抄一下）
+* Machen Sie Ihrem Partner Vorschläge. (让您的同伴来提建议？但是看起来像是对您的祈使句，而不是对同伴的祈使句)
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -253,3 +256,40 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 | das Geheimnis | n. | mystery |
 | das Scheitern | n. | failure |
 | zurechtkommen | vi. | cope with |
+| die Kaste | n. | box |
+| der Vorschlag | n. | proposal, suggestion |
+
+## Porträt
+
+### Schwierige Sätze
+* Fatih Akin ist deutscher Filmregisseur, Drehbuchautor, Schauspieler und Produzent türkischer Abstammung. (最后一部分不太清楚，土耳其电影制片人？另外，开头的deutscher是修饰后面所有的表语吗？)
+* Fatih akins filme zeigen oft ein Milieu, das nahe "an der straße" liegt. （他的电影往往展示街头的环境？nahe "an der straße" 语法上不太清楚）
+* Bereits in seinem ersten, von der Kritik gefeierten Langspielfilm "Kurz und Schmerzlos" zeichnete Akin 1998 eine Kleinkriminellenstudie voller Schmerz und Härte, deutlich vom Gangsterkino seines Vorbilds Martin Scorses beeinflusst. (von der Kritik gefeierten Langspielfilm 是说电影饱受批评？Kleinkriminellenstudie 暴力小制作？最后一部分意思懂，但是语法上不太理解)
+* Dabei entstammt der sam 25. August 1973 in Hamburg-Altona geborene Sohn eines Arbeiters und einer Grundschullehrerin einem fst schon bürgerlichen Milieu, geprägt von der ersten Generation türkischer Einwanderer im Viertel. （句子意思似懂非懂）
+* Obwohl die Eltern Fatih und den älteren Sohn Cem als gläibige Muslime erziehen, besuchen beide einen katholischen Kindergarten, später das Gzmnasium. (为什么是die Eltern, Fatih只是一个人，似乎应该用单数，儿子那里为什么又用den，这里儿子不是主语吗，为何用四格？)
+* Mit seinem dritten Spielfilm "Gegen die Wand", der Geschichte einer unglücklichen Scheinehe mit Biröl und Sibel in den Hauptrollen, gelingt dem Regisseur 2004 der internationale Durchbruch. (gelingen的主语是什么？由mit引导的一个介词短语？可以这样吗？好像又是der internationale Durchbruch。另外，Scheinehe是何意？字典上说是虚假婚姻？)
+* Das Melodram erhält auf der Berlinale den Goldenen Bären - es ist das erste Mal in 18 Jahren, dass ein deutscher Film die begehrte Trophäe bekommt. (Das Melodram 是何意？auf der Berlinale也不懂，begehrete 貌似意思是令人渴望的，但是这看起来像一个二分词，而不是一分词) 
+* Es folgt eine Einladung nach Cannes, dem Kino-Olymp, wo der Drehbuchautor und Regisseur im Folgejahr den Juryvorsitz der Reihe "Un Certain Regard" übernimmt. (der Reihe 此处是何意？übernehmen vs. nehmen vs. erhalten)
+* 2007 wird "Auf der anderen Seite" auf dem Französischen Festival sogar mit dem Drehbuchprieis ausgezeichnet. (sogar意思是甚至？)
+* Das Drama erzählt von sechs Menschen auf ihrem Lebensweg zwischen Bremen und Istanbul. (erzählen von是固定搭配？Lebensweg如何翻译？生活道路？)
+* Sein Kinofilm "Soul Kitchen", eine Komödie um den Kneipenbesitzer Zinos und seine persönliche Hommage an Hamburg, ist in Deutschland mit 1,3 Milionen Zuschaern sein kommerziell stärkster und auch im Ausland an der Kinokasse erfolgreich. (Kneipenbesitzer是何意？)
+* Dem heimischen Kiez ist Akin stets treu geblieben. (家一直是他的最爱？语法解释一下，看起来像个现在完成时)
+* Sammeln Sie Informationen über Persönlichkeiten aus dem In- und Ausland, die yum Thema "Heimat" interessant sind. （为什么用Persönlichkeit? 角色？ 名人？aus dem In- und Ausland 国内外的？）
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| der Filmregisseur | n.| director |
+| das Drehbuch | n.| script |
+| das Millieu | n.| environment, ambience |
+| das Vorbild | n.| example, role model |
+| gläubig | a.| religious |
+| der Durchbruch | n.| break through |
+| gelingen | v.| succeed, manage |
+| der Jurzvorsitz | n.| 评审委员会 ？？？ |
+| die Hommage | n.| 致敬 |
+| die Vorlage | n.| pattern, model |
+
+
+
+
