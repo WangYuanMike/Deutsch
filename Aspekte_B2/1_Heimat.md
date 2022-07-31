@@ -262,19 +262,19 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 ## Porträt
 
 ### Schwierige Sätze
-* Fatih Akin ist deutscher Filmregisseur, Drehbuchautor, Schauspieler und Produzent türkischer Abstammung. (最后一部分不太清楚，土耳其电影制片人？另外，开头的deutscher是修饰后面所有的表语吗？)
-* Fatih akins filme zeigen oft ein Milieu, das nahe "an der straße" liegt. （他的电影往往展示街头的环境？nahe "an der straße" 语法上不太清楚）
-* Bereits in seinem ersten, von der Kritik gefeierten Langspielfilm "Kurz und Schmerzlos" zeichnete Akin 1998 eine Kleinkriminellenstudie voller Schmerz und Härte, deutlich vom Gangsterkino seines Vorbilds Martin Scorses beeinflusst. (von der Kritik gefeierten Langspielfilm 是说电影饱受批评？Kleinkriminellenstudie 暴力小制作？最后一部分意思懂，但是语法上不太理解)
-* Dabei entstammt der sam 25. August 1973 in Hamburg-Altona geborene Sohn eines Arbeiters und einer Grundschullehrerin einem fst schon bürgerlichen Milieu, geprägt von der ersten Generation türkischer Einwanderer im Viertel. （句子意思似懂非懂）
-* Obwohl die Eltern Fatih und den älteren Sohn Cem als gläibige Muslime erziehen, besuchen beide einen katholischen Kindergarten, später das Gzmnasium. (为什么是die Eltern, Fatih只是一个人，似乎应该用单数，儿子那里为什么又用den，这里儿子不是主语吗，为何用四格？)
-* Mit seinem dritten Spielfilm "Gegen die Wand", der Geschichte einer unglücklichen Scheinehe mit Biröl und Sibel in den Hauptrollen, gelingt dem Regisseur 2004 der internationale Durchbruch. (gelingen的主语是什么？由mit引导的一个介词短语？可以这样吗？好像又是der internationale Durchbruch。另外，Scheinehe是何意？字典上说是虚假婚姻？)
-* Das Melodram erhält auf der Berlinale den Goldenen Bären - es ist das erste Mal in 18 Jahren, dass ein deutscher Film die begehrte Trophäe bekommt. (Das Melodram 是何意？auf der Berlinale也不懂，begehrete 貌似意思是令人渴望的，但是这看起来像一个二分词，而不是一分词) 
-* Es folgt eine Einladung nach Cannes, dem Kino-Olymp, wo der Drehbuchautor und Regisseur im Folgejahr den Juryvorsitz der Reihe "Un Certain Regard" übernimmt. (der Reihe 此处是何意？übernehmen vs. nehmen vs. erhalten)
-* 2007 wird "Auf der anderen Seite" auf dem Französischen Festival sogar mit dem Drehbuchprieis ausgezeichnet. (sogar意思是甚至？)
-* Das Drama erzählt von sechs Menschen auf ihrem Lebensweg zwischen Bremen und Istanbul. (erzählen von是固定搭配？Lebensweg如何翻译？生活道路？)
-* Sein Kinofilm "Soul Kitchen", eine Komödie um den Kneipenbesitzer Zinos und seine persönliche Hommage an Hamburg, ist in Deutschland mit 1,3 Milionen Zuschaern sein kommerziell stärkster und auch im Ausland an der Kinokasse erfolgreich. (Kneipenbesitzer是何意？)
-* Dem heimischen Kiez ist Akin stets treu geblieben. (家一直是他的最爱？语法解释一下，看起来像个现在完成时)
-* Sammeln Sie Informationen über Persönlichkeiten aus dem In- und Ausland, die yum Thema "Heimat" interessant sind. （为什么用Persönlichkeit? 角色？ 名人？aus dem In- und Ausland 国内外的？）
+* Fatih Akin ist deutscher Filmregisseur, Drehbuchautor, Schauspieler und Produzent türkischer Abstammung. (德国的，土耳其裔的，Abstammung来自，源自)
+* Fatih akins filme zeigen oft ein Milieu, das nahe "an der straße" liegt. （nahe靠近的，如果后面接介词，nahe可以被理解为表示临近意思的副词 "an der straße" 街边的）
+* Bereits in seinem ersten, von der Kritik gefeierten Langspielfilm "Kurz und Schmerzlos" zeichnete Akin 1998 eine Kleinkriminellenstudie voller Schmerz und Härte, deutlich vom Gangsterkino seines Vorbilds Martin Scorses beeinflusst. (von der Kritik gefeierten Langspielfilm收到评论界好评的电影，Kleinkriminellenstudie对暴力有研究的小试验品，最后一部分类似于英语，省略werden，起到修饰作用)
+* Dabei entstammt der am 25. August 1973 in Hamburg-Altona geborene Sohn eines Arbeiters und einer Grundschullehrerin einem fast schon bürgerlichen Milieu, geprägt von der ersten Generation türkischer Einwanderer im Viertel. （entstammen来自，及物动词，加三格宾语，这个Sohn就是Fatih，bürgerlich 中产阶级，geprägt语法结构上和上一句相似）
+* Obwohl die Eltern Fatih und den älteren Sohn Cem als gläubige Muslime erziehen, besuchen beide einen katholischen Kindergarten, später das Gymnasium. (Fatih和他的哥哥)
+* Mit seinem dritten Spielfilm "Gegen die Wand", der Geschichte einer unglücklichen Scheinehe mit Biröl und Sibel in den Hauptrollen, gelingt dem Regisseur 2004 der internationale Durchbruch. (gelingen的主语是物，即der internationale Durchbruch, 人做三格宾语，意为某人成功做到某事。Scheinehe假婚姻，mit短语修饰der Geschichte)
+* Das Melodram erhält auf der Berlinale den Goldenen Bären - es ist das erste Mal in 18 Jahren, dass ein deutscher Film die begehrte Trophäe bekommt. (Das Melodram情节片，auf der Berlinale柏林电影节，begehrete被渴望的) 
+* Es folgt eine Einladung nach Cannes, dem Kino-Olymp, wo der Drehbuchautor und Regisseur im Folgejahr den Juryvorsitz der Reihe "Un Certain Regard" übernimmt. (eine Einladung是folgt句子的主语，der Reihe一个系列单元，wo规定时间地点，übernehmen接管，接任 vs. nehmen柜台或点菜时点什么要什么 vs. erhalten得到)
+* 2007 wird "Auf der anderen Seite" auf dem Französischen Festival sogar mit dem Drehbuchprieis ausgezeichnet. (sogar意思是甚至，但意思没有中文程度那么深，可以理解为并且，sogar wenn即使，与auch wenn意思相同，但auch可放在句中，sogar wenn必须连在一起放在句首)
+* Das Drama erzählt von sechs Menschen auf ihrem Lebensweg zwischen Bremen und Istanbul. (erzählen von是固定搭配，后面接较为具体的宾语，如果不接von，后面接抽象一点的宾语，如经历，auf ... weg == on the way)
+* Sein Kinofilm "Soul Kitchen", eine Komödie um den Kneipenbesitzer Zinos und seine persönliche Hommage an Hamburg, ist in Deutschland mit 1,3 Milionen Zuschaern sein kommerziell stärkster und auch im Ausland an der Kinokasse erfolgreich. (Kneipenbesitzer小酒馆老板，eine Komödie um ...关于)
+* Dem heimischen Kiez ist Akin stets treu geblieben. (sein, bleiben, werden都是系动词，stets == ständig, immer, treu忠实，对。。。忠诚)
+* Sammeln Sie Informationen über Persönlichkeiten aus dem In- und Ausland, die yum Thema "Heimat" interessant sind. （Persönlichkeit此处意为有些成就的名人，Prominenter网红，话题人物，Berühmtheit名人，名气，意思较为接近famous，aus dem In- und Ausland来自国内外的）
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -286,7 +286,7 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 | gläubig | a.| religious |
 | der Durchbruch | n.| break through |
 | gelingen | v.| succeed, manage |
-| der Jurzvorsitz | n.| 评审委员会 ？？？ |
+| der Juryvorsitz | n.| 评审委员会 |
 | die Hommage | n.| 致敬 |
 | die Vorlage | n.| pattern, model |
 
