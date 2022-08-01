@@ -290,6 +290,38 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 | die Hommage | n.| 致敬 |
 | die Vorlage | n.| pattern, model |
 
+## Ganz von vorn beginnen
+
+### Schwierige Sätze
+* alle sprechen ahlt in Spanisch (halt是just的意思？)
+* Ich war noch klein, und ich war erst zwölfeinhalb, und da musste ich halt mit. Ich konnte mich ja nicht dagegen wehren. （musste ich halt mit意思是我必须强硬，否则我不能保护自己？）
+* Noch sind wir in einem Alter, wo man noch mal was Neues anfangen kann, und da haben wir das in Angriff genommen. (单词基本都认识，句子竟然完全不懂)
+* Wir kommen im nächsten Jahr runter, machen erst mal Urlaub und dann gucken wir uns das mal an. （runter在这里是什么意思？我明年才去，先去休个假，然后再看看干些啥）
+* Klären Sie die Bedeutung der folgenden Wörter ud Wendungen aus dem Film.
+    1. etwas in Angriff nehmen
+    2. sich durchbeißen
+    3. ein Mann für alle Fälle
+    4. das Herz wird schwer
+    5. die bessere Hälfte
+    6. der Lebensabend  
+    * a. traurig werden
+    * b. der Lebens- oder Ehepartner
+    * c. die Jahre nach dem Arbeitsleben
+    * d. jemand, der vielfältig begabt ist
+    * e. beginnen, etwas zu tun
+    * f. etwas trotz Problemen schaffen
+* Wie haben die jüngsten Kinder der Knells reagiert, als sie von den Auswanderungsplänen ihrer Eltern erfahren haben? (Auswanderungsplänen是移民计划？如果是计划的话，那怎么会有经验呢？还没开始移民，应该没有经验)
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| dauerhaft | a.| permanent, stable |
+| halt | a.| just |
+| wehren | v.| defend |
+| Angriff | v.| attack??? |
+| zögern | v.| hesitate |
+| sich durchbeißen | v.| struggle ??? |
+| auftreten | v.| occur |
 
 
 
