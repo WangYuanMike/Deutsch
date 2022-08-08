@@ -323,5 +323,33 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 | sich durchbeißen | v.| struggle ??? |
 | auftreten | v.| occur |
 
+# Arbeitsbuch
 
+## Modul 1 Heimat ist ...
+
+### 2 Heimat. Lesen Sie die Forumsbeiträge und ordnen Sie die Wörter zu.
+* Also, Heimat ist für mich mein **Gebursort**. Dort bin ich aufgewachsen und jede Straße, jeder Platz ist mir **vertraut**. Mit den Freund aus meiner **Kinderheit** habe ich heute noch Kontakt, obwohl wir mittlerweile alle an verschiedenen Orten wohnen.
+* Heimat ist für mich kein bestimmter Ort. Ich kann mich überall auf der **Welt** zu Hause fühlen, wenn ich **Menschen** um mich habe, die ich mag und die mich verstehen.
+* Ganz klar, meine Heimat ist mein Dorf, die Region mit ihren **Traditionen** und Bräuchen. Hier kenne ich alle Leute. Warum soll ich weggehen? Woanders würde ich mich nur **fremd** fühlen.
+* Ich kann mit dem Begriff Heimat überhaupt nichts anfangen. Das ist doch in Zeiten der Globalisierung nicht mehr **zeitgemäß**. Also, ich fühle mich als Weltbürger.
+* Ich weiß eigentlich erst, was Heimat für mich **bedeutet**, seit ich ans andere Ende der Welt gezogen bin. Erst jetzt sind mir meine **Wurzeln** bewusst geworden und die sind eindeutig in Norddeutschland. Die Landschaft und die Menschen fehlen mir.
+* Heimat - das ist der **Gebruch** von frisch gebackenem Kuchen, wenn man nach Hause kommt. Und dann setzt man sich mit der Familie gemütlich an den Tisch und erzählt, was alles so passiert ist. Dieses Gefühl der **Geborgenheit** verbinde ich mit Heimat.
+
+
+### Schwierige Sätze
+* Ich kann mich überall auf der **Welt** zu Hause fühlen, wenn ich **Menschen** um mich habe, die ich mag und die mich verstehen. (后半句不懂)
+* Ich kann mit dem Begriff Heimat überhaupt nichts anfangen. (我对故乡这个词不以为然？)
+* Erst jetzt sind mir meine **Wurzeln** bewusst geworden und die sind eindeutig in Norddeutschland. (前半句语法解读一下)
+* Die Landschaft und die Menschen fehlen mir! (这些人让我很失望？)
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| der Geruch | n.| smell |
+| zeitgemäß | a.| contemporary |
+| die Geborgenheit | a.| security, feeling of security |
+| vertraut | a.| familiar, intimate |
+| das Wurzeln | n.| root |
+| der Brauch | n.| custom |
+| bewusst | a.| conscious, aware |
 
