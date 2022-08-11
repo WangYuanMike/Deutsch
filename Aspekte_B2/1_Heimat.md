@@ -325,9 +325,9 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 
 # Arbeitsbuch
 
-## Modul 1 Heimat ist ...
+## Wortschatz
 
-### 2 Heimat. Lesen Sie die Forumsbeiträge und ordnen Sie die Wörter zu.
+### Ü2
 * Also, Heimat ist für mich mein **Gebursort**. Dort bin ich aufgewachsen und jede Straße, jeder Platz ist mir **vertraut**. Mit den Freund aus meiner **Kinderheit** habe ich heute noch Kontakt, obwohl wir mittlerweile alle an verschiedenen Orten wohnen.
 * Heimat ist für mich kein bestimmter Ort. Ich kann mich überall auf der **Welt** zu Hause fühlen, wenn ich **Menschen** um mich habe, die ich mag und die mich verstehen.
 * Ganz klar, meine Heimat ist mein Dorf, die Region mit ihren **Traditionen** und Bräuchen. Hier kenne ich alle Leute. Warum soll ich weggehen? Woanders würde ich mich nur **fremd** fühlen.
@@ -335,12 +335,43 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 * Ich weiß eigentlich erst, was Heimat für mich **bedeutet**, seit ich ans andere Ende der Welt gezogen bin. Erst jetzt sind mir meine **Wurzeln** bewusst geworden und die sind eindeutig in Norddeutschland. Die Landschaft und die Menschen fehlen mir.
 * Heimat - das ist der **Gebruch** von frisch gebackenem Kuchen, wenn man nach Hause kommt. Und dann setzt man sich mit der Familie gemütlich an den Tisch und erzählt, was alles so passiert ist. Dieses Gefühl der **Geborgenheit** verbinde ich mit Heimat.
 
+### Ü3
+1. einleben sich in einer neuen Stadt
+2. gewöhnen sich an ein anderes Klima
+3. verabschieden sich von seinen Freuden
+4. beherrschen eine Sprache
+5. knüpfen neue Kontakte
+
+### Ü4
+1. das Ausland - nicht das Land, in dem man zu Hause ist
+2. das Vorurteil - eine feste Meinung über Menschen/Dingen, von denen man nicht viel weiß
+3. die Beziehung - Verbindung zwischen zwei Menschen
+4. der Unterschied - das, worin zwei Dinge oder Personen nicht gleich sind
+5. die Sehnsucht - das Vermissen von Menschen/dingen
+6. die Entscheidung - die Auswahl einer von mehreren Möglichkeiten (nach gründlichem Überlegen)
+7. die Erfahrung - Wissen oder Können, das man durch eigene Erlebnisse erwirbt
+8. das Gefühl - Emotion
+9. die Regel - Vorschrift, Richtlinie
+10. das Verhalten - Art und Weise, wie ein Mensch in verschedenen Situationen handelt
+
+### Ü5
+* finden - verlieren
+* gemeinsam - allein
+* auswandern - einwandern
+* vertraut - fremd
+* das Heimweh - das Fernweh
+* sich erinnern - vergessen
+* sich fremd fühlen - sich geborgen fühlen
+* weggehen - zurückkehren
+* ablehnen - annehmen
+* sich bemühen - sich nicht anstrengen
 
 ### Schwierige Sätze
 * Ich kann mich überall auf der **Welt** zu Hause fühlen, wenn ich **Menschen** um mich habe, die ich mag und die mich verstehen. (后半句不懂)
 * Ich kann mit dem Begriff Heimat überhaupt nichts anfangen. (我对故乡这个词不以为然？)
 * Erst jetzt sind mir meine **Wurzeln** bewusst geworden und die sind eindeutig in Norddeutschland. (前半句语法解读一下)
 * Die Landschaft und die Menschen fehlen mir! (这些人让我很失望？)
+* sich bemühen - sich nicht anstrengen (两个词都不懂)
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -352,4 +383,25 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 | das Wurzeln | n.| root |
 | der Brauch | n.| custom |
 | bewusst | a.| conscious, aware |
+| geborgen | a.| secure |
 
+## Modul 1 Neue Heimat
+### Ü1
+Liebe Miriam,  
+jetzt haben wir schon wieder so lange nichts **(1)(b)voneinander** gehört und ich dachte, ich muss mich **(2)(b)unbedingt** mal wieder melden. Ich würde dich ja auch gerne mal anrufen, aber wegen der Zeitverschiebung ist es so kompliziert, die richtige Tageszeit zu erwischen. Ich hoffe, bei dir läuft alles gut! Mir geht es immer noch **(3)(c)ziemlich** gut hier in Australien. Ich habe mich **(4)(a)an** das Klima und alles andere gewöhnt. Mein Job gefällt mir, meine Kollegen sind nett und ich habe mittlerweile auch ein paar Freunde gefunden. Ich bin gerade umgezogen, endlich raus aus dem Mini-Zimmer! Stell dir vor, ich habe jetzt ein richtiges kleines Häuschen. Ein Bekannter von mir, **(5)(a)dem** das Haus gehört, ist für ein Jahr beruflich in Europa und so lange kann ich hier wohnen. Mal sehen, was dann kommt. Aber auch wenn es mir gut geht, packt mich natürlich trotzdem öfter mal das Heimweh und deshalb habe ich geplant, diesen Sommer nach Hause zu fliegen. Wahrscheinlich komme ich Mitte August und beleibe dann für vier Wochen, **(6)(a)damit** sich der lange Flug auch lohnt. Jetzt wollte ich nachfragen, **(7)(b)ob** du in dieser Zeit da bist. Oder machst du da Urlaub? Es wäre wirklich schön, wenn wir etwas zusammen **(8)(b)unternehmen** könnten und mal wieder so richtig Zeit hätten zu plaudern. Ich habe auch vor, Andrea und Jonas in Berlin zu besuchen. Hast du Lust mitzukommen? Da gibt es im Sommer eine große Foto-Ausstellung, die **(9)(b)ich** sehr interessieren würde. Hast du eigentlich mal was von Brigitte gehört? Sie **(10)(c)soll** doch jetzt wieder in Deutschland sein. Würde mich interessieren, wie sie sich wieder eingelebt hat, nach fünf Jahren in Argentinien. Lass bald von dir hören!  
+Liebe Grüße
+Ella
+
+### Schwierige Sätze
+* Jetzt haben wir schon wieder so lange nichts **(1)(b)voneinander** gehört und ich dachte, ich muss mich **(2)(b)unbedingt** mal wieder melden. (melden此处做何解？我必须跟你联系？)
+* Ich bin gerade umgezogen, endlich raus aus dem Mini-Zimmer!(为何要raus aus?表示加重语气？)
+* Aber auch wenn es mir gut geht, packt mich natürlich trotzdem öfter mal das Heimweh.(packt mich das Heimweh 把乡愁装起来？)
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| Zeitverschiebung | v.| time lag, time difference |
+| erwischen | v.| catch, find |
+| unterhalten | v.| talk, maintain |
+| plaudern | v.| chat |
+| vorhaben | v.| plan |
