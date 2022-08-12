@@ -372,6 +372,9 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 * Erst jetzt sind mir meine **Wurzeln** bewusst geworden und die sind eindeutig in Norddeutschland. (前半句语法解读一下)
 * Die Landschaft und die Menschen fehlen mir! (这些人让我很失望？)
 * sich bemühen - sich nicht anstrengen (两个词都不懂)
+* Ziemlich erschöpft fuhren wir nach unserer Anunft zu Ellas Haus. (从我们家到Ella家？)
+* Gut erholt flogen wir nach drei Wochen wieder nach Hause zurück.(gut erholt不懂什么意思)
+* Mein Bruder muss meiner Mutter jetzt öfter bei der Hausarbeit  helfen. (妈妈帮哥哥？为什么Mutter前面的代词用三格？)
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -384,6 +387,9 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 | der Brauch | n.| custom |
 | bewusst | a.| conscious, aware |
 | geborgen | a.| secure |
+| die Hitze | n.| heat |
+| faul | a.| lazy |
+| Andenken | n.| 旅游纪念品 |
 
 ## Modul 1 Neue Heimat
 ### Ü1
@@ -392,10 +398,18 @@ jetzt haben wir schon wieder so lange nichts **(1)(b)voneinander** gehört und i
 Liebe Grüße
 Ella
 
+### Ü6a
+Ben träumte schon lange **(1)von** einem längeren Auslandsaufenthalt. Deshalb bewarb er sich letztes Jahr **(2)bei** einer italienischen Firma. Nachdem er seine Bewerbungsunterlagen abgeschickt hatte, wartete er ungeduldig **(3)auf** eine Antwort. Vier Wochen später wurde er tatsächlich **(4)zu** einem Vorstellungsgespräch eingeladen. Er bekam die Stelle und freute sich **(5)auf** seinen Umzug nach Italien, der schon zwei Wochen später stattfinden sollte. Jetzt lebt Ben seit einigen Monaten in Rom und hat sich schon gut **(6)an** sein neues Leben gewöhnt. Seine neuen Arbeitskollegen kümmern sich sehr nett **(7)um** ihn. Am Wochenende verabredet er sich oft **(8)mit** ihnen im Restaurant und dann unterhalten sie sich **(9)über** alles Mögliche. So wird auch sein Italienisch immer besser, sodass er langsam auch **(10)an** allen Besprechungen im Büro aktiv teilnehmen kann.
+
+
 ### Schwierige Sätze
 * Jetzt haben wir schon wieder so lange nichts **(1)(b)voneinander** gehört und ich dachte, ich muss mich **(2)(b)unbedingt** mal wieder melden. (melden此处做何解？我必须跟你联系？)
 * Ich bin gerade umgezogen, endlich raus aus dem Mini-Zimmer!(为何要raus aus?表示加重语气？)
 * Aber auch wenn es mir gut geht, packt mich natürlich trotzdem öfter mal das Heimweh.(packt mich das Heimweh 把乡愁装起来？)
+* Am Wochenende verabredet er sich oft **(8)mit** ihnen im Restaurant und dann unterhalten sie sich **(9)über** alles Mögliche.（对verabreden理解不深，另外这里alles Mögliche算是中性单数第四格？）
+* Daraufhin hat sie sich ziemlich schnell zu einem Umzug nach Australien entschlossen. (Daraufhin是什么鬼？)
+* Sie versteht sich mittlerweile mit ihrem Exfreund wieder gut und manchmal hilft er ihr bei bürokratischen Problemen. (sich verstehen做何解？她和前男友仍保持良好关系？那为何用wieder，好像noch比较合适)
+
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -405,3 +419,28 @@ Ella
 | unterhalten | v.| talk, maintain |
 | plaudern | v.| chat |
 | vorhaben | v.| plan |
+| verabreden | v.| appoint, arrange |
+| die Zeitschrift | n.| magazine |
+
+## Modul 3 Missverständliches
+
+### Schwierige Sätze
+* Stellen Sie sich bitte ein Land vor, in dem seit der Zeit der ersten Menschen, heutzutage und bis weit in die Zukunft, jeder Mensch, der je geboren wurde oder erst geboren werden wird, mit zwei Beinen, zwei Armen, zwei augen, einer Nase, einem Mund und einer sonnenbrille geboren wird. (bis weit是多久？让我尝试解读一下这个句子的语法结构，你看看对不对)
+* Alles, was sie gesehen, gelernt oder erfahren haben ist durch die gelben Gläser ins Gehirn gelangt.（gelangt动词原型是什么？具体做何解？）
+* Er sieht tatsächlich Japan, indem er japanische Sonnenbrillen trägt. (indem不太明白)
+* Zeile vs. Reihen
+* Die Situationen waren realistisch und ich fand die Szenen spannend umgesetzt. (我觉得场景布置的很令人兴奋？)
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| seltsam | a. | strange |
+| die Annahme | n. | assumption |
+| die Gegenwart | n. | present |
+| klug | a. | clever |
+| erkennen | v. | see, recognize ??? |
+| erwerben | v. | acquire |
+| die Einstellung | n. | attitude ??? |
+| tragen | v. | carry, wear |
+| vernünftig | a. | reasonable |
+| die Gewohnheit | n. | habit |
