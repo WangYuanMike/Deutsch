@@ -18,17 +18,17 @@
 15. Er kommt sicher noch, es ist nicht seine **Art**, unzuverlässig zu sein.
 
 ### Fragen
-* Charakter vs. Eigenschaften vs. Einstellungen
-* Unser Nachbar ist jetzt 86 und mit dem Alter **komisch** geworden. (komisch意思是搞笑？)
-* Er ist mir **unsympathisch**, weil er immer blöde **Witze** macht. (他对我不同情，因为他老开蠢笑话？)
+* Charakter vs. Eigenschaften vs. Einstellungen （有生命的人的特点特征 vs. 客观属性 vs. 立场）
+* Unser Nachbar ist jetzt 86 und mit dem Alter **komisch** geworden. (komisch 滑稽，可笑，少有，古怪，略有贬义)
+* Er ist mir **unsympathisch**, weil er immer blöde **Witze** macht. (他对我不友好，因为他老开蠢笑话，带有歧视性的笑话)
 * Ich mag ihn nicht besonders, weil er immer mit allem **unzufrieden** ist.
-* Die beiden sind sich vom **Typ** her sehr ähnlich.
+* Die beiden sind sich vom **Typ** her sehr ähnlich. （vom Typ her 从个性去看)
 
 ## Wörter
 | 单词 | 词性 | 意思 |
 | --- | --- | --- |
-| die Eigenschaft | n.| ??? |
-| die Einstellung | n.| ??? |
+| die Eigenschaft | n.| 客观属性 |
+| die Einstellung | n.| 立场 |
 | stolz | a.| proud |
 | wütend | a.| angry |
 | blöd | a.| stupid |
@@ -36,6 +36,6 @@
 | zuverlässig | a.| reliable |
 | lieb | a.| good, nice |
 | gerecht | a.| suitable |
-| gut gelaunt | a.| humour??? |
+| gut gelaunt | a.| 心情很好 |
 | das Referat | n.| review, unit, report |
 | ernst | a.| serious, strict |

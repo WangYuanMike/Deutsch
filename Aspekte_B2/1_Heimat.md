@@ -293,24 +293,24 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 ## Ganz von vorn beginnen
 
 ### Schwierige Sätze
-* alle sprechen ahlt in Spanisch (halt是just的意思？)
-* Ich war noch klein, und ich war erst zwölfeinhalb, und da musste ich halt mit. Ich konnte mich ja nicht dagegen wehren. （musste ich halt mit意思是我必须强硬，否则我不能保护自己？）
-* Noch sind wir in einem Alter, wo man noch mal was Neues anfangen kann, und da haben wir das in Angriff genommen. (单词基本都认识，句子竟然完全不懂)
-* Wir kommen im nächsten Jahr runter, machen erst mal Urlaub und dann gucken wir uns das mal an. （runter在这里是什么意思？我明年才去，先去休个假，然后再看看干些啥）
+* alle sprechen halt in Spanisch (halt是小品词，用于加强语气，表示非常平常，非常普通，强调确实是个事实)
+* Ich war noch klein, und ich war erst zwölfeinhalb, und da musste ich halt mit. Ich konnte mich ja nicht dagegen wehren. （我也得跟去，我没能力反抗，我得跟着）
+* Noch sind wir in einem Alter, wo man noch mal was Neues anfangen kann, und da haben wir das in Angriff genommen. (etwas in Angriff nehmen = beginnen, etwas zu tun，我们还在一个年纪，我们还不老，可以开始一些新的事情)
+* Wir kommen im nächsten Jahr runter, machen erst mal Urlaub und dann gucken wir uns das mal an. （runterkommen 往下走， 我明年才往下走（可能是现在的地方海拔较高），先去休个假，然后再看看干些啥）
 * Klären Sie die Bedeutung der folgenden Wörter ud Wendungen aus dem Film.
     1. etwas in Angriff nehmen
     2. sich durchbeißen
     3. ein Mann für alle Fälle
     4. das Herz wird schwer
     5. die bessere Hälfte
-    6. der Lebensabend  
+    6. der Lebensabend （晚年）
     * a. traurig werden
     * b. der Lebens- oder Ehepartner
     * c. die Jahre nach dem Arbeitsleben
-    * d. jemand, der vielfältig begabt ist
+    * d. jemand, der vielfältig begabt ist （begabt 天赋，能力）
     * e. beginnen, etwas zu tun
     * f. etwas trotz Problemen schaffen
-* Wie haben die jüngsten Kinder der Knells reagiert, als sie von den Auswanderungsplänen ihrer Eltern erfahren haben? (Auswanderungsplänen是移民计划？如果是计划的话，那怎么会有经验呢？还没开始移民，应该没有经验)
+* Wie haben die jüngsten Kinder der Knells reagiert, als sie von den Auswanderungsplänen ihrer Eltern erfahren haben? (erfahren此处是获悉的意思)
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -318,9 +318,9 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 | dauerhaft | a.| permanent, stable |
 | halt | a.| just |
 | wehren | v.| defend |
-| Angriff | v.| attack??? |
+| Angriff | n.| attack |
 | zögern | v.| hesitate |
-| sich durchbeißen | v.| struggle ??? |
+| sich durchbeißen | v.| struggle，通过努力做成了什么 |
 | auftreten | v.| occur |
 
 # Arbeitsbuch
@@ -367,14 +367,14 @@ b) Kennen Sie ähnliche Zitate aus Ihrem Land?
 * sich bemühen - sich nicht anstrengen
 
 ### Schwierige Sätze
-* Ich kann mich überall auf der **Welt** zu Hause fühlen, wenn ich **Menschen** um mich habe, die ich mag und die mich verstehen. (后半句不懂)
-* Ich kann mit dem Begriff Heimat überhaupt nichts anfangen. (我对故乡这个词不以为然？)
-* Erst jetzt sind mir meine **Wurzeln** bewusst geworden und die sind eindeutig in Norddeutschland. (前半句语法解读一下)
-* Die Landschaft und die Menschen fehlen mir! (这些人让我很失望？)
-* sich bemühen - sich nicht anstrengen (两个词都不懂)
-* Ziemlich erschöpft fuhren wir nach unserer Anunft zu Ellas Haus. (从我们家到Ella家？)
-* Gut erholt flogen wir nach drei Wochen wieder nach Hause zurück.(gut erholt不懂什么意思)
-* Mein Bruder muss meiner Mutter jetzt öfter bei der Hausarbeit  helfen. (妈妈帮哥哥？为什么Mutter前面的代词用三格？)
+* Ich kann mich überall auf der **Welt** zu Hause fühlen, wenn ich **Menschen** um mich habe, die ich mag und die mich verstehen. (Menschen um mich habe 周围有懂我的人)
+* Ich kann mit dem Begriff Heimat überhaupt nichts anfangen. (我对故乡这个词完全不了解，überhaupt一般固定加否定，完全不)
+* Erst jetzt sind mir meine **Wurzeln** bewusst geworden und die sind eindeutig in Norddeutschland. (我了解了我的根，Ich bin mir dessen bewusst, etwas ist jm. bewusst)
+* Die Landschaft und die Menschen fehlen mir! (这些人让我很想念)
+* sich bemühen - sich anstrengen (都是努力的意思)
+* Ziemlich erschöpft fuhren wir nach unserer Ankunft zu Ellas Haus. (我们到达后，又蛮疲惫的开往Ella家)
+* Gut erholt flogen wir nach drei Wochen wieder nach Hause zurück.(gut erholt 很好的恢复)
+* Mein Bruder muss meiner Mutter jetzt öfter bei der Hausarbeit helfen. (helfen宾语用三格)
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -403,12 +403,12 @@ Ben träumte schon lange **(1)von** einem längeren Auslandsaufenthalt. Deshalb 
 
 
 ### Schwierige Sätze
-* Jetzt haben wir schon wieder so lange nichts **(1)(b)voneinander** gehört und ich dachte, ich muss mich **(2)(b)unbedingt** mal wieder melden. (melden此处做何解？我必须跟你联系？)
-* Ich bin gerade umgezogen, endlich raus aus dem Mini-Zimmer!(为何要raus aus?表示加重语气？)
-* Aber auch wenn es mir gut geht, packt mich natürlich trotzdem öfter mal das Heimweh.(packt mich das Heimweh 把乡愁装起来？)
-* Am Wochenende verabredet er sich oft **(8)mit** ihnen im Restaurant und dann unterhalten sie sich **(9)über** alles Mögliche.（对verabreden理解不深，另外这里alles Mögliche算是中性单数第四格？）
-* Daraufhin hat sie sich ziemlich schnell zu einem Umzug nach Australien entschlossen. (Daraufhin是什么鬼？)
-* Sie versteht sich mittlerweile mit ihrem Exfreund wieder gut und manchmal hilft er ihr bei bürokratischen Problemen. (sich verstehen做何解？她和前男友仍保持良好关系？那为何用wieder，好像noch比较合适)
+* Jetzt haben wir schon wieder so lange nichts **(1)(b)voneinander** gehört und ich dachte, ich muss mich **(2)(b)unbedingt** mal wieder melden. (sich melden，主动联系)
+* Ich bin gerade umgezogen, endlich raus aus dem Mini-Zimmer!(raus是方向副词，表示出去)
+* Aber auch wenn es mir gut geht, packt mich natürlich trotzdem öfter mal das Heimweh.(das Heimweh 是主语，为了强调被放在了句尾，乡愁席卷了我)
+* Am Wochenende verabredet er sich oft **(8)mit** ihnen im Restaurant und dann unterhalten sie sich **(9)über** alles Mögliche.（verabreden 约，alles Mögliche，形容词名词化，中性单数第四格，sich unterhalten 聊天）
+* Daraufhin hat sie sich ziemlich schnell zu einem Umzug nach Australien entschlossen. (Daraufhin 出于客观理由或主观目的，于是，比deswegen用途的更广泛)
+* Sie versteht sich mittlerweile mit ihrem Exfreund wieder gut und manchmal hilft er ihr bei bürokratischen Problemen. (sich verstehen = get along with 和。。。相处)
 
 
 ### Wörter
@@ -425,11 +425,11 @@ Ben träumte schon lange **(1)von** einem längeren Auslandsaufenthalt. Deshalb 
 ## Modul 3 Missverständliches
 
 ### Schwierige Sätze
-* Stellen Sie sich bitte ein Land vor, in dem seit der Zeit der ersten Menschen, heutzutage und bis weit in die Zukunft, jeder Mensch, der je geboren wurde oder erst geboren werden wird, mit zwei Beinen, zwei Armen, zwei augen, einer Nase, einem Mund und einer sonnenbrille geboren wird. (bis weit是多久？让我尝试解读一下这个句子的语法结构，你看看对不对)
-* Alles, was sie gesehen, gelernt oder erfahren haben ist durch die gelben Gläser ins Gehirn gelangt.（gelangt动词原型是什么？具体做何解？）
-* Er sieht tatsächlich Japan, indem er japanische Sonnenbrillen trägt. (indem不太明白)
-* Zeile vs. Reihen
-* Die Situationen waren realistisch und ich fand die Szenen spannend umgesetzt. (我觉得场景布置的很令人兴奋？)
+* Stellen Sie sich bitte ein Land vor, in dem seit der Zeit der ersten Menschen, heutzutage und bis weit in die Zukunft, jeder Mensch, der je geboren wurde oder erst geboren werden wird, mit zwei Beinen, zwei Armen, zwei augen, einer Nase, einem Mund und einer sonnenbrille geboren wird. (bis weit in die Zukunft 到很久很久的未来，bis有指向性，有方向感，je表示曾几何时，besser denn je == besser als je 比过去任何时候都好，用denn是固定搭配，geboren是gebären的二分词)
+* Alles, was sie gesehen, gelernt oder erfahren haben ist durch die gelben Gläser ins Gehirn gelangt.（gelangen 到达某个地方，比较正式的说法，有方向感，主语不限于人）
+* Er sieht tatsächlich Japan, indem er japanische Sonnenbrillen trägt. (indem 引导方式状语从句，相当于mit，但mit不能引导从句)
+* Zeile vs. Reihen （Zeile多用于文字，表格，数学里的行，Reihen是更广泛更生活的行，line vs. row）
+* Die Situationen waren realistisch und ich fand die Szenen spannend umgesetzt. (我觉得场景布置的很令人兴奋)
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -438,9 +438,9 @@ Ben träumte schon lange **(1)von** einem längeren Auslandsaufenthalt. Deshalb 
 | die Annahme | n. | assumption |
 | die Gegenwart | n. | present |
 | klug | a. | clever |
-| erkennen | v. | see, recognize ??? |
+| erkennen | v. | see, recognize，辨识出，认出 |
 | erwerben | v. | acquire |
-| die Einstellung | n. | attitude ??? |
+| die Einstellung | n. | attitude，立场 |
 | tragen | v. | carry, wear |
 | vernünftig | a. | reasonable |
 | die Gewohnheit | n. | habit |
