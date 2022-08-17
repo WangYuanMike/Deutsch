@@ -444,3 +444,41 @@ Ben träumte schon lange **(1)von** einem längeren Auslandsaufenthalt. Deshalb 
 | tragen | v. | carry, wear |
 | vernünftig | a. | reasonable |
 | die Gewohnheit | n. | habit |
+
+## Modul 4 Zu Hause in Deutschland
+
+### Ü1 
+Deutschland ist ein Zuwanderungsland geworden und damit bunter. Von den insgesamt knapp 80,5 Millionen Menschen in Deutschland haben allein gut sieben Millionen einen ausländischen **(1)Pass** - so viele wie in keinem anderen der 28 EU-Staaten. Rechnet man noch die Menschen hinzu, die die deutsche **(2)Staatsbürgerschaft** haben, aber nicht in Deutschland geboren sind oder deren Eltern nach Deutschland eingewandert sind, dann haben rund 16 Millionen **(3)Einwohner** in Deutschland einen Migrationshintergrund. Das heißt: Fast ein Fünftel der Einwohner in Deutschland hat ausländische **(4)Wurzeln**. Am buntesten sind die großen **(5)Städte**. In Berlin z.B. kommen von den 3,4 Millionen Einwohnern ca. 900.000 ursprünglich nicht aus Berlin, sondern aus 184 anderen **(6)Staaten**. In Frankfurt haben etwa 40 Prozent der Menschen einen Migrationshintergrund.
+
+### Ü3
+1. sich mit einem Thema beschäftigen
+2. eine Chance nutzen
+3. Heimweh empfinden
+4. ein Problem lösen / diskutieren / meistern
+5. eine Staatsangehörigkeit beantragen
+6. Verantwortung übernehmen
+7. eine Herausforderung meistern
+8. jmd. bei der Arbeitsplatzsuche unterstützen
+9. über ein Thema diskutieren
+10. an einem Sprachkurs teilnehmen
+
+### Schwierige Sätze
+* Rechnet man noch die Menschen hinzu, die die deutsche **(2)Staatsbürgerschaft** haben, aber nicht in Deutschland geboren sind oder deren Eltern nach Deutschland eingewandert sind, dann haben rund 16 Millionen **(3)Einwohner** in Deutschland einen Migrationshintergrund. （句意明白，但语法从一开头就不太清楚）
+* eine Herausforderung meistern (掌握了一个挑战？)
+* infrage kommen
+* etw. liegt jmd. fern
+* jmd. in den Schlaf singen
+* eigene Vorstellungen von etw. haben
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| ursprünglich | a. | original |
+| die Auffassung | n. | view, notion |
+| das Erachten | n. | consideration |
+| empfinden | v. | feel |
+| voraussetzen | v. | assume |
+| wahrnehmen | v. | notice |
+| die Hochschulreife | n. | 大学入学许可，高中毕业 |
+| leiten | v. | guide, lead |
+| zerrissen | a. | disrupted |
