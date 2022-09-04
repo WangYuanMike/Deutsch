@@ -70,3 +70,48 @@
 | herumschlagen | v.| struggle |
 | feststellen | v.| assert |
 | nachweisen | v.| prove |
+
+## Modul 3 Smalltalk - Die Kunst der kleinen Worte ...
+
+### Schwierige Sätze
+* Sehen Sie die Fotos an. Notieren Sie Themen, die Sie ansprechen würden, um mit den Leuten auf den Fotos ins Gespräch zu kommen. （kommen mit den Leuten auf den Fotos ins Gespräch 意思不是很懂，为何用kommen？）
+* Welche Gemeinsamkeiten und Unterschiede stellen Sie fest？（feststellen 这个词请讲一下）
+* Gründe für die Ablehnung von Smalltalk (意思是结束smalltalk的原因？还是拒绝smalltalk的原因？)
+* Sprechen Sie über das Wetter, wenn Sie auf Nummer sicher gehen wollen. （后半句谈到Nummer是啥意思？和天气有什么关系？）
+* Ich habe es eilig. (I have something urgent. ???)
+* Es kommt auf das Wetter an. (ankommen auf表示什么？这个天气就要来了？)
+* Viele lehnen es ab, ein nichtssagendes Gespräch zu beginnen. (很多人拒绝开始一段不想谈的对话？)
+* Steht der dass-Satz oder die Infinitivkonstruktion auf Position ???, entfällt ???.
+* Es ist ratsam, dass man sich ein geeignetes Einstiegsthema überlegt. （Einstiegsthema 是一个怎样的Thema?）
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| die Reihenfolge | n.| order, sequence |
+| die Ablehnung | n.| denial, refusal |
+| unterstreichen | v.| underline |
+| verwunderlich | a.| astonishing |
+| ratsam | a.| 可取的，作性的 |
+| witzig | a.| funny |
+
+## Modul 4 Wenn zwei sich streiten, ...
+
+### Schwierige Sätze
+* Wer teilt Kritik aus, wer steckt Kritik ein? (谁在发火？谁在忍耐？这两个动词具体什么意思？)
+* Tony Trifft, 26, tourt mit seinem Programm "Berlin bringt's". Hau drauf - es trifft immer den Richtigen. (tourt是何意？查不到。后面一句完全不懂什么意思。)
+* Erstellen Sie eine Liste mit Berufen, in denen man viel Kritik üben oder einstecken muss. （练习和忍受批评？）
+* Wir werden für etwas kritisiert, was andere Personen verschuldet haben. (verschuldet不太理解，另外这个从句为什么是was引导？我觉得应该用der die das好像)
+* Ich kann keine Schüler kritisieren, die älter sind als ich. (从句的动词不是要放在句末吗？)
+* Ich muss Schüler auffordern, Verbesserungen vorzuschlagen. (auffordern和vorschlagen好像都是请求的意思，合起来感觉句子不太通顺)
+* Einige Schüler blamieren sich vor der Klasse, wenn sie andere kritisieren. (vor der Klasse 意思是上课前？blamieren sich 自我批评？当他们批评别人时，他们在课前先自我批评？。。。)
+* Wie gehen die Personen mit Kritik um? Welche Einstellungen haben sie zu Kritik? Welcher Einstellung stimmen Sie zu? (这些人如何对待批评？哪些关于批评的理念你也拥有？你同意哪些理念？感觉意思都有点怪)
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| sich streiten | v.| argue, fight |
+| austeilen | v.| 发火??? |
+| einstecken | v.| 忍受??? |
+| anhören | v.| listen to |
+| wütend | a.| angry |
+| das Mitleid | v.| mercy, sympathy |
