@@ -105,6 +105,21 @@
 * Ich muss Schüler auffordern, Verbesserungen vorzuschlagen. (auffordern和vorschlagen好像都是请求的意思，合起来感觉句子不太通顺)
 * Einige Schüler blamieren sich vor der Klasse, wenn sie andere kritisieren. (vor der Klasse 意思是上课前？blamieren sich 自我批评？当他们批评别人时，他们在课前先自我批评？。。。)
 * Wie gehen die Personen mit Kritik um? Welche Einstellungen haben sie zu Kritik? Welcher Einstellung stimmen Sie zu? (这些人如何对待批评？哪些关于批评的理念你也拥有？你同意哪些理念？感觉意思都有点怪)
+* "Streit kommt in den besten Familien vor", heißt es in einer deutschen Redewendung.（heißt 这个词讲一讲，我只知道作为 我叫。。。的用法）
+* ..., was man beachten kann, um der Konfliktlösung näher zu kommen. (意思懂，但是语法上为什么是der Lösung第三格，另外näher在这里做何解)
+* Keine guten Aussichten auf Erfolg hat ein Streit, der mit einem Vorwurf beginnt. （以抱怨开始的批评，没有成功的未来？）
+* Sie sind richtig sauer? (您在正确的生气吗？)
+* Vielleicht mit Recht, aber versuchen Sie trotzdem ruhig zu bleiben und auch ruhig über Ihre Gefühle zu sprechen. (也许通过法律？但尝试一下保持冷静，并让语气平和？)
+* Erweitern Sie Ihre Kritik nicht auf andere Punkte, die Sie eventuell auch noch stören wie Erziehungsfragen, Geld oder die Erledigung von Arbeiten. (从Erziehungsfragen开始不是很明白意思，要钱还是要完成工作？)
+* Die Diskussion sollte nicht auf die lange Bank, aber auf einen Termin mit Spielraum für beide vershoben werden. (长板凳，游戏室，delay？完全不知道这句话在说什么)
+* hören vs. zuhören vs. hinhören
+* Der Partner will in erster Linie eines: gehört werden. (意思懂，但是最后部分的语法不太懂)
+* Seien Sie also offen und achten Sie darauf, was ihr Partner Ihnen sagen möchte. （Seien 是个什么用法，第二虚拟什么的？）
+* Eine gemeinsame Lösung, mit der alle zufrieden sind, lässt sich nicht immer erreichen. (意思懂，但是lassen的用法还是不通透，而且我自己造句不会想到在这里使用lassen)
+* Bei der Verteilung der Arbeit im Beruf muss man ab und zu auch mal eine weniger gerechte Aufgabenteilung hinnehmen. (在工作上分配任务时，人们也必须接受相对公平的任务分配？)
+* Da muss man dann auch Größe zeigen, um Verzeihung bitten und keine Rechtfertigungen für sein Verhalten suchen. (Größe zeigen 何意？)
+* Am Ende des Tages kann man ein Resümee ziehen. （为什么是des Tages？为什么不直接加s，而是es。）
+* Nutzen Sie die Chance für einen gemeinsamen Austausch, bei dem Sie kleinere Unstimmigkeiten entspannt ansprechen können. (意思大概懂，后半句感觉不太通顺，ansprechen也不太清楚用法)
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -115,3 +130,26 @@
 | anhören | v.| listen to |
 | wütend | a.| angry |
 | das Mitleid | v.| mercy, sympathy |
+| hinhören | v.| listen ??? |
+| die Schwäche | n.| weakness |
+| die Zwischenüberschrift | n.| 副标题 ??? |
+| vorkommen | v.| occur, appear |
+| schreien | v.| cry, shout |
+| das Türknallen | n.| 摔门的声音 |
+| die Therapeutin | n.| 治疗师 |
+| dreckig | a.| dirty |
+| auslösen | v.| trigger |
+| erweitern | v.| expand |
+| stören | v.| disturb |
+| die Erledigung | n.| 完成 |
+| erzeugen | v.| produce, create |
+| die Spannung | n.| tension, pressure |
+| die Botschaft | n.| message |
+| einleiten | v.| introduce |
+| die Verteilung | n.| distribution, allocation |
+| gerecht | a.| fair |
+| die Verhandlung | n.| negotiation |
+| hitzig | a.| 火爆的 |
+| die Verzeihung | n.| pardon, forgive |
+| die Rechtfertigung | n.| justification 正当化 |
+| die Unstimmigkeit | n.| disagreement |
