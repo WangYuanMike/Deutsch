@@ -97,6 +97,7 @@
 ## Modul 4 Wenn zwei sich streiten, ...
 
 ### Schwierige Sätze
+* Streit vs. Kritik 
 * Wer teilt Kritik aus, wer steckt Kritik ein? (谁在发火？谁在忍耐？这两个动词具体什么意思？)
 * Tony Trifft, 26, tourt mit seinem Programm "Berlin bringt's". Hau drauf - es trifft immer den Richtigen. (tourt是何意？查不到。后面一句完全不懂什么意思。)
 * Erstellen Sie eine Liste mit Berufen, in denen man viel Kritik üben oder einstecken muss. （练习和忍受批评？）
@@ -120,6 +121,13 @@
 * Da muss man dann auch Größe zeigen, um Verzeihung bitten und keine Rechtfertigungen für sein Verhalten suchen. (Größe zeigen 何意？)
 * Am Ende des Tages kann man ein Resümee ziehen. （为什么是des Tages？为什么不直接加s，而是es。）
 * Nutzen Sie die Chance für einen gemeinsamen Austausch, bei dem Sie kleinere Unstimmigkeiten entspannt ansprechen können. (意思大概懂，后半句感觉不太通顺，ansprechen也不太清楚用法)
+* Worum geht es? (Worum vs. Warum)
+* Wie handelt, denkt und fühlt die Person? (handeln具体做何解？他是如何表现的？如何处理的？)
+* Liebes Tagebuch （亲爱的日记本？在日记里倾诉？）
+* Ich kann dir wieder aus unserer tollen WG berichten. (我又可以在我们很棒的宿舍里像你报告了。这是正常的说法，还是略带戏谑？正常造句我不会想到用berichten这样的词。)
+* Verlange ich zu viel, wenn ...? (是我要求的太多。。。)
+* Daniela möchtet die Mitschrift von Benno, weil sie die letzten beiden Male nicht im Seminar war. (因为她这学期缺了两次课？)
+* Was ist gut gelaufen? (什么进行的不错？)
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -153,3 +161,50 @@
 | die Verzeihung | n.| pardon, forgive |
 | die Rechtfertigung | n.| justification 正当化 |
 | die Unstimmigkeit | n.| disagreement |
+| der Anlass | n.| motivation |
+| verlange | v.| ？？？ |
+| enttäuscht | a.| disappointed |
+| die Mitschrift | n.| 笔记 |
+| ausgenutzt | a.| exploited |
+| die Umschulung | n.| 改专业培训 |
+| die Probe | n.| rehearsal |
+| hecktisch | a.| 慌乱的，急促的 |
+| die Rücksicht | n.| consideration |
+| berücksichtigen | v.| respect |
+
+## Porträt Sophie Hunger
+
+### Schwierige Sätze
+* Großes aus der kleinen Schweiz: Sophie Hunger brilliert mit smartem Indie-Pop, der poetisch daherkommt - aber nie platt (小瑞士出的大人物？brilliert 查不到这个词，意思是brilliant? Indie-Pop 瑞士人是印度流行歌大拿？daherkommt 流行歌大拿也是一位诗人款款走来？aber nie platt 但绝不平庸？)
+* Es kommt darauf an, wie man die Sachen singt oder sagt. (这取决于人们唱或者说这个东西。我不会想到用ankommen，另外darauf也不会想到用)
+* Sind Sie sich dessen bewusst? (您对此了解吗？语法不太清楚，为何用dessen? Are you aware of this? 所以这个this用二格？)
+* Zur ersten Zugabe kehre ich zurück auf die Bühne, alleine. （我的第一次返场演出）
+* annehmen vs. nehmen
+* Eine Sache fällt an Ihrer Musik besonders auf: Sie empfinden viel Spaß daran, Worte zu phrasieren - in allen Sprachen, in denen Sie singen. (您的音乐里有一样东西特别突出：您通过各种语言中的某个词来唱歌，从中感受到很多快乐。后半句不太通顺，而且不知道具体想表达什么。)
+* Ihr Album 1983 war international erfolgreich, aber nirgends so sehr wie in der Schweiz. (后半句缺少动词，另外，nirgends就是nirgendwo吗？)
+* Die Schweizer können oft nur als Schweizer in der Schweiz stolz auf sich sein. Denn wenn etwas die Schweiz verlässt, verlässt es meinstens den Wahrnehmungsbereich der Schweiz. (瑞士人只有在瑞士的时候才会感到自豪，因为当什么东西离开瑞士的时候，它也失去了瑞士的感知力（我们也不再以瑞士的角度来看它？）)
+* Geliebt, weil man ja das liebt, was zu einem gehört, abgesehen davon ob man es mag oder nicht. (后半句看不懂)
+* Klingt ein wenig nach Schicksal (听起来很宿命？)
+* und fast nach einer Last. (看不懂)
+* Die Schweiz ist keine Last. Was macht man daraus? (也不懂)
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| brilliert | |  |
+| daherkommen | v. |  |
+| platt | a. | flat |
+| der Gesang | n. | singing, song |
+| die Zugabe | n. | 附加物？？？ |
+| kehren | v. | 清扫，反转？？？ |
+| die Bühne | n. | 舞台 |
+| spüren | v. | feel |
+| die Aufmerksamkeit | n. | attention, concentration |
+| die Gunst | n. | favor |
+| annehmen | v. | ??? |
+| auffallen | v. | stand out, attract attention |
+| zugleich | a. | together, at the same time |
+| hervorragend | a. | excellent, outstanding |
+| stolz | a. | proud |
+| die Wahrnehmung | n. | perception |
+| absehen | v. | 预见到？？？ |
