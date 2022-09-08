@@ -191,8 +191,8 @@
 ### Wörter
 | 单词 | 词性 | 意思 |
 | --- | --- | --- |
-| brilliert | |  |
-| daherkommen | v. |  |
+| brilliert | | ??? |
+| daherkommen | v. | ??? |
 | platt | a. | flat |
 | der Gesang | n. | singing, song |
 | die Zugabe | n. | 附加物？？？ |
@@ -208,3 +208,44 @@
 | stolz | a. | proud |
 | die Wahrnehmung | n. | perception |
 | absehen | v. | 预见到？？？ |
+
+## Film Was man mit dem Körper sagen kann
+
+### Schwierige Sätze
+* Da Körpersprache überwiegend kulturabhängig ist, kann es zu Missverständnissen kommen. (因为肢体语言多半依赖于文化，所以它可能导致误解？)
+* Es geht darum, Hemmugen abzubauen, Ausdrucksfähigkeit zurückzuerlangen. (重获表达能力，可以拆除障碍？)
+* Kommunikation durch Bewegung - die Sprache des Körpers zur Kunst erhoben. (通过动作交流，即将肢体语言提升到艺术层面？)
+* Wenn ich so sitzen bleiben würde, würde ich die Stimmung dieser Haltung automatisch annehmen. (当我保持这样坐时，我就会自动接受这个姿势的情绪？)
+* Aus welchen drei Elementen besteht Körpersprache？（那三个元素存在肢体语言？）
+* Wie eignet man sich erlernbare Körpersprache an? (人怎么能获得能学会的肢体语言？)
+* Durch welche Elemente der Körpersprache gelingt bzw. misslingt das Gespräch zwischen Arzt und Patient? (哪些肢体语言的元素在医生和病人的对话中成功了或者失败了？bzw.是不是通常就表示“或者”的意思？)
+* Legen Sie fest, ob das Gespräch positiv oder negativ verlaufen soll. (想一下？这个对话进行的好还是坏？)
+* wütend vs. ärgerlich
+* Setzen Sie bewusst Ihre Stimme und Ihre Körpersprache ein. Trauen Sie sich. (插入您自己的声音和肢体语言。相信您自己。bewusst作何解？Stimme是指语气？Setzen这个词讲一讲。)
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| überwiegend | a. | 主流的，多半 |
+| die Anwesenheit | n. | presence, attendence |
+| gleichgestimmt | a. | 持同样观点的??? |
+| die Hemmungen | n. | suspension |
+| abbauen | v. | 拆除 |
+| erlangen | v. | win, get |
+| zurückerlangen | v. | retrieve, recover ??? |
+| erhoben | v. | 提升 |
+| die Stimmung | n. | atmosphere, mood |
+| die Haltung | n. | attitude, position |
+| bestehen | v. | 存在？？？ |
+| angeboren | a. | 固有的，先天的 |
+| aneignen | v. | acquire |
+| misslingen | v. | fail |
+| die Behörde | n. | authority, office |
+| festlegen | v. | determine, define, fix |
+| verlaufen | v. | proceed |
+| die Mimik | n. | facial expression |
+| die Gestik | n. | gesture |
+| die Begegnung | n. | encounter, meeting |
+| schüchtern | a. | shy |
+| euphorisch | a. | 欢快的 |
+| einsetzen | v. | insert |
