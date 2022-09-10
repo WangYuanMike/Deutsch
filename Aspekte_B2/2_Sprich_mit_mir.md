@@ -249,3 +249,72 @@
 | schüchtern | a. | shy |
 | euphorisch | a. | 欢快的 |
 | einsetzen | v. | insert |
+
+# Arbeitsbuch
+
+## Wortschatz
+
+### Ü1a 
+1. auf eine Frage reagieren - erwidern erklären
+2. etwas genau beschreiben - erklären
+3. eine gegenteilige Meinung laut ausprechen - protestieren schreien schimpfen
+4. das Gegenteil behaupten - widersprechen protestieren
+5. etwas ganz leise sage - flüstern
+6. nicht flüssig sprechen - stottern
+7. seinen Ärger mit Worten ausdrücken - schimpfen
+8. etw. als wahr hinstellen, ohne es zu beweisen - behaupten ???
+9. etw. sehr laut rufen - schreien 
+10. etw. berichten - erzählen ???
+
+### Ü1b
+1. fragen - sich erkundigen ？？？
+2. reden - sprechen
+3. hinzufügen - ergänzen
+4. erwidern - antworten
+5. verneinen - ablehnen
+6. widersprechen - protestieren
+7. bejahen - zustimmen
+8. erläutern - erklären
+9. erzählen - berichten
+10. kichern - lachen
+
+### Ü2
+1. ein Gespräch, in dem man Tipps und Ratschläge bekommt - Beratungsgespräch
+2. ein Gespräch, das man mit sich allein führt - Selbstgespräch
+3. ein Gespräch, zu dem Stellenbewerber eingeladen werden - Vorstellungsgespräch
+4. ein Gespräch, in dem unterschiedliche Meinungen zu einem Thema heftig diskutiert werden - Streitgespräch
+5. ein Gespräch, das einmal im Jahr zwischen dem Vorgesetzten und jedem Mitarbeiter stattfindet - Mitarbeitergespräch
+
+### Schwierige Sätze
+* Das stimmt nicht ganz. (stimmen这个词讲一讲)
+* Aber Jürgen ließ nicht locker. (但Jürgen还没明白过来？)
+* ein Gespräch, zu dem Stellenbewerber eingeladen werden - Vorstellungsgespräch （自我介绍？被邀请参加工作面试时讲的话？）
+* 几个sprechen
+    * Entschuldigung, darf ich Sie kurz ansprechen? Wir machen eine Umfrage zum Thema "Modern Medien"? (对不起，我能和您稍微聊会儿吗？ansprechen具体是什么意思？)
+    * Tut mir leid. Davon habe ich keine Ahnung, da kann ich nicht mitsprechen. 
+    * Ich denke, Eva hat ein Problem mit mir. Ich sollte mich mal mit ihr aussprechen.
+    * Nein, das glaube ich nicht, da muss ich dir widersprechen. Eva geht es zurzeit nur nicht gut.
+    * Das geht jetzt leider nicht. Ich habe dem Chef versprochen, zuerst die Rechnungen zu schreiben. (我已经跟老板说过了，要先出账单？)
+
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| beschreiben | v. | describe |
+| schimpfen | v. | 骂 |
+| behaupten | v. | assert, claim |
+| flüstern | v. | whisper |
+| stottern | v. | 口吃 |
+| hinstellen | v. | 放下，搁，立 ？？？ |
+| beweisen | v. | prove |
+| schreien | v. | cry |
+| erwidern | v. | reply |
+| bejahen | v. | affirm, support |
+| erläutern | v. | clarify |
+| kichern | v. | giggle |
+| das Rendezvous | n. | 幽会 |
+| auffordern | v. | invite, request |
+| schrecklich | a. | awful |
+| heftig | a. | fierce, hard, violent |
+| das Streitgespräch | n. | 辩论？？？ |
+| der Vorgesetzte | n. | boss, superior |
