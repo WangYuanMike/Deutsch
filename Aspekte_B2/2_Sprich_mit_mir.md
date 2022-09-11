@@ -296,7 +296,6 @@
     * Nein, das glaube ich nicht, da muss ich dir widersprechen. Eva geht es zurzeit nur nicht gut.
     * Das geht jetzt leider nicht. Ich habe dem Chef versprochen, zuerst die Rechnungen zu schreiben. (我已经跟老板说过了，要先出账单？)
 
-
 ### Wörter
 | 单词 | 词性 | 意思 |
 | --- | --- | --- |
@@ -318,3 +317,45 @@
 | heftig | a. | fierce, hard, violent |
 | das Streitgespräch | n. | 辩论？？？ |
 | der Vorgesetzte | n. | boss, superior |
+
+## Gestern sagen mehr als tausend Worte ...
+
+### Schwierige Sätze
+* In seinem Buch "Körpersprache des Erfolgs" legt der weltberühmte Pantomime und Kultautor das Ergebnis seiner jahrzentelangen Arbeit vor.
+(在他的书“成功的肢体语言”中，那个世界著名的哑剧和祭祀演员展示了他长达十年的工作？)
+* Darin beschreibt er, was Erfolg ausmacht und wie sich Erfolg in der Körpersprache ausdrückt. (在书中，他写到，如何开启成功以及如何通过肢体语言达到成功？sich在这里是什么用法？)
+* Er versteht unter Erfolg, sein eigenes Leben gut zu bewältigen - und eine Körpersprache des Erfolgs ist demnach die Körpersprache eines in sich ruhenden, souveränen Menschen. (他理解的成功是自己管理好自己的生活，而成功的肢体语言则来自冷静而自信的人？语法结构上要讲讲)
+* Längst übt Samy Molcho, der als einer der berühmtesten Pantomimen der Welt mit Marcel Marceau in einem Atemzug genannt wird, seine Kunst nicht mehr auf der Bühne aus. (Samy，作为世界上最有名的哑剧演员之一，和Marcel在一次修行中结识，早就不在舞台上表演他的艺术了。)
+* Er schreibt heute noch Bücher und hält Vorträge. (做演讲叫Vorträge halten? halten这个词讲一讲)
+* Seit 1980 hält Molcho zum Thema "Körpersprache" Vorträge und Seminare - unter anderem für Mediziner, Politiker, Manager und Unternehmer. (为什么会用unter？)
+* halten vs. behalten vs. verhalten vs. Haltung vs. Auftreten (王老师串讲一下)
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| auskommen | v. | get along |
+| die Pantomime | n. | 哑剧 |
+| der Kult | n. | 祭祀典礼 |
+| vorlegen | v. | 提出？ |
+| gleichsetzen | v. | 等同于 |
+| bewältigen | v. | manage, tackle |
+| demnach | a. | thus |
+| ruhenden | a. | 静止的，平心的 |
+| souverän | a. | superior, confident, competent |
+| der Atemzug | n. | 呼吸，吐纳??? |
+| langst | a. | 早 |
+| ausüben | v. | practice, perform |
+| entschlüssel | v. | decrypt |
+| renommierten | a. | renowned, prestigious, famous |
+| der Vortrag | n. | speech, lecture |
+| das Auftreten | n. | 仪态，风度，风范 |
+| auslösen | v. | trigger |
+| behaupten | v. | 声称 |
+| werben | v. | 声称，鼓吹，做广告??? |
+| die Drohung | n. | threat |
+| die Aufnahme | n. | picture, recording |
+| ableiten | v. | derive |
+| der Charakterzug | n. | trait |
+| die Zielstrebigkeit | n. | 一根筋？？？ |
+| die Rücksichtslosigkeit | n. | 毫无顾忌，肆无忌惮 |
+| die Befindlichkeit | n. | mental state |
