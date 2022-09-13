@@ -318,7 +318,7 @@
 | das Streitgespräch | n. | 辩论？？？ |
 | der Vorgesetzte | n. | boss, superior |
 
-## Gestern sagen mehr als tausend Worte ...
+## Gesten sagen mehr als tausend Worte ...
 
 ### Schwierige Sätze
 * In seinem Buch "Körpersprache des Erfolgs" legt der weltberühmte Pantomime und Kultautor das Ergebnis seiner jahrzentelangen Arbeit vor.
@@ -329,6 +329,12 @@
 * Er schreibt heute noch Bücher und hält Vorträge. (做演讲叫Vorträge halten? halten这个词讲一讲)
 * Seit 1980 hält Molcho zum Thema "Körpersprache" Vorträge und Seminare - unter anderem für Mediziner, Politiker, Manager und Unternehmer. (为什么会用unter？)
 * halten vs. behalten vs. verhalten vs. Haltung vs. Auftreten (王老师串讲一下)
+* sollten vs. sollen (哪一个是should?)
+* Ü4 als oder wie (几乎全错)
+* Vor allem die Gestik hat in anderen Kulturen oft eine andere Bedeutung, als man annimmt. (annehmen是接受的意思？句意感觉不太通顺)
+* Gesundes Essen ist viel besser, als ich angenommen habe. (健康饮食会更好，正如我所接受的那样？)
+* Auf diese Weise würde die Kommunikation noch besser klappen, als man vermutet. (Auf diese Weise == thus, klappen 鼓掌？正如人们所建议的，这样交流会更容易被接受？)
+
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -359,3 +365,16 @@
 | die Zielstrebigkeit | n. | 一根筋？？？ |
 | die Rücksichtslosigkeit | n. | 毫无顾忌，肆无忌惮 |
 | die Befindlichkeit | n. | mental state |
+| die Mimik | n. | 表情 |
+| die Anregung | n. | suggestion |
+| die Anleitung | n. | guidance |
+
+## Sprachen kinderleicht
+
+### Schwierige Sätze
+* Wer hat die ganze Schokolade aufgegessen? Raus mit der Sprache!
+* Ich soll noch mehr Überstunden machen! Da fehlen mir die Worte.
+* Langer Rede kurzer Sinn: Ich finde, wir sollten das Haus kaufen.
+* Gestern habe ich Henry getroffen und wir haben über Gott und die Welt geredet.
+* Sie können frei von der Leber weg sprechen. Ihre Meinung interessiert mich.
+* Sonia hat endlich den Vertrag unterschrieben. Aber ich musste mit Engelszungen auf sie einreden.
