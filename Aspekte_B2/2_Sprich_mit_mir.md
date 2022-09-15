@@ -378,3 +378,34 @@
 * Gestern habe ich Henry getroffen und wir haben über Gott und die Welt geredet.
 * Sie können frei von der Leber weg sprechen. Ihre Meinung interessiert mich.
 * Sonia hat endlich den Vertrag unterschrieben. Aber ich musste mit Engelszungen auf sie einreden.
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| eilig | a. | urgent |
+| erschrecken | v. | frighten |
+
+## Wenn zwei sich streiten, ...
+
+### Schwierige Sätze
+* Weißt du, warum sich Raben streiten? ... und darum, wer recht hat und unrecht, und dann auch darum, wer schöner singen kann. (darum后面接wer引导的从句，是说在什么什么样的人头上吵架？)
+* Mitunter streiten sich Raben wie toll darum, wer was tun und lassen soll. (句子看不懂)
+* Raben streiten um jeden Mist. (乌鸦在每一坨屎上吵架？或是争夺每一坨屎？)
+* Niemand nimmt sich Zeit für Liebe. Nur für Streit bleibt die Zeit, die nicht ist statt zu sein wer du bist. (这样断句对吗？后面半句的语法和句意需要讲解一下)
+* Welche Stellen werden besonders betont? (那个立场变得特别强调？还是特别有压力？)
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| mitunter | a. | occasionally |
+| der Mist | n. | shit |
+| vertragen | v. | 和解 |
+| der Gram | n. | 忧伤 |
+| enthalten | v. | contain |
+| sachlich | a. | 客观的 |
+| beleidigen | v. | insult |
+| brüllen | v. | 吼叫 |
+| toben | v. | 咆哮，盛怒 |
+| betont | a. | emphasized, stressed |
+| benehmen | v. | behave, act |
+| rummerckern | v. | ??? |
