@@ -74,15 +74,14 @@
 ## Modul 3 Smalltalk - Die Kunst der kleinen Worte ...
 
 ### Schwierige Sätze
-* Sehen Sie die Fotos an. Notieren Sie Themen, die Sie ansprechen würden, um mit den Leuten auf den Fotos ins Gespräch zu kommen. （kommen mit den Leuten auf den Fotos ins Gespräch 意思不是很懂，为何用kommen？）
-* Welche Gemeinsamkeiten und Unterschiede stellen Sie fest？（feststellen 这个词请讲一下）
-* Gründe für die Ablehnung von Smalltalk (意思是结束smalltalk的原因？还是拒绝smalltalk的原因？)
-* Sprechen Sie über das Wetter, wenn Sie auf Nummer sicher gehen wollen. （后半句谈到Nummer是啥意思？和天气有什么关系？）
-* Ich habe es eilig. (I have something urgent. ???)
-* Es kommt auf das Wetter an. (ankommen auf表示什么？这个天气就要来了？)
-* Viele lehnen es ab, ein nichtssagendes Gespräch zu beginnen. (很多人拒绝开始一段不想谈的对话？)
-* Steht der dass-Satz oder die Infinitivkonstruktion auf Position ???, entfällt ???.
-* Es ist ratsam, dass man sich ein geeignetes Einstiegsthema überlegt. （Einstiegsthema 是一个怎样的Thema?）
+* Sehen Sie die Fotos an. Notieren Sie Themen, die Sie ansprechen würden, um mit den Leuten auf den Fotos ins Gespräch zu kommen. （kommen mit den Leuten auf den Fotos ins Gespräch 和图上的人们交谈， nicht in Frage kommen 谈都别谈）
+* Welche Gemeinsamkeiten und Unterschiede stellen Sie fest？（feststellen 确定）
+* Gründe für die Ablehnung von Smalltalk (拒绝smalltalk的原因，Ablehnung 拒绝)
+* Sprechen Sie über das Wetter, wenn Sie auf Nummer sicher gehen wollen. （非常精确，很确定的意思）
+* Ich habe es eilig. (我赶时间)
+* Es kommt auf das Wetter an. (ankommen auf 取决于，相当于depend on)
+* Viele lehnen es ab, ein nichtssagendes Gespräch zu beginnen. (nichtssagendes 空洞的，无意义的，言之无物的)
+* Es ist ratsam, dass man sich ein geeignetes Einstiegsthema überlegt. （Einstiegsthema 一开始所谈论的话题）
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -97,26 +96,26 @@
 ## Modul 4 Wenn zwei sich streiten, ...
 
 ### Schwierige Sätze
-* Streit vs. Kritik 
-* Wer teilt Kritik aus, wer steckt Kritik ein? (谁在发火？谁在忍耐？这两个动词具体什么意思？)
-* Tony Trifft, 26, tourt mit seinem Programm "Berlin bringt's". Hau drauf - es trifft immer den Richtigen. (tourt是何意？查不到。后面一句完全不懂什么意思。)
-* Erstellen Sie eine Liste mit Berufen, in denen man viel Kritik üben oder einstecken muss. （练习和忍受批评？）
-* Wir werden für etwas kritisiert, was andere Personen verschuldet haben. (verschuldet不太理解，另外这个从句为什么是was引导？我觉得应该用der die das好像)
-* Ich kann keine Schüler kritisieren, die älter sind als ich. (从句的动词不是要放在句末吗？)
-* Ich muss Schüler auffordern, Verbesserungen vorzuschlagen. (auffordern和vorschlagen好像都是请求的意思，合起来感觉句子不太通顺)
-* Einige Schüler blamieren sich vor der Klasse, wenn sie andere kritisieren. (vor der Klasse 意思是上课前？blamieren sich 自我批评？当他们批评别人时，他们在课前先自我批评？。。。)
-* Wie gehen die Personen mit Kritik um? Welche Einstellungen haben sie zu Kritik? Welcher Einstellung stimmen Sie zu? (这些人如何对待批评？哪些关于批评的理念你也拥有？你同意哪些理念？感觉意思都有点怪)
-* "Streit kommt in den besten Familien vor", heißt es in einer deutschen Redewendung.（heißt 这个词讲一讲，我只知道作为 我叫。。。的用法）
-* ..., was man beachten kann, um der Konfliktlösung näher zu kommen. (意思懂，但是语法上为什么是der Lösung第三格，另外näher在这里做何解)
-* Keine guten Aussichten auf Erfolg hat ein Streit, der mit einem Vorwurf beginnt. （以抱怨开始的批评，没有成功的未来？）
-* Sie sind richtig sauer? (您在正确的生气吗？)
-* Vielleicht mit Recht, aber versuchen Sie trotzdem ruhig zu bleiben und auch ruhig über Ihre Gefühle zu sprechen. (也许通过法律？但尝试一下保持冷静，并让语气平和？)
-* Erweitern Sie Ihre Kritik nicht auf andere Punkte, die Sie eventuell auch noch stören wie Erziehungsfragen, Geld oder die Erledigung von Arbeiten. (从Erziehungsfragen开始不是很明白意思，要钱还是要完成工作？)
-* Die Diskussion sollte nicht auf die lange Bank, aber auf einen Termin mit Spielraum für beide vershoben werden. (长板凳，游戏室，delay？完全不知道这句话在说什么)
-* hören vs. zuhören vs. hinhören
-* Der Partner will in erster Linie eines: gehört werden. (意思懂，但是最后部分的语法不太懂)
-* Seien Sie also offen und achten Sie darauf, was ihr Partner Ihnen sagen möchte. （Seien 是个什么用法，第二虚拟什么的？）
-* Eine gemeinsame Lösung, mit der alle zufrieden sind, lässt sich nicht immer erreichen. (意思懂，但是lassen的用法还是不通透，而且我自己造句不会想到在这里使用lassen)
+* Streit vs. Kritik （争吵 vs. 有批判性的评论，或者就是评论） 
+* Wer teilt Kritik aus, wer steckt Kritik ein? (austeilen 把发散给特定的人群，einstecken 忍受，谁在发表批评，谁在承受批评)
+* Tony Trifft, 26, tourt mit seinem Programm "Berlin bringt's". Hau drauf - es trifft immer den Richtigen. (touren 巡游，巡演，treffen 打到了，击中了, draufhauen 打谁，击中你)
+* Erstellen Sie eine Liste mit Berufen, in denen man viel Kritik üben oder einstecken muss. （给出批评和承受批评）
+* Wir werden für etwas kritisiert, was andere Personen verschuldet haben. (我们因为别人有过错的事情而被批评，was引导从句因为它修饰etwas，一种比较模糊的代称)
+* Ich kann keine Schüler kritisieren, die älter sind als ich. (als ich 相当于是die älter sind的从句，这里省略了之间的逗号以及als ich的动词)
+* Ich muss Schüler auffordern, Verbesserungen vorzuschlagen. (auffordern 要求，请求，vorschlagen 提出建议，此处是改进的建议)
+* Einige Schüler blamieren sich vor der Klasse, wenn sie andere kritisieren. (vor der Klasse 在一个班的全体同学前，blamieren sich 出丑)
+* Wie gehen die Personen mit Kritik um? Welche Einstellungen haben sie zu Kritik? Welcher Einstellung stimmen Sie zu? (这些人如何对待批评？哪些关于批评的观点立场你也拥有？你同意哪些观点？)
+* "Streit kommt in den besten Familien vor", heißt es in einer deutschen Redewendung.（heißt es 在德语的习惯表述中如是说，是这么说的，vorkommen 出现）
+* ..., was man beachten kann, um der Konfliktlösung näher zu kommen. (näherkommen 更接近于解决争端的方式，后面都接三格宾语)
+* Keine guten Aussichten auf Erfolg hat ein Streit, der mit einem Vorwurf beginnt. （以指责开始的批评，没有成功的未来，Aussicht 展望）
+* Sie sind richtig sauer? (您很生气吗？richtig 在形容词表示“真的”“非常”)
+* Vielleicht mit Recht, aber versuchen Sie trotzdem ruhig zu bleiben und auch ruhig über Ihre Gefühle zu sprechen. (也许你是对的，但还是要尝试保持冷静，并以平和的语气对话)
+* Erweitern Sie Ihre Kritik nicht auf andere Punkte, die Sie eventuell auch noch stören wie Erziehungsfragen, Geld oder die Erledigung von Arbeiten. (不要将你们的批评拓展到别的点，那些可能让人讨厌的事，比如带小孩儿，钱，工作完成)
+* Die Diskussion sollte nicht auf die lange Bank, aber auf einen Termin mit Spielraum für beide vershoben werden. (讨论不应该被搁置，而是改到一个让双方都有施展空间的时间，有施展空间的意思就是冷静的，舒适的)
+* hören vs. zuhören vs. hinhören vs. weghören
+* Der Partner will in erster Linie eines: gehört werden. (对方首先需要一点，被听见，被好好听)
+* Seien Sie also offen und achten Sie darauf, was ihr Partner Ihnen sagen möchte. （Seien Sie是sein动词在祈使句里的用法）
+* Eine gemeinsame Lösung, mit der alle zufrieden sind, lässt sich nicht immer erreichen. (sich lassen erreichen 某事can be done)
 * Bei der Verteilung der Arbeit im Beruf muss man ab und zu auch mal eine weniger gerechte Aufgabenteilung hinnehmen. (在工作上分配任务时，人们也必须接受相对公平的任务分配？)
 * Da muss man dann auch Größe zeigen, um Verzeihung bitten und keine Rechtfertigungen für sein Verhalten suchen. (Größe zeigen 何意？)
 * Am Ende des Tages kann man ein Resümee ziehen. （为什么是des Tages？为什么不直接加s，而是es。）
