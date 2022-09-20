@@ -392,6 +392,7 @@
 * Raben streiten um jeden Mist. (乌鸦在每一坨屎上吵架？或是争夺每一坨屎？)
 * Niemand nimmt sich Zeit für Liebe. Nur für Streit bleibt die Zeit, die nicht ist statt zu sein wer du bist. (这样断句对吗？后面半句的语法和句意需要讲解一下)
 * Welche Stellen werden besonders betont? (那个立场变得特别强调？还是特别有压力？)
+* Der benimmt sich unmöglich. (他表现的不可思议？)
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -408,3 +409,38 @@
 | betont | a. | emphasized, stressed |
 | benehmen | v. | behave, act |
 | rummerckern | v. | ??? |
+| abblocken | v. | block |
+| nachgeben | v. | 退让 |
+| einschätzen | v. | assess, estimate |
+| herausarbeiten | v. | 塑造出 |
+| das Gedicht | n. | poem |
+| bewerten | v. | assess |
+
+## Wortschatz
+
+### Schwierige Sätze
+* die Augen verdrehen
+* Kritik austeilen
+* Kritik einstecken
+* Kritik über an
+* sich lustig machen über
+* Rücksicht nehmen auf
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| der Artgenosse | n. | fellow |
+| die Nachahmung | n. | 仿造物，拟态 |
+| der Tonfall | n. | accent |
+| verraten | v. | 背弃，泄漏 |
+| erwerben | v. | acquire, win, earn |
+| der Anspruch | n. | 要求，条件 |
+| belanglos | a. | trivial |
+| die Leidenschaft | n. | passion |
+| naheliegend | a. | obvious |
+| die Plauderei | n. | chat |
+| verkrampft | a. | 拘束的 |
+| anregend | a. | stimulating |
+| berücksichtigen | v. | respect, consider |
+| die Gestaltung | n. | arrangement |
+| der Verlauf | n. | course, process |
