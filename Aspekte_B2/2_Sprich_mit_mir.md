@@ -116,17 +116,17 @@
 * Der Partner will in erster Linie eines: gehört werden. (对方首先需要一点，被听见，被好好听)
 * Seien Sie also offen und achten Sie darauf, was ihr Partner Ihnen sagen möchte. （Seien Sie是sein动词在祈使句里的用法）
 * Eine gemeinsame Lösung, mit der alle zufrieden sind, lässt sich nicht immer erreichen. (sich lassen erreichen 某事can be done)
-* Bei der Verteilung der Arbeit im Beruf muss man ab und zu auch mal eine weniger gerechte Aufgabenteilung hinnehmen. (在工作上分配任务时，人们也必须接受相对公平的任务分配？)
-* Da muss man dann auch Größe zeigen, um Verzeihung bitten und keine Rechtfertigungen für sein Verhalten suchen. (Größe zeigen 何意？)
-* Am Ende des Tages kann man ein Resümee ziehen. （为什么是des Tages？为什么不直接加s，而是es。）
-* Nutzen Sie die Chance für einen gemeinsamen Austausch, bei dem Sie kleinere Unstimmigkeiten entspannt ansprechen können. (意思大概懂，后半句感觉不太通顺，ansprechen也不太清楚用法)
-* Worum geht es? (Worum vs. Warum)
-* Wie handelt, denkt und fühlt die Person? (handeln具体做何解？他是如何表现的？如何处理的？)
-* Liebes Tagebuch （亲爱的日记本？在日记里倾诉？）
-* Ich kann dir wieder aus unserer tollen WG berichten. (我又可以在我们很棒的宿舍里像你报告了。这是正常的说法，还是略带戏谑？正常造句我不会想到用berichten这样的词。)
+* Bei der Verteilung der Arbeit im Beruf muss man ab und zu auch mal eine weniger gerechte Aufgabenteilung hinnehmen. (在工作上分配任务时，人们也得接受并不太公平的任务分配。hinnehmen 捏着鼻子接受，并不欣然的接受)
+* Da muss man dann auch Größe zeigen, um Verzeihung bitten und keine Rechtfertigungen für sein Verhalten suchen. (Größe zeigen 接受失败，承认犯错，Rechtfertigung 把什么东西正当化，找理由。)
+* Am Ende des Tages kann man ein Resümee ziehen. （单音节一般二格➕es）
+* Nutzen Sie die Chance für einen gemeinsamen Austausch, bei dem Sie kleinere Unstimmigkeiten entspannt ansprechen können. (心平气和的讨论解决争端)
+* Worum geht es? (es geht um etwas / es geht darum, dass ... 这是说啥？)
+* Wie handelt, denkt und fühlt die Person? (handeln 不及物动词，这里意为“做”)
+* Liebes Tagebuch （把日记当作倾诉对象）
+* Ich kann dir wieder aus unserer tollen WG berichten. (我又可以在我们很棒的宿舍里像你报告了。这是略带戏谑的说法。)
 * Verlange ich zu viel, wenn ...? (是我要求的太多。。。)
-* Daniela möchtet die Mitschrift von Benno, weil sie die letzten beiden Male nicht im Seminar war. (因为她这学期缺了两次课？)
-* Was ist gut gelaufen? (什么进行的不错？)
+* Daniela möchte die Mitschrift von Benno, weil sie die letzten beiden Male nicht im Seminar war. (因为她最近的两次研讨课都没去)
+* Was ist gut gelaufen? (什么事情进行的不错？)
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -139,7 +139,7 @@
 | das Mitleid | v.| mercy, sympathy |
 | hinhören | v.| listen ??? |
 | die Schwäche | n.| weakness |
-| die Zwischenüberschrift | n.| 副标题 ??? |
+| die Zwischenüberschrift | n.| 每段的小标题 |
 | vorkommen | v.| occur, appear |
 | schreien | v.| cry, shout |
 | das Türknallen | n.| 摔门的声音 |
@@ -159,9 +159,9 @@
 | hitzig | a.| 火爆的 |
 | die Verzeihung | n.| pardon, forgive |
 | die Rechtfertigung | n.| justification 正当化 |
-| die Unstimmigkeit | n.| disagreement |
+| die Unstimmigkeit | n.| 不合意 |
 | der Anlass | n.| motivation |
-| verlange | v.| ？？？ |
+| verlangen | v.| 要求 |
 | enttäuscht | a.| disappointed |
 | die Mitschrift | n.| 笔记 |
 | ausgenutzt | a.| exploited |
@@ -174,18 +174,18 @@
 ## Porträt Sophie Hunger
 
 ### Schwierige Sätze
-* Großes aus der kleinen Schweiz: Sophie Hunger brilliert mit smartem Indie-Pop, der poetisch daherkommt - aber nie platt (小瑞士出的大人物？brilliert 查不到这个词，意思是brilliant? Indie-Pop 瑞士人是印度流行歌大拿？daherkommt 流行歌大拿也是一位诗人款款走来？aber nie platt 但绝不平庸？)
-* Es kommt darauf an, wie man die Sachen singt oder sagt. (这取决于人们唱或者说这个东西。我不会想到用ankommen，另外darauf也不会想到用)
-* Sind Sie sich dessen bewusst? (您对此了解吗？语法不太清楚，为何用dessen? Are you aware of this? 所以这个this用二格？)
+* Großes aus der kleinen Schweiz: Sophie Hunger brilliert mit smartem Indie-Pop, der poetisch daherkommt - aber nie platt (来自小瑞士的了不起的事情 brillieren 引人注目，脱颖而出，Indie-Pop 独立流行音乐，daherkommt 像诗一样的音乐款款走来，aber nie platt 但绝不平庸？)
+* Es kommt darauf an, wie man die Sachen singt oder sagt. (这取决于人们唱或者说这个东西。auf etwas ankommen == depend on)
+* Sind Sie sich dessen bewusst? (etw ist jm.(三格宾语) bewusst. / jm ist sich（三格） etw.(二格) beusst.)
 * Zur ersten Zugabe kehre ich zurück auf die Bühne, alleine. （我的第一次返场演出）
-* annehmen vs. nehmen
-* Eine Sache fällt an Ihrer Musik besonders auf: Sie empfinden viel Spaß daran, Worte zu phrasieren - in allen Sprachen, in denen Sie singen. (您的音乐里有一样东西特别突出：您通过各种语言中的某个词来唱歌，从中感受到很多快乐。后半句不太通顺，而且不知道具体想表达什么。)
-* Ihr Album 1983 war international erfolgreich, aber nirgends so sehr wie in der Schweiz. (后半句缺少动词，另外，nirgends就是nirgendwo吗？)
-* Die Schweizer können oft nur als Schweizer in der Schweiz stolz auf sich sein. Denn wenn etwas die Schweiz verlässt, verlässt es meinstens den Wahrnehmungsbereich der Schweiz. (瑞士人只有在瑞士的时候才会感到自豪，因为当什么东西离开瑞士的时候，它也失去了瑞士的感知力（我们也不再以瑞士的角度来看它？）)
-* Geliebt, weil man ja das liebt, was zu einem gehört, abgesehen davon ob man es mag oder nicht. (后半句看不懂)
-* Klingt ein wenig nach Schicksal (听起来很宿命？)
-* und fast nach einer Last. (看不懂)
-* Die Schweiz ist keine Last. Was macht man daraus? (也不懂)
+* annehmen vs. nehmen （annehmen == accept, nehmen == take）
+* Eine Sache fällt an Ihrer Musik besonders auf: Sie empfinden viel Spaß daran, Worte zu phrasieren - in allen Sprachen, in denen Sie singen. (您的音乐里有一样东西特别突出：您能把大白话唱成歌，用各种语言，从中感受到很多快乐。)
+* Ihr Album 1983 war international erfolgreich, aber nirgends so sehr wie in der Schweiz.
+* Die Schweizer können oft nur als Schweizer in der Schweiz stolz auf sich sein. Denn wenn etwas die Schweiz verlässt, verlässt es meinstens den Wahrnehmungsbereich der Schweiz. (瑞士人只有在瑞士的时候才会感到自豪，因为当什么东西离开瑞士的时候，它也失去了瑞士的感知力（瑞士人也感受不到它了）)
+* Geliebt, weil man ja das liebt, was zu einem gehört, abgesehen davon ob man es mag oder nicht. (人们一定会“爱”属于自己的东西，也不管是不是“喜欢”它)
+* Klingt ein wenig nach Schicksal (听起来有一点点宿命，ein wenig == ein bischen)
+* und (klingt) fast nach einer Last. (而且听起来像一个负担)
+* Was macht man daraus? (以此为基础，能成就什么？)
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -194,29 +194,29 @@
 | daherkommen | v. | ??? |
 | platt | a. | flat |
 | der Gesang | n. | singing, song |
-| die Zugabe | n. | 附加物？？？ |
-| kehren | v. | 清扫，反转？？？ |
+| die Zugabe | n. | 返场演出 |
+| kehren | v. | 清扫 |
 | die Bühne | n. | 舞台 |
 | spüren | v. | feel |
 | die Aufmerksamkeit | n. | attention, concentration |
 | die Gunst | n. | favor |
-| annehmen | v. | ??? |
+| annehmen | v. | accept |
 | auffallen | v. | stand out, attract attention |
 | zugleich | a. | together, at the same time |
 | hervorragend | a. | excellent, outstanding |
 | stolz | a. | proud |
 | die Wahrnehmung | n. | perception |
-| absehen | v. | 预见到？？？ |
+| absehen | v. | 不去管 |
 
-## Film Was man mit dem Körper sagen kann
+## Film - Was man mit dem Körper sagen kann
 
 ### Schwierige Sätze
-* Da Körpersprache überwiegend kulturabhängig ist, kann es zu Missverständnissen kommen. (因为肢体语言多半依赖于文化，所以它可能导致误解？)
-* Es geht darum, Hemmugen abzubauen, Ausdrucksfähigkeit zurückzuerlangen. (重获表达能力，可以拆除障碍？)
+* Da Körpersprache überwiegend kulturabhängig ist, kann es zu Missverständnissen kommen. (因为肢体语言多半依赖于文化，所以它会发生误解)
+* Es geht darum, Hemmugen abzubauen, Ausdrucksfähigkeit zurückzuerlangen. (重获表达能力，可以拆除障碍)
 * Kommunikation durch Bewegung - die Sprache des Körpers zur Kunst erhoben. (通过动作交流，即将肢体语言提升到艺术层面？)
-* Wenn ich so sitzen bleiben würde, würde ich die Stimmung dieser Haltung automatisch annehmen. (当我保持这样坐时，我就会自动接受这个姿势的情绪？)
-* Aus welchen drei Elementen besteht Körpersprache？（那三个元素存在肢体语言？）
-* Wie eignet man sich erlernbare Körpersprache an? (人怎么能获得能学会的肢体语言？)
+* Wenn ich so sitzen bleiben würde, würde ich die Stimmung dieser Haltung automatisch annehmen. (当我保持这样坐时，我就会自动拥有了这个姿势的氛围。Stimmung 氛围，情绪)
+* Aus welchen drei Elementen besteht Körpersprache？（肢体语言由那三个元素组成？bestehen aus 由什么而组成。）
+* Wie eignet man sich erlernbare Körpersprache an? (sich etwas aneignen 学会。人怎么能获得能学会的肢体语言？)
 * Durch welche Elemente der Körpersprache gelingt bzw. misslingt das Gespräch zwischen Arzt und Patient? (哪些肢体语言的元素在医生和病人的对话中成功了或者失败了？bzw.是不是通常就表示“或者”的意思？)
 * Legen Sie fest, ob das Gespräch positiv oder negativ verlaufen soll. (想一下？这个对话进行的好还是坏？)
 * wütend vs. ärgerlich
