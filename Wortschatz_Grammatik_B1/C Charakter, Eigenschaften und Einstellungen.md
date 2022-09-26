@@ -24,6 +24,33 @@
 * Ich mag ihn nicht besonders, weil er immer mit allem **unzufrieden** ist.
 * Die beiden sind sich vom **Typ** her sehr ähnlich. （vom Typ her 从个性去看)
 
+## C2 Wie ist er denn?
+1. freundlich - unfreundlich
+2. unsympathisch - sympathisch
+3. fröhlich - ernst
+4. unglücklich - glücklich
+5. aktiv - passiv
+6. gut gelaunt - schlecht gelaunt
+7. traurig - lustig
+8. fleißig - faul
+9. intelligent - dumm
+
+### Fragen
+* fröhlich vs. glücklich vs. lustig vs. commisch, fröhlich vs. ernst
+
+## C3 Kontaktanzeigen
+* Attraktive blond Ärztin, tolle Figur, sportlich, 37 J., 1,82, starker Charakter, sucht treuen, ehrlichen Partner. Interessen: Oper, Konzert, Kunst, Literatur, Natur. Raum 4: sternschnuppe@yuhuu.de
+* Attrativer Akademiker (34, 1,89), mit Humor und Temperament, schlank, sucht Dich: eine hübsche, selbstbewusste Frau, um gemeinsam das Leben zu genießen. Ich freue mich auf ernst gemeinte Zuschriften unter: Lebensglueck@net.de
+
+## C4 Sprichtwörter und Zitate
+* Im Deutschen lügt man, wenn man höflich ist. （当人们有礼貌时，他们在撒谎？什么意思？伪善？德国人都伪善？歌德的名言？）
+* Wie mutig man ist, weiß man immer erst nachher. (人有多勇敢，人们总是后来才知道？)
+* Am Abend wird der Faule fleißig. （懒人晚上变得勤奋？意思是一日之计在于晨？还是抨击夜生活太丰富的生活方式？）
+* Man ist nicht feige, wenn man weiß, was dumm ist.（他不是胆小，而是蠢？德国谚语有点怪哦）
+* Kein Zweifel, der Hund ist treu. Aber sollen wir uns deshalbe ein Beispiel an ihm nehmen? Er ist doch dem Menschen treu und nicht dem Hund. （毋庸置疑，狗是忠诚的。但我们是否应该以狗为榜样呢？他们只是对人忠诚，而非对狗忠诚。所以呢？要找个对同类忠诚的动物学习？）
+* Das ganze Regieren besteht aus der Kunst, ehrlich zu sein.（整个统治依赖于艺术，真的如此。什么鬼？）
+
+
 ## Wörter
 | 单词 | 词性 | 意思 |
 | --- | --- | --- |
@@ -39,3 +66,10 @@
 | gut gelaunt | a.| 心情很好 |
 | das Referat | n.| review, unit, report |
 | ernst | a.| serious, strict |
+| fleißig | a.| dilligent |
+| faul | a.| lazy |
+| traurig | a.| sad |
+| treuen | a. | faithful |
+| ehrlich | a. | honest |
+| schlank | a. | 修长的，纤细的 |
+| gemeinte | a. | sincere, genuine |
