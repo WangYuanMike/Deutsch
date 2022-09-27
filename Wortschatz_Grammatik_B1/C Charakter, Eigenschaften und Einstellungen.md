@@ -50,6 +50,44 @@
 * Kein Zweifel, der Hund ist treu. Aber sollen wir uns deshalbe ein Beispiel an ihm nehmen? Er ist doch dem Menschen treu und nicht dem Hund. （毋庸置疑，狗是忠诚的。但我们是否应该以狗为榜样呢？他们只是对人忠诚，而非对狗忠诚。所以呢？要找个对同类忠诚的动物学习？）
 * Das ganze Regieren besteht aus der Kunst, ehrlich zu sein.（整个统治依赖于艺术，真的如此。什么鬼？）
 
+## C5 Wie sieht er aus?
+1. Seine Haare sind kurz/lang/glatt.
+2. Er trägt eine Brille/einen Bart.
+3. Seine Haut ist ganz blass/hell.
+4. Seine Gesichtsform ist rund/breit/schmal.
+5. Seine Haarfarbe ist grau/schwarz/braun.
+6. Er ist vom Körperbau her groß/dick/klein.
+7. Sie ist sehr dünn. Sie ist schlank/mager.
+
+### Fragen
+* schlank vs. dünn vs. mager
+* Er ist vom Körperbau her dick/klein/groß. (her 是什么意思？小品词无实义？)
+
+## C6 Schreib doch mal!
+1. Eine Einladung schreiben/bekommen/kriegen
+2. Auf eine Einladung reagieren/antworten/warten
+3. Ich schreibe mit Kugelschreiber/Bleistift/Füller
+4. Zum Schreiben brauche ich einen Zettel/ein Blatt/Papier.
+5. Ich schreibe einen Brief/eine Postkarte/eine Ansichtskarte.
+6. Ich brauche für den Brief einen Briefumschlag.
+7. Ich schicke dir eine E-Mail/einen Brief/eine SMS.
+
+## C7 Gefühle und Einstellungen
+1. Sie hatte das Gefühl, dass das Kind den Ball nicht mit Absicht auf das Auto geschossen hat.
+2. Ich ärgere mich, weil er mich angelogen hat.
+3. Er ging nach Hause, weil er sich nicht wohlfühlte.
+4. Warum hat er denn heute so schlechte Laune?
+5. Ich hasse es, im Stau zu stehen.
+6. Meine neue Arbeit macht mir große Freude.
+7. Er hat beschloßen, sich eine neue Arbeitsstelle zu suchen.
+8. Er freut sich schon sehr auf die Geburtstagsparty. 
+9. Ich hoffe, sie hat sich über das Geschenk gefreut.
+10. Wegen der Absage auf meine Bewerbung bin ich sehr enttäuscht. Ich habe mir Hoffnung gemacht, die Stelle zu bekommen.
+11. Mit dem Ergebnis der Prüfung ist sie sehr zufrieden.
+12. Vor der Prüfung war ich sehr nervös und aufgeregt.
+13. Mein kleiner Sohn fürchtet sich, wenn es ein Gewitter gibt.
+14. Er bekam einen Strafzettel und regte sich fürchterlich darüber auf.
+15. Er hat sich entschloßen, freiwillig die Klasse zu wiederholen.
 
 ## Wörter
 | 单词 | 词性 | 意思 |
@@ -73,3 +111,18 @@
 | ehrlich | a. | honest |
 | schlank | a. | 修长的，纤细的 |
 | gemeinte | a. | sincere, genuine |
+| mager | a. | lean, skinny |
+| glatt | a. | smooth |
+| der Bart | n. | beard |
+| blass | a. | pale |
+| schmal | a. | narrow |
+| doof | a. | stupid |
+| der Briefumschlag | n. | envelop |
+| die Absicht | n. | aim, intent |
+| anlügen | v. | lie |
+| die Laune | n. | mood |
+| hassen | v. | hate |
+| aufgeregt | a. | excited, nervous |
+| fürchten | v. | to be afraid of |
+| enttäuscht | a. | disappointed |
+| das Gewitter | n. | storm |
