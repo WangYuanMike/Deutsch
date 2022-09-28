@@ -217,25 +217,25 @@
 * Wenn ich so sitzen bleiben würde, würde ich die Stimmung dieser Haltung automatisch annehmen. (当我保持这样坐时，我就会自动拥有了这个姿势的氛围。Stimmung 氛围，情绪)
 * Aus welchen drei Elementen besteht Körpersprache？（肢体语言由那三个元素组成？bestehen aus 由什么而组成。）
 * Wie eignet man sich erlernbare Körpersprache an? (sich etwas aneignen 学会。人怎么能获得能学会的肢体语言？)
-* Durch welche Elemente der Körpersprache gelingt bzw. misslingt das Gespräch zwischen Arzt und Patient? (哪些肢体语言的元素在医生和病人的对话中成功了或者失败了？bzw.是不是通常就表示“或者”的意思？)
-* Legen Sie fest, ob das Gespräch positiv oder negativ verlaufen soll. (想一下？这个对话进行的好还是坏？)
-* wütend vs. ärgerlich
-* Setzen Sie bewusst Ihre Stimme und Ihre Körpersprache ein. Trauen Sie sich. (插入您自己的声音和肢体语言。相信您自己。bewusst作何解？Stimme是指语气？Setzen这个词讲一讲。)
+* Durch welche Elemente der Körpersprache gelingt bzw. misslingt das Gespräch zwischen Arzt und Patient? (bzw. 以及，有表示更进一步的意思)
+* Legen Sie fest, ob das Gespräch positiv oder negativ verlaufen soll. (请您确定，这个对话进行的好还是坏，festlegen == ensure)
+* wütend vs. ärgerlich vs. verärgered （愤怒的 vs. 令人生气的 vs. 生气的）
+* Setzen Sie bewusst Ihre Stimme und Ihre Körpersprache ein. Trauen Sie sich. (请您使用声音和肢体语言。相信自己。setzen sich 坐到某处，setzen 安放，Geld etwas setzen 为某事存钱)
 
 ### Wörter
 | 单词 | 词性 | 意思 |
 | --- | --- | --- |
 | überwiegend | a. | 主流的，多半 |
 | die Anwesenheit | n. | presence, attendence |
-| gleichgestimmt | a. | 持同样观点的??? |
+| gleichgestimmt | a. | 步调一致的，gleichgesinnt |
 | die Hemmungen | n. | suspension |
 | abbauen | v. | 拆除 |
 | erlangen | v. | win, get |
-| zurückerlangen | v. | retrieve, recover ??? |
-| erhoben | v. | 提升 |
+| zurückerlangen | v. | get back, 拿回来了 |
+| erheben | v. | 提升 |
 | die Stimmung | n. | atmosphere, mood |
 | die Haltung | n. | attitude, position |
-| bestehen | v. | 存在？？？ |
+| bestehen | v. | 存在, +aus+3 由什么组成，+auf+4 坚持某事 |
 | angeboren | a. | 固有的，先天的 |
 | aneignen | v. | acquire |
 | misslingen | v. | fail |
@@ -247,7 +247,7 @@
 | die Begegnung | n. | encounter, meeting |
 | schüchtern | a. | shy |
 | euphorisch | a. | 欢快的 |
-| einsetzen | v. | insert |
+| einsetzen | v. | 使用 |
 
 # Arbeitsbuch
 
@@ -261,12 +261,12 @@
 5. etwas ganz leise sage - flüstern
 6. nicht flüssig sprechen - stottern
 7. seinen Ärger mit Worten ausdrücken - schimpfen
-8. etw. als wahr hinstellen, ohne es zu beweisen - behaupten ???
+8. etw. als wahr hinstellen, ohne es zu beweisen - behaupten （号称）
 9. etw. sehr laut rufen - schreien 
-10. etw. berichten - erzählen ???
+10. etw. berichten - erzählen
 
 ### Ü1b
-1. fragen - sich erkundigen ？？？
+1. fragen - sich erkundigen （打听，nach etwas fragen, sich nach etwas erkundigen)
 2. reden - sprechen
 3. hinzufügen - ergänzen
 4. erwidern - antworten
@@ -285,15 +285,15 @@
 5. ein Gespräch, das einmal im Jahr zwischen dem Vorgesetzten und jedem Mitarbeiter stattfindet - Mitarbeitergespräch
 
 ### Schwierige Sätze
-* Das stimmt nicht ganz. (stimmen这个词讲一讲)
-* Aber Jürgen ließ nicht locker. (但Jürgen还没明白过来？)
-* ein Gespräch, zu dem Stellenbewerber eingeladen werden - Vorstellungsgespräch （自我介绍？被邀请参加工作面试时讲的话？）
+* Das stimmt nicht ganz. (stimmen == etwas ist richtig, etwas ist in Ordnung. Diese Nachricht stimmt mich froh. 这条消息让我开心，stimmen表示心情调整. Wer dafür stimmt, ... 谁赞成这个的话，就。。。)
+* Aber Jürgen ließ nicht locker. (但Jürgen还没有放弃努力。locker 松掉，松驰，休闲，lockerlassen 放松)
+* ein Gespräch, zu dem Stellenbewerber eingeladen werden - Vorstellungsgespräch （面试，即被邀请参加工作面试时讲的话）
 * 几个sprechen
-    * Entschuldigung, darf ich Sie kurz ansprechen? Wir machen eine Umfrage zum Thema "Modern Medien"? (对不起，我能和您稍微聊会儿吗？ansprechen具体是什么意思？)
-    * Tut mir leid. Davon habe ich keine Ahnung, da kann ich nicht mitsprechen. 
-    * Ich denke, Eva hat ein Problem mit mir. Ich sollte mich mal mit ihr aussprechen.
-    * Nein, das glaube ich nicht, da muss ich dir widersprechen. Eva geht es zurzeit nur nicht gut.
-    * Das geht jetzt leider nicht. Ich habe dem Chef versprochen, zuerst die Rechnungen zu schreiben. (我已经跟老板说过了，要先出账单？)
+    * Entschuldigung, darf ich Sie kurz ansprechen? Wir machen eine Umfrage zum Thema "Modern Medien"? (对不起，我能和您稍微聊会儿吗？ansprechen 攀谈)
+    * Tut mir leid. Davon habe ich keine Ahnung, da kann ich nicht mitsprechen. （mitsprechen 插话，参与讨论）
+    * Ich denke, Eva hat ein Problem mit mir. Ich sollte mich mal mit ihr aussprechen. （aussprechen 说出，发音，交心）
+    * Nein, das glaube ich nicht, da muss ich dir widersprechen. Eva geht es zurzeit nur nicht gut. （widersprechen 反驳，反对）
+    * Das geht jetzt leider nicht. Ich habe dem Chef versprochen, zuerst die Rechnungen zu schreiben. (versprechen 承诺)
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -314,17 +314,17 @@
 | auffordern | v. | invite, request |
 | schrecklich | a. | awful |
 | heftig | a. | fierce, hard, violent |
-| das Streitgespräch | n. | 辩论？？？ |
-| der Vorgesetzte | n. | boss, superior |
+| das Streitgespräch | n. | 辩论，争吵 |
+| der Vorgesetzte | n. | superior |
 
 ## Gesten sagen mehr als tausend Worte ...
 
 ### Schwierige Sätze
 * In seinem Buch "Körpersprache des Erfolgs" legt der weltberühmte Pantomime und Kultautor das Ergebnis seiner jahrzentelangen Arbeit vor.
-(在他的书“成功的肢体语言”中，那个世界著名的哑剧和祭祀演员展示了他长达十年的工作？)
-* Darin beschreibt er, was Erfolg ausmacht und wie sich Erfolg in der Körpersprache ausdrückt. (在书中，他写到，如何开启成功以及如何通过肢体语言达到成功？sich在这里是什么用法？)
-* Er versteht unter Erfolg, sein eigenes Leben gut zu bewältigen - und eine Körpersprache des Erfolgs ist demnach die Körpersprache eines in sich ruhenden, souveränen Menschen. (他理解的成功是自己管理好自己的生活，而成功的肢体语言则来自冷静而自信的人？语法结构上要讲讲)
-* Längst übt Samy Molcho, der als einer der berühmtesten Pantomimen der Welt mit Marcel Marceau in einem Atemzug genannt wird, seine Kunst nicht mehr auf der Bühne aus. (Samy，作为世界上最有名的哑剧演员之一，和Marcel在一次修行中结识，早就不在舞台上表演他的艺术了。)
+(在他的书“成功的肢体语言”中，那个世界著名的哑剧和祭祀演员展示了他长达十年的工作，vorlegen 提交，提请)
+* Darin beschreibt er, was Erfolg ausmacht und wie sich Erfolg in der Körpersprache ausdrückt. (在书中，他写到，如何走向成功以及成功是如何被用肢体语言表达出来的？sich ausdrücken 物做主语时加sich有表达被动的意思)
+* Er versteht unter Erfolg, sein eigenes Leben gut zu bewältigen - und eine Körpersprache des Erfolgs ist demnach die Körpersprache eines in sich ruhenden, souveränen Menschen. (他理解的成功是自己管理好自己的生活，因此成功的肢体语言则来自冷静而自信的人的肢体语言)
+* Längst übt Samy Molcho, der als einer der berühmtesten Pantomimen der Welt mit Marcel Marceau in einem Atemzug genannt wird, seine Kunst nicht mehr auf der Bühne aus. (Samy，作为世界上最有名的哑剧演员之一，和Marcel相提并论，早就不在舞台上表演他的艺术了。ausüben 做，从事)
 * Er schreibt heute noch Bücher und hält Vorträge. (做演讲叫Vorträge halten? halten这个词讲一讲)
 * Seit 1980 hält Molcho zum Thema "Körpersprache" Vorträge und Seminare - unter anderem für Mediziner, Politiker, Manager und Unternehmer. (为什么会用unter？)
 * halten vs. behalten vs. verhalten vs. Haltung vs. Auftreten (王老师串讲一下)
