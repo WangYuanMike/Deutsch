@@ -95,7 +95,9 @@
 
 ### Schwierige Sätze
 * Mit Hammer und Säge machen wir uns an die Arbeit, ohne von Mails oder anrufen abgelenkt zu werden. (没有问题，摘抄学习一下被动语态加zu不定式)
-
+* Sobald das Boot fertig ist - voraussichtlich am späten Nachmittag -, rudern wir in Fünfer-Teams um die Wette. (am späten Nachmittag 最晚在下午？还是下午晚些时候，比如五六点？in Fünfer-Teams 五人一个小组？um die Wette 比赛？)
+* Welches Team umrundet die nahe-gelegene Insel am schnellsten? (umrundern 跟rundern有啥区别？nahe-gelegene Insel 这附近的小岛？)
+* Danach rudern wir ganz gemütlich zur Insel, um uns dort von einmem Grillmeister verwöhnen zu lassen. (然后我们就很放松的划向小岛，在那里让我们尽情享受来自一位烧烤大师的宠爱吧？？？故意有点搞笑的说法？)
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -107,3 +109,5 @@
 | die Säge | n. | saw |
 | voraussichtlich | a. | estimated, likelz |
 | rudern | v. | row |
+| die Wette | n. | 打赌？？？ |
+| verwöhnen | v. | 惯，宠爱？？？ |
