@@ -90,3 +90,20 @@
 | anspruchsvoll | a. | ambitious？？？ |
 | bewältigen | v. | manage, tackle, overcome |
 | eventuell | a. | possible, potential |
+
+## Modul 3 Teamgeist
+
+### Schwierige Sätze
+* Mit Hammer und Säge machen wir uns an die Arbeit, ohne von Mails oder anrufen abgelenkt zu werden. (没有问题，摘抄学习一下被动语态加zu不定式)
+
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| blöd | a. | studip |
+| die Begeisterung | n. | 热情，激情 |
+| anstatt | prep. | instead |
+| das Boot | n. | boat |
+| die Säge | n. | saw |
+| voraussichtlich | a. | estimated, likelz |
+| rudern | v. | row |
