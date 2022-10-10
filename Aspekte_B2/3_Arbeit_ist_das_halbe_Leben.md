@@ -111,3 +111,40 @@
 | rudern | v. | row |
 | die Wette | n. | 打赌？？？ |
 | verwöhnen | v. | 惯，宠爱？？？ |
+
+## Modul 4 Werben Sie für sich!
+
+### Schwierige Sätze
+* Die Überschrift ist gut, jeder erkennt sofort, was vor ihm liegt. Übersichtlicher ist es, wenn die Überschrift über der zweiten Spalte steht. (标题是好的，让每个人都一目了然，他面前的怎样的一位求职者。更好的做法是，把标题放到第二列？)
+* Abschluss 意思是毕业论文？或者学位？
+* Was macht die Firma, die die Anzeige aufgegeben hat? (aufgeben不是退出的意思吗？这里做何解？)
+* Machen Sie deutlich, welche Stationen Ihrer Ausbildung/Karriere für die Stelle wichtig sind. (Stationen何意？教育与职业生涯中的某些节点？)
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| die Überschrift | n. | heading, title |
+| die Spalte | n. | column |
+| einheitlich | a. | uniform |
+| die Abschlüsse | n. | conclusion, closure, degree |
+| die EDV | n. | computing, electronische Datenverarbeitung |
+| gegliedert | a. | structured |
+| die Veranstaltung | n. | event, activity |
+| wirkungsvoll | a. | effective |
+| verhandlungssicher | a. | full professional proficiency |
+| die Stellenausschreibung | n. | job advertisement |
+| die Anforderung | n. | requirement, request, demand |
+| erstellen | v. | establish |
+| aussagekräftig | a. | meaningful, expressive |
+| ausschließlich | a. | exclusive |
+| die Einleitung | n. | introduction |
+| der Betreff | n. | subject，标题 |
+| umfangreich | a. | extensive |
+| anspruchsvoll | a. | 高档次的，要求高的，ambitious |
+| ebenso | a. | alike, similar |
+| die Angebotserstellung | n. | bid proposal management, 投标管理？？？ |
+| die Vorlieben | n. | fondness, bias |
+
+
+
+
