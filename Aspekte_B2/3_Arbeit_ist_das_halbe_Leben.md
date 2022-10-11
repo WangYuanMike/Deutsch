@@ -145,6 +145,33 @@
 | die Angebotserstellung | n. | bid proposal management, 投标管理？？？ |
 | die Vorlieben | n. | fondness, bias |
 
+## Porträt manomama
 
+### Schwierige Sätze
+* Sina Trinkwalder ist Textilunternehmerin. Aber nicht irgendeine. (Sina是个女企业家，但不是随随便便能找到的普通的一个？)
+* Für ihr Engagement kam Lob von allen Seiten (她的投入赢得了各方的赞誉？)
+* Sie hätte es auch lassen können. Sina verdiente gutes Geld als Geschäftsführerin einer Werbeagentur. (她本可以就这样了。Sina以前是一个广告公司的经理，挣不少钱。)
+* Aber sie besitzt nun mal von Kindesbeinen an einen ausgesprochenen Gerechtigkeitssinn. (这句完全不懂)
+* So hängte sie ihren Job an den Nagel. (这是俚语？表示放弃了自己的职业？)
+* Wir machen nicht bio, weil es sich gut verkauft, sondern weil wir es als Grundvoraussetzung für ein respektvolles, soziales Handeln sehen. (bio前面的nicht是不是应该放在第一个weil前面？)
+* Wichtiger als bio ist ihr aber der soziale Aspekt. (德语ihr前面不需要诸如for这样的介词？)
+* Wir können doch Menschen, die gern arbeiten würden, nicht die Chance verweigern. (我们不会让那些想工作的人失去机会？)
+* Dass es gelingen würde, in Deutschland konkurrenzfähige Textilien herzustellen, haben ihr nicht viele zugetraut - das sei hier einfach zu teuer. (她没有想过生意会很成功，因为德国成本太高了？这句完全不懂，语法结构，主语是什么，以及后面为什么是sei，各种指代也不清楚)
+* Mit ihrem Projekt hat sie viel Aufsehen erregt, avancierte zum Liebling der Arbeitsagentur und wird von Politik und Gewerkschaften hofiert. (她的项目为她带来了轰动，劳动局也喜欢她，更不要说政商届也开始向她献殷情。这句不太懂，语法上)
 
-
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| verankert | a. | fixed, anchored |
+| die Grundvoraussetzung | n. | prerequisite |
+| verweigern | v. | refuse, reject |
+| einzig | a. | only |
+| der Anbau | n. | 耕作，扩建，栽培 |
+| konkurrenzfähig | a. | competitive |
+| zutrauen | v. | 敢于，自不量力 |
+| verlagern | v. | relocate |
+| verzweifelt | a. | desperate |
+| das Aufsehen | n. | ??? |
+| erregen | v. | shock, move, thrill |
+| avancieren | v. | promote, advance |
+| hofiern | v. | 讨好，献殷勤 |
