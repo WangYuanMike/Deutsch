@@ -175,3 +175,21 @@
 | erregen | v. | shock, move, thrill |
 | avancieren | v. | promote, advance |
 | hofiern | v. | 讨好，献殷勤 |
+
+## Gleicher Lohn für gleiche Arbeit?
+
+### Schwierige Sätze
+* Familienverhältnisse (指婚姻状况？)
+* Beruf und Familie unter einen Hut zu bekommen, ist wirklich schwierig. (职业和家庭兼顾确实很难。unter einen Hut是个什么说法？)
+* Schreiben Sie einen eigenen Forumsbeitrag zum Thema (Beitrag好像用的很普遍，原意是贡献，这里是帖子的意思？好像还有出份子的意思，是不是？)
+* Aber vielleicht könnten ja auch mal die Väter eine Weile Teilzeit arbeiten und sich mehr um die Familie kümmern. (eine Weile Teilzeit意思明白，语法上Weile是什么属性？形容词？那为什么W要大写？还是二格什么的？)
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| die Berechtigung | n. | 权利 |
+| die Spalte | n. | column |
+| anschließend | a. | subsequent, afterwards |
+| anstrengend | a. | stessful |
+| das Durchsetzungsvermögen | n. | 执行力？？？|
+| die Zielstrebigkeit| n. | 志气 |
