@@ -193,3 +193,37 @@
 | anstrengend | a. | stessful |
 | das Durchsetzungsvermögen | n. | 执行力？？？|
 | die Zielstrebigkeit| n. | 志气 |
+
+# Arbeitsbuch
+
+## Wortschatz
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| entgegennehmen | v. | accept |
+| die Skizze | n. | sketch |
+| die Tätigkeit | n. | activity |
+| der Lebensunterhalt | n. | 生计 |
+| das Geheimnis | n. | secret |
+
+## Modul 1 Mein Weg zum Job
+
+### Konnektoren
+* entweder oder
+* einerseits andererseits
+* weder noch
+* zwar aber
+* nicht nur sondern auch
+* sowohl als auch
+* je desto
+
+### Schwierige Sätze
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| entlassen | v. | 开除，罢免 |
+| zusagen | v. | promise |
+| absagen | v. | cancel, reject |
+| der Betrieb | n. | firm, business |
