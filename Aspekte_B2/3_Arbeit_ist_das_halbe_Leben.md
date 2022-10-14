@@ -218,8 +218,6 @@
 * sowohl als auch
 * je desto
 
-### Schwierige Sätze
-
 ### Wörter
 | 单词 | 词性 | 意思 |
 | --- | --- | --- |
@@ -227,3 +225,30 @@
 | zusagen | v. | promise |
 | absagen | v. | cancel, reject |
 | der Betrieb | n. | firm, business |
+| ausschreiben | v. | 招标 |
+
+## Modul 2 Glücklich im Job?
+
+### Schwierige Sätze
+* Gleichzeitig werden wir auch im Büro mit E-Mails und Informationen überschüttet. (überschüttet此处作何解？)
+* Während der Arbeit kann es helfen, immer wieder Entspannungsübungen zu machen. (意思懂，语法上是不是又省略了什么成分？)
+* Das gelingt den meisten am besten, wenn sie Sport machen oder etwas Schönes unternehmen. (意思懂，unternehmen此处意为“接受”？如何又同企业联系起来？)
+* Bei der Beurteilung wird u.a. darauf geachtet, ... (Beurteilung究竟是何意？u.a.又是什么意思？)
+* Oft bleibt nicht genügend Zeit, um alle Aufgaben gut überlegt bewältigen zu können. (überlegt是什么词性？副词？)
+* Unser Chef erwartet unglaublich viel Einsatz und ständig neue Ideen. (Einsatz此处是何意？很多要求？)
+* Deshalb bin ich froh, dass in meiner jetzigen Firma Teamarbeit großgeschrieben wird. (großgeschrieben此处引申为被重视的意思？)
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| die Redaktion | n. | 编辑 |
+| überschütten | v. | 赞不绝口，泼冷水，冷嘲热讽？？？ |
+| leiden | v. | suffer |
+| genügen | v. | meet, suffice |
+| ebenfalls | a. | also |
+| abschalten | v. | switch off |
+| vorgeschlagen | a. | suggested |
+| die Beurteilung | n. | appraisal, assessment |
+| berücksichtigen | v. | respect, consider |
+| bewältigen | v. | manage, tackle |
+| die Abwechslung | n. | variety |
