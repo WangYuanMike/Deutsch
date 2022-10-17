@@ -252,3 +252,26 @@
 | berücksichtigen | v. | respect, consider |
 | bewältigen | v. | manage, tackle |
 | die Abwechslung | n. | variety |
+
+## Modul 3 Teamgeist
+### Schwierige Sätze
+* Sie hat sich sofort angemeldet, ohne lange zu zögern. (意思懂, ohne后面可以不是名词而是形容词？)
+* Bei Konflikten im Job ist es oft besser, ein offenes Gespräch zu führen, anstatt dass man Probleme für sich behält. (对behalten的理解还是不到位)
+
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| die Tagung | n. | meeting |
+| die Fortsetzung | n. | 继续，续篇 |
+| das Hindernis | n. | barrier |
+| überwinden | v. | overcome |
+| drehen | v. | turn, spin, twist, 拍摄 |
+| jammern | v. | 悲叹，抱怨 |
+| zögern | v. | hesitate |
+| anschaffen | v. | 采购 |
+| verteilen | v. | distribute |
+| überzeugen | v. | convince |
+| enstehen | v. | arise, develop |
+
+
+
