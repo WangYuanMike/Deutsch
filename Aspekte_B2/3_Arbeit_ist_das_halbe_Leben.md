@@ -273,5 +273,16 @@
 | überzeugen | v. | convince |
 | enstehen | v. | arise, develop |
 
+## Modul 4 Werben Sie für sich!
 
+### Schwierige Sätze
+* auf Ihrer Homepage bin ich auf Ihr Stellenaugebot aufmerksam geworden, mit dem Seie zum 1. Dezember einen Teamassistenten suchen. (bin...geworden是werden的现在完成时？)
+* Mein Vorgesetzer, Herr Maurer, ist über meinen angestrebten Arbeitsplatzwechsel informiert und gerne bereit, Auskünfte über mich zu erteilen. (erteilen的意思是下达命令？我的上级已经知道我要跳槽，他愿意给我一些建议？)
 
+### Wörter
+| 单词 | 词性 | 意思 |
+| --- | --- | --- |
+| die Voraussetzung | n. | 前提 |
+| angestreben | v. | seek |
+| die Auskunft | n. | information desk, advice |
+| beigefügt | a. | attached |
