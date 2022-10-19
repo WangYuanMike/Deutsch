@@ -260,7 +260,7 @@
 4. das Gegenteil behaupten - widersprechen protestieren
 5. etwas ganz leise sage - flüstern
 6. nicht flüssig sprechen - stottern
-7. seinen Ärger mit Worten ausdrücken - schimpfen
+7. seinen Äfrger mit Worten ausdrücken - schimpfen
 8. etw. als wahr hinstellen, ohne es zu beweisen - behaupten （号称）
 9. etw. sehr laut rufen - schreien 
 10. etw. berichten - erzählen
@@ -325,14 +325,14 @@
 * Darin beschreibt er, was Erfolg ausmacht und wie sich Erfolg in der Körpersprache ausdrückt. (在书中，他写到，如何走向成功以及成功是如何被用肢体语言表达出来的？sich ausdrücken 物做主语时加sich有表达被动的意思)
 * Er versteht unter Erfolg, sein eigenes Leben gut zu bewältigen - und eine Körpersprache des Erfolgs ist demnach die Körpersprache eines in sich ruhenden, souveränen Menschen. (他理解的成功是自己管理好自己的生活，因此成功的肢体语言则来自冷静而自信的人的肢体语言)
 * Längst übt Samy Molcho, der als einer der berühmtesten Pantomimen der Welt mit Marcel Marceau in einem Atemzug genannt wird, seine Kunst nicht mehr auf der Bühne aus. (Samy，作为世界上最有名的哑剧演员之一，和Marcel相提并论，早就不在舞台上表演他的艺术了。ausüben 做，从事)
-* Er schreibt heute noch Bücher und hält Vorträge. (做演讲叫Vorträge halten? halten这个词讲一讲)
-* Seit 1980 hält Molcho zum Thema "Körpersprache" Vorträge und Seminare - unter anderem für Mediziner, Politiker, Manager und Unternehmer. (为什么会用unter？)
+* Er schreibt heute noch Bücher und hält Vorträge. (做演讲 Vorträge halten，Rede oder Präsentation halten, Dialog oder Besprechung oder Debate führen)
+* Seit 1980 hält Molcho zum Thema "Körpersprache" Vorträge und Seminare - unter anderem für Mediziner, Politiker, Manager und Unternehmer. (unter anderem 是放在枚举之前的“等等。。。”，可简写为u. a.，枚举之后的等等是und so weiter, u.s.w)
 * halten vs. behalten vs. verhalten vs. Haltung vs. Auftreten (王老师串讲一下)
-* sollten vs. sollen (哪一个是should?)
-* Ü4 als oder wie (几乎全错)
-* Vor allem die Gestik hat in anderen Kulturen oft eine andere Bedeutung, als man annimmt. (annehmen是接受的意思？句意感觉不太通顺)
-* Gesundes Essen ist viel besser, als ich angenommen habe. (健康饮食会更好，正如我所接受的那样？)
-* Auf diese Weise würde die Kommunikation noch besser klappen, als man vermutet. (Auf diese Weise == thus, klappen 鼓掌？正如人们所建议的，这样交流会更容易被接受？)
+* sollten vs. sollen （都是should，sollten的口吻更温和）
+* Ü4 als oder wie (见到比较级或anders就用als，见到so就用wie)
+* Vor allem die Gestik hat in anderen Kulturen oft eine andere Bedeutung, als man annimmt. (annehmen 接受，认为)
+* Gesundes Essen ist viel besser, als ich angenommen habe. (健康饮食会更好，正如我所认为的那样)
+* Auf diese Weise würde die Kommunikation noch besser klappen, als man vermutet. (Auf diese Weise == thus, klappen 成功，正如人们所建议的，这样交流会更容易成功)
 
 
 ### Wörter
@@ -341,27 +341,27 @@
 | auskommen | v. | get along |
 | die Pantomime | n. | 哑剧 |
 | der Kult | n. | 祭祀典礼 |
-| vorlegen | v. | 提出？ |
+| vorlegen | v. | 提交 |
 | gleichsetzen | v. | 等同于 |
 | bewältigen | v. | manage, tackle |
 | demnach | a. | thus |
-| ruhenden | a. | 静止的，平心的 |
+| ruhend | a. | 静止的，平心的 |
 | souverän | a. | superior, confident, competent |
-| der Atemzug | n. | 呼吸，吐纳??? |
-| langst | a. | 早 |
+| der Atemzug | n. | 呼吸，吐纳 |
+| längst | a. | 早已 |
 | ausüben | v. | practice, perform |
-| entschlüssel | v. | decrypt |
+| entschlüsseln | v. | decrypt |
 | renommierten | a. | renowned, prestigious, famous |
 | der Vortrag | n. | speech, lecture |
 | das Auftreten | n. | 仪态，风度，风范 |
 | auslösen | v. | trigger |
 | behaupten | v. | 声称 |
-| werben | v. | 声称，鼓吹，做广告??? |
+| werben | v. | 声称，鼓吹，做广告 |
 | die Drohung | n. | threat |
 | die Aufnahme | n. | picture, recording |
 | ableiten | v. | derive |
 | der Charakterzug | n. | trait |
-| die Zielstrebigkeit | n. | 一根筋？？？ |
+| die Zielstrebigkeit | n. | 有目标的，有追求的 |
 | die Rücksichtslosigkeit | n. | 毫无顾忌，肆无忌惮 |
 | die Befindlichkeit | n. | mental state |
 | die Mimik | n. | 表情 |
@@ -371,12 +371,12 @@
 ## Sprachen kinderleicht
 
 ### Schwierige Sätze
-* Wer hat die ganze Schokolade aufgegessen? Raus mit der Sprache!
-* Ich soll noch mehr Überstunden machen! Da fehlen mir die Worte.
-* Langer Rede kurzer Sinn: Ich finde, wir sollten das Haus kaufen.
-* Gestern habe ich Henry getroffen und wir haben über Gott und die Welt geredet.
-* Sie können frei von der Leber weg sprechen. Ihre Meinung interessiert mich.
-* Sonia hat endlich den Vertrag unterschrieben. Aber ich musste mit Engelszungen auf sie einreden.
+* Wer hat die ganze Schokolade aufgegessen? Raus mit der Sprache!（你说呀你说呀，或者是，你说啊你说啊）
+* Ich soll noch mehr Überstunden machen! Da fehlen mir die Worte.（我无话可说）
+* Langer Rede kurzer Sinn: Ich finde, wir sollten das Haus kaufen. （长话短说）
+* Gestern habe ich Henry getroffen und wir haben über Gott und die Welt geredet.（瞎聊，话题什么都有，瞎扯）
+* Sie können frei von der Leber weg sprechen. Ihre Meinung interessiert mich.（frei von der Leber，不受肝脏影响，不要顾及感情，即畅所欲言）
+* Sonia hat endlich den Vertrag unterschrieben. Aber ich musste mit Engelszungen auf sie einreden.（我苦口婆心的劝她，我也费了不少口舌，einreden 劝说，Engelszunge 天使的舌头）
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -387,12 +387,12 @@
 ## Wenn zwei sich streiten, ...
 
 ### Schwierige Sätze
-* Weißt du, warum sich Raben streiten? ... und darum, wer recht hat und unrecht, und dann auch darum, wer schöner singen kann. (darum后面接wer引导的从句，是说在什么什么样的人头上吵架？)
-* Mitunter streiten sich Raben wie toll darum, wer was tun und lassen soll. (句子看不懂)
-* Raben streiten um jeden Mist. (乌鸦在每一坨屎上吵架？或是争夺每一坨屎？)
-* Niemand nimmt sich Zeit für Liebe. Nur für Streit bleibt die Zeit, die nicht ist statt zu sein wer du bist. (这样断句对吗？后面半句的语法和句意需要讲解一下)
-* Welche Stellen werden besonders betont? (那个立场变得特别强调？还是特别有压力？)
-* Der benimmt sich unmöglich. (他表现的不可思议？)
+* Weißt du, warum sich Raben streiten? ... und darum, wer recht hat und unrecht, und dann auch darum, wer schöner singen kann. (争谁有道理，谁唱歌更好听)
+* Mitunter streiten sich Raben wie toll darum, wer was tun und lassen soll. (偶尔它们也会很棒的争，谁做什么，谁放弃做什么)
+* Raben streiten um jeden Mist. (乌鸦针对无关紧要的事争吵)
+* Niemand nimmt sich Zeit für Liebe. Nur für Streit bleibt die Zeit, die nicht ist, Statt zu sein wer du bist. (没有人留时间给爱，全部在争吵，都忘了做自己)
+* Welche Stellen werden besonders betont? (那个立场/东西被特别的强调/注重)
+* Der benimmt sich unmöglich. (sich benehmen，他的举止匪夷所思，特别糟糕)
 
 ### Wörter
 | 单词 | 词性 | 意思 |
@@ -408,7 +408,7 @@
 | toben | v. | 咆哮，盛怒 |
 | betont | a. | emphasized, stressed |
 | benehmen | v. | behave, act |
-| rummerckern | v. | ??? |
+| rummeckern | v. | 到处抱怨 |
 | abblocken | v. | block |
 | nachgeben | v. | 退让 |
 | einschätzen | v. | assess, estimate |
@@ -419,12 +419,12 @@
 ## Wortschatz
 
 ### Schwierige Sätze
-* die Augen verdrehen
-* Kritik austeilen
-* Kritik einstecken
-* Kritik über an
-* sich lustig machen über
-* Rücksicht nehmen auf
+* die Augen verdrehen（翻白眼，不理解，或不屑）
+* Kritik austeilen（提出批评）
+* Kritik einstecken（接受批评）
+* Kritik über an（进行批评）
+* sich lustig machen über（嘲弄什么）
+* Rücksicht nehmen auf（顾及到，关注到）
 
 ### Wörter
 | 单词 | 词性 | 意思 |
