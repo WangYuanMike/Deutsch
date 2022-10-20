@@ -444,3 +444,6 @@
 | berücksichtigen | v. | respect, consider |
 | die Gestaltung | n. | arrangement |
 | der Verlauf | n. | course, process |
+
+## 功能动词固定搭配
+![function_verb](./%E5%8A%9F%E8%83%BD%E5%8A%A8%E8%AF%8D%E5%9B%BA%E5%AE%9A%E6%90%AD%E9%85%8D.png)
