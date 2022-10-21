@@ -278,11 +278,28 @@
 ### Schwierige Sätze
 * auf Ihrer Homepage bin ich auf Ihr Stellenaugebot aufmerksam geworden, mit dem Seie zum 1. Dezember einen Teamassistenten suchen. (bin...geworden是werden的现在完成时？)
 * Mein Vorgesetzer, Herr Maurer, ist über meinen angestrebten Arbeitsplatzwechsel informiert und gerne bereit, Auskünfte über mich zu erteilen. (erteilen的意思是下达命令？我的上级已经知道我要跳槽，他愿意给我一些建议？)
+* Sie sind künstlerisch begabt.(您有艺术天赋？)
+* Wohnraum GmbH hat sich zum Ziel gesetzt, das Unmögliche möglich zu machen. (定下了这样的目标？)
+* Wenn Sie Lust haben, mit den Kleinen Abenteuer im Wald oder im Tierpark zu erleben, geschickt im Schminken von gruseligen Masken oder zauberhaften Feengesichtern sind und sich etwas dazu verdienen möchten, rufen Sie an. (geschickt在这里是什么意思？化好妆被送去表演？Feengesichtern是什么意思？)
 
-### Wörter
 | 单词 | 词性 | 意思 |
 | --- | --- | --- |
 | die Voraussetzung | n. | 前提 |
 | angestreben | v. | seek |
 | die Auskunft | n. | information desk, advice |
 | beigefügt | a. | attached |
+| fächern | v. | diversify |
+| restaurieren | v. | restore, 修复，恢复 |
+| begabt | a. | 有天分的 |
+| der Auftrag | n. | mission, task, order |
+| Auftragsbilder | n. | ??? |
+| fertig | v. | produce, craft, manufacture |
+| vorsehen | v. | plan, provide |
+| bestehen | v. | exist, persist |
+| entfalten | v. | 发挥，施展 |
+| auf Stelzen | a. | 架空的 |
+| erarbeiten | v. | 制定出 |
+| gruslig | a. | 可怕的 |
+| ausrichten | v. | 举办 |
+| die Schminke | n. | 化妆品 |
+| zauberhaft | a. | 令人陶醉的 |
