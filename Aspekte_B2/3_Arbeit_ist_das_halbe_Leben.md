@@ -281,6 +281,11 @@
 * Sie sind künstlerisch begabt.(您有艺术天赋？)
 * Wohnraum GmbH hat sich zum Ziel gesetzt, das Unmögliche möglich zu machen. (定下了这样的目标？)
 * Wenn Sie Lust haben, mit den Kleinen Abenteuer im Wald oder im Tierpark zu erleben, geschickt im Schminken von gruseligen Masken oder zauberhaften Feengesichtern sind und sich etwas dazu verdienen möchten, rufen Sie an. (geschickt在这里是什么意思？化好妆被送去表演？Feengesichtern是什么意思？)
+* Studenten aller Fachrichtungen sind aufgerufen, Beitragsvorschläge für den Praxistag im September zu liefern. (所有学科的学生都被通知，要交九月实践课的作业？)
+* Die ersten Sekunden am Stand entscheiden, ob sich ein Kunde für die Produkte der Firma interssiert. (am Stand是何意？另外ob后面为何直接接sich？)
+* Bei der Wahl des Urlaubstermins sind die Belange des Betriebes vorrangig, soweit möglich sollen dabei aber die Wünsche des Arbeitmnehmers berücksichtigt werden. (度假的时间主要由公司决定，同时会参考个人意见？)
+* Ein Rechtanspruch auf eine Gewinnbeteiligung in Form einer jährlichen Prämie besteht nicht. Wenn eine solche gewährt wird, so handelt es sich um eine freiwillige Leistung, auf die auch bei mehrfacher Gewährung kein Rechtsanspruch besteht. Voraussetzung für die Gewährung einer Prämie ist stets, dass das Arbeitsverhältnis am Auszahlungstag weder beendet noch gekündigt ist.
+* Ist der Arbeitnehmer infolge unverschuldeter Krankheit arbitsunfähig, so besteht Anspruch auf Fortzahlung der Arbeitsvergütung bis zur Dauer von sechs Wochen nach den gesetzlichen Bestimmungen. Die Arbeitsverhinderung ist dem Arbeitgeber unverzüglich mitzuteilen. Außerdem ist vor Ablauf des 3. Kalendertags nach Beginn der Erkrankung eine ärzliche Bescheinigung über die Arbeitsunfähigkeit und deren voraussichtliche Dauer vorzulegen. 
 
 | 单词 | 词性 | 意思 |
 | --- | --- | --- |
@@ -303,3 +308,14 @@
 | ausrichten | v. | 举办 |
 | die Schminke | n. | 化妆品 |
 | zauberhaft | a. | 令人陶醉的 |
+| wagen | v. | risk, take a chance |
+| verteilen | v. | distribute |
+| shildern | v. | describe |
+| reingeschnuppert | ? | ??? |
+| scheuen | v. | shy |
+| die Ausgaben | n. | cost, investment |
+| der Aufwand | n. | effort |
+| das Verhältnis | n. | relation |
+| die Frist | n. | period |
+| die Vergütung | n. | compensation |
+| der Rechtsanspruch | n. | demand, interest |
