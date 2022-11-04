@@ -286,6 +286,7 @@
 * Bei der Wahl des Urlaubstermins sind die Belange des Betriebes vorrangig, soweit möglich sollen dabei aber die Wünsche des Arbeitmnehmers berücksichtigt werden. (度假的时间主要由公司决定，同时会参考个人意见？)
 * Ein Rechtanspruch auf eine Gewinnbeteiligung in Form einer jährlichen Prämie besteht nicht. Wenn eine solche gewährt wird, so handelt es sich um eine freiwillige Leistung, auf die auch bei mehrfacher Gewährung kein Rechtsanspruch besteht. Voraussetzung für die Gewährung einer Prämie ist stets, dass das Arbeitsverhältnis am Auszahlungstag weder beendet noch gekündigt ist.
 * Ist der Arbeitnehmer infolge unverschuldeter Krankheit arbitsunfähig, so besteht Anspruch auf Fortzahlung der Arbeitsvergütung bis zur Dauer von sechs Wochen nach den gesetzlichen Bestimmungen. Die Arbeitsverhinderung ist dem Arbeitgeber unverzüglich mitzuteilen. Außerdem ist vor Ablauf des 3. Kalendertags nach Beginn der Erkrankung eine ärzliche Bescheinigung über die Arbeitsunfähigkeit und deren voraussichtliche Dauer vorzulegen. 
+* Nach Ablauf der Probezeit beträgt die Kün digungsfrist vier Wochen zum Ende eines Kalendermonats. Jede gesetzliche Verlängerung der Kündigungsfrist zugunsten des Arbeitnehmers gilt in gleicher Weise auch zugunsten des Arbeitgebers. Die Kündigung bedarf der Schriftform. Vor Antritt des Arbeitsverhältnisses ist die Kündigung ausgeschlossen. Das Arbeitsverhältnis endet, ohne dass es einer Kündigung bedarf, mit Ablauf des Kalendermonats, in dem der Arbeitnehmer eine Vollrente wegen Alters beziehen kann.
 
 | 单词 | 词性 | 意思 |
 | --- | --- | --- |
